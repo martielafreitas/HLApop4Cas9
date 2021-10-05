@@ -1,0 +1,2629 @@
+Position;Allele;Population;Frequency;PopulationSize;EthnicOrigin
+1;HLA-A*02:01;Brazil Terena;0.208;60;Amerindian
+2;HLA-A*02:22;Brazil Terena;0.15;60;Amerindian
+3;HLA-A*24:03;Brazil Terena;0.1;60;Amerindian
+4;HLA-A*24:02;Brazil Terena;0.075;60;Amerindian
+5;HLA-A*02:19;Brazil Terena;0.017;60;Amerindian
+6;HLA-A*30:01;Brazil Terena;0.017;60;Amerindian
+7;HLA-A*02:06;Mexico Oaxaca Mixe;0.349;55;Amerindian
+8;HLA-A*02:01;Mexico Oaxaca Mixe;0.311;55;Amerindian
+9;HLA-A*31:01;Mexico Oaxaca Mixe;0.198;55;Amerindian
+10;HLA-A*24:02;Mexico Oaxaca Mixe;0.057;55;Amerindian
+11;HLA-A*01:01;Mexico Oaxaca Mixe;0.019;55;Amerindian
+12;HLA-A*68:02;Mexico Oaxaca Mixe;0.009;55;Amerindian
+13;HLA-A*02:01;Mexico Oaxaca Mixtec;0.284;103;Amerindian
+14;HLA-A*24:02;Mexico Oaxaca Mixtec;0.245;103;Amerindian
+15;HLA-A*02:06;Mexico Oaxaca Mixtec;0.216;103;Amerindian
+16;HLA-A*11:01;Mexico Oaxaca Mixtec;0.029;103;Amerindian
+17;HLA-A*02:05;Mexico Oaxaca Mixtec;0.01;103;Amerindian
+18;HLA-A*33:01;Mexico Oaxaca Mixtec;0.01;103;Amerindian
+19;HLA-A*02:01;Mexico Oaxaca Zapotec;0.284;90;Amerindian
+20;HLA-A*02:06;Mexico Oaxaca Zapotec;0.261;90;Amerindian
+21;HLA-A*24:02;Mexico Oaxaca Zapotec;0.231;90;Amerindian
+22;HLA-A*01:01;Mexico Oaxaca Zapotec;0.022;90;Amerindian
+23;HLA-A*03:01;Mexico Oaxaca Zapotec;0.007;90;Amerindian
+24;HLA-A*30:02;Mexico Oaxaca Zapotec;0.007;90;Amerindian
+25;HLA-A*32:01;Mexico Oaxaca Zapotec;0.007;90;Amerindian
+26;HLA-A*02:01;Peru Titikaka Lake Uro;0.5;105;Amerindian
+27;HLA-A*24:02;Peru Titikaka Lake Uro;0.281;105;Amerindian
+28;HLA-A*01:01;Peru Titikaka Lake Uro;0.005;105;Amerindian
+29;HLA-A*26:01;Peru Titikaka Lake Uro;0.005;105;Amerindian
+30;HLA-A*31:09;Peru Titikaka Lake Uro;0.005;105;Amerindian
+31;HLA-A*68:06;Peru Titikaka Lake Uro;0.005;105;Amerindian
+32;HLA-A*24:02;USA Alaska Yupik;0.581;252;Amerindian
+33;HLA-A*02:06;USA Alaska Yupik;0.165;252;Amerindian
+34;HLA-A*68:01;USA Alaska Yupik;0.046;252;Amerindian
+35;HLA-A*02:01;USA Alaska Yupik;0.024;252;Amerindian
+36;HLA-A*24:03;USA Alaska Yupik;0.02;252;Amerindian
+37;HLA-A*68:03;USA Alaska Yupik;0.01;252;Amerindian
+38;HLA-A*11:01;USA Alaska Yupik;0.008;252;Amerindian
+39;HLA-A*03:01;USA Alaska Yupik;0.006;252;Amerindian
+40;HLA-A*01:01;USA Alaska Yupik;0.004;252;Amerindian
+41;HLA-A*26:01;USA Alaska Yupik;0.004;252;Amerindian
+42;HLA-A*03:02;USA Alaska Yupik;0.002;252;Amerindian
+43;HLA-A*24:23;USA Alaska Yupik;0.002;252;Amerindian
+44;HLA-A*25:01;USA Alaska Yupik;0.002;252;Amerindian
+45;HLA-A*29:01;USA Alaska Yupik;0.002;252;Amerindian
+46;HLA-A*29:02;USA Alaska Yupik;0.002;252;Amerindian
+47;HLA-A*30:01;USA Alaska Yupik;0.002;252;Amerindian
+48;HLA-A*02:01;USA Arizona Gila River Amerindian;0.474;492;Amerindian
+49;HLA-A*24:02;USA Arizona Gila River Amerindian;0.341;492;Amerindian
+50;HLA-A*31:01;USA Arizona Gila River Amerindian;0.107;492;Amerindian
+51;HLA-A*02:06;USA Arizona Gila River Amerindian;0.069;492;Amerindian
+52;HLA-A*01:01;USA Arizona Gila River Amerindian;0.004;492;Amerindian
+53;HLA-A*03:01;USA Arizona Gila River Amerindian;0.002;492;Amerindian
+54;HLA-A*02:01;USA South Dakota Lakota Sioux;0.297;302;Amerindian
+55;HLA-A*24:02;USA South Dakota Lakota Sioux;0.262;302;Amerindian
+56;HLA-A*02:06;USA South Dakota Lakota Sioux;0.105;302;Amerindian
+57;HLA-A*24:23;USA South Dakota Lakota Sioux;0.056;302;Amerindian
+58;HLA-A*03:01;USA South Dakota Lakota Sioux;0.017;302;Amerindian
+59;HLA-A*01:01;USA South Dakota Lakota Sioux;0.012;302;Amerindian
+60;HLA-A*68:03;USA South Dakota Lakota Sioux;0.012;302;Amerindian
+61;HLA-A*25:01;USA South Dakota Lakota Sioux;0.007;302;Amerindian
+62;HLA-A*33:03;USA South Dakota Lakota Sioux;0.005;302;Amerindian
+63;HLA-A*68:02;USA South Dakota Lakota Sioux;0.005;302;Amerindian
+64;HLA-A*02:02;USA South Dakota Lakota Sioux;0.002;302;Amerindian
+65;HLA-A*32:01;USA South Dakota Lakota Sioux;0.002;302;Amerindian
+66;HLA-A*33:04;USA South Dakota Lakota Sioux;0.002;302;Amerindian
+1;HLA-A*30:02;Morocco Nador Metalsa pop 2;0.089;73;Arab
+2;HLA-A*23:01;Morocco Nador Metalsa pop 2;0.082;73;Arab
+3;HLA-A*33:01;Morocco Nador Metalsa pop 2;0.055;73;Arab
+4;HLA-A*68:02;Morocco Nador Metalsa pop 2;0.048;73;Arab
+5;HLA-A*03:02;Morocco Nador Metalsa pop 2;0.041;73;Arab
+6;HLA-A*32:01;Morocco Nador Metalsa pop 2;0.034;73;Arab
+7;HLA-A*34:02;Morocco Nador Metalsa pop 2;0.021;73;Arab
+8;HLA-A*66:01;Morocco Nador Metalsa pop 2;0.021;73;Arab
+9;HLA-A*30:01;Morocco Nador Metalsa pop 2;0.014;73;Arab
+10;HLA-A*74:01;Morocco Nador Metalsa pop 2;0.014;73;Arab
+11;HLA-A*26:01;Morocco Nador Metalsa pop 2;0.007;73;Arab
+12;HLA-A*30:04;Morocco Nador Metalsa pop 2;0.007;73;Arab
+13;HLA-A*02:01;Oman;0.216;118;Arab
+14;HLA-A*11:01;Oman;0.114;118;Arab
+15;HLA-A*32:01;Oman;0.114;118;Arab
+16;HLA-A*26:01;Oman;0.102;118;Arab
+17;HLA-A*01:01;Oman;0.072;118;Arab
+18;HLA-A*03:01;Oman;0.051;118;Arab
+19;HLA-A*30:02;Oman;0.042;118;Arab
+20;HLA-A*02:05;Oman;0.021;118;Arab
+21;HLA-A*33:03;Oman;0.021;118;Arab
+22;HLA-A*23:01;Oman;0.017;118;Arab
+23;HLA-A*68:02;Oman;0.017;118;Arab
+24;HLA-A*03:02;Oman;0.013;118;Arab
+25;HLA-A*30:04;Oman;0.013;118;Arab
+26;HLA-A*33:01;Oman;0.013;118;Arab
+27;HLA-A*29:02;Oman;0.008;118;Arab
+28;HLA-A*66:01;Oman;0.008;118;Arab
+29;HLA-A*02:02;Oman;0.004;118;Arab
+30;HLA-A*02:08;Oman;0.004;118;Arab
+31;HLA-A*02:14;Oman;0.004;118;Arab
+32;HLA-A*29:01;Oman;0.004;118;Arab
+33;HLA-A*36:01;Oman;0.004;118;Arab
+34;HLA-A*66:01;Saudi Arabia pop 5;0.0253;158;Arab
+35;HLA-A*02:02;Saudi Arabia pop 5;0.0158;158;Arab
+36;HLA-A*74:03;Saudi Arabia pop 5;0.0127;158;Arab
+37;HLA-A*03:02;Saudi Arabia pop 5;0.0095;158;Arab
+38;HLA-A*24:06;Saudi Arabia pop 5;0.0095;158;Arab
+39;HLA-A*01:02;Saudi Arabia pop 5;0.0063;158;Arab
+40;HLA-A*01:03;Saudi Arabia pop 5;0.0063;158;Arab
+41;HLA-A*02:36;Saudi Arabia pop 5;0.0063;158;Arab
+42;HLA-A*02:40;Saudi Arabia pop 5;0.0063;158;Arab
+43;HLA-A*02:245;Saudi Arabia pop 5;0.0063;158;Arab
+44;HLA-A*03:07;Saudi Arabia pop 5;0.0063;158;Arab
+45;HLA-A*23:04;Saudi Arabia pop 5;0.0063;158;Arab
+46;HLA-A*30:06;Saudi Arabia pop 5;0.0063;158;Arab
+47;HLA-A*31:09;Saudi Arabia pop 5;0.0063;158;Arab
+48;HLA-A*31:41;Saudi Arabia pop 5;0.0063;158;Arab
+49;HLA-A*36:04;Saudi Arabia pop 5;0.0063;158;Arab
+50;HLA-A*02:45;Saudi Arabia pop 5;0.0032;158;Arab
+51;HLA-A*02:65;Saudi Arabia pop 5;0.0032;158;Arab
+52;HLA-A*02:86;Saudi Arabia pop 5;0.0032;158;Arab
+53;HLA-A*02:152;Saudi Arabia pop 5;0.0032;158;Arab
+54;HLA-A*02:229;Saudi Arabia pop 5;0.0032;158;Arab
+55;HLA-A*02:246;Saudi Arabia pop 5;0.0032;158;Arab
+56;HLA-A*02:271;Saudi Arabia pop 5;0.0032;158;Arab
+57;HLA-A*03:18;Saudi Arabia pop 5;0.0032;158;Arab
+58;HLA-A*03:56;Saudi Arabia pop 5;0.0032;158;Arab
+59;HLA-A*03:69N;Saudi Arabia pop 5;0.0032;158;Arab
+60;HLA-A*03:103;Saudi Arabia pop 5;0.0032;158;Arab
+61;HLA-A*11:73;Saudi Arabia pop 5;0.0032;158;Arab
+62;HLA-A*23:17;Saudi Arabia pop 5;0.0032;158;Arab
+63;HLA-A*23:25;Saudi Arabia pop 5;0.0032;158;Arab
+64;HLA-A*24:07;Saudi Arabia pop 5;0.0032;158;Arab
+65;HLA-A*24:14;Saudi Arabia pop 5;0.0032;158;Arab
+66;HLA-A*24:19;Saudi Arabia pop 5;0.0032;158;Arab
+67;HLA-A*24:56;Saudi Arabia pop 5;0.0032;158;Arab
+68;HLA-A*24:92;Saudi Arabia pop 5;0.0032;158;Arab
+69;HLA-A*24:124;Saudi Arabia pop 5;0.0032;158;Arab
+70;HLA-A*26:10;Saudi Arabia pop 5;0.0032;158;Arab
+71;HLA-A*30:03;Saudi Arabia pop 5;0.0032;158;Arab
+72;HLA-A*30:25;Saudi Arabia pop 5;0.0032;158;Arab
+73;HLA-A*30:34;Saudi Arabia pop 5;0.0032;158;Arab
+74;HLA-A*31:30;Saudi Arabia pop 5;0.0032;158;Arab
+75;HLA-A*32:28;Saudi Arabia pop 5;0.0032;158;Arab
+76;HLA-A*33:10;Saudi Arabia pop 5;0.0032;158;Arab
+77;HLA-A*66:05;Saudi Arabia pop 5;0.0032;158;Arab
+78;HLA-A*68:09;Saudi Arabia pop 5;0.0032;158;Arab
+79;HLA-A*68:11N;Saudi Arabia pop 5;0.0032;158;Arab
+80;HLA-A*68:15;Saudi Arabia pop 5;0.0032;158;Arab
+81;HLA-A*68:42;Saudi Arabia pop 5;0.0032;158;Arab
+82;HLA-A*69:01;Saudi Arabia pop 5;0.0032;158;Arab
+83;HLA-A*74:13;Saudi Arabia pop 5;0.0032;158;Arab
+84;HLA-A*02:01;Tunisia;0.175;100;Arab
+85;HLA-A*01:01;Tunisia;0.112;100;Arab
+86;HLA-A*23:01;Tunisia;0.094;100;Arab
+87;HLA-A*03:01;Tunisia;0.067;100;Arab
+88;HLA-A*24:02;Tunisia;0.067;100;Arab
+89;HLA-A*29:02;Tunisia;0.067;100;Arab
+90;HLA-A*33:01;Tunisia;0.061;100;Arab
+91;HLA-A*30:02;Tunisia;0.056;100;Arab
+92;HLA-A*11:01;Tunisia;0.045;100;Arab
+93;HLA-A*30:01;Tunisia;0.041;100;Arab
+94;HLA-A*68:01;Tunisia;0.035;100;Arab
+95;HLA-A*02:05;Tunisia;0.025;100;Arab
+96;HLA-A*68:02;Tunisia;0.025;100;Arab
+97;HLA-A*32:01;Tunisia;0.015;100;Arab
+98;HLA-A*36:01;Tunisia;0.015;100;Arab
+99;HLA-A*01:02;Tunisia;0.01;100;Arab
+100;HLA-A*02:02;Tunisia;0.01;100;Arab
+ 101;HLA-A*26:01;Tunisia;0.01;100;Arab
+102;HLA-A*30:04;Tunisia;0.01;100;Arab
+103;HLA-A*80:01;Tunisia;0.01;100;Arab
+104;HLA-A*03:02;Tunisia;0.005;100;Arab
+105;HLA-A*25:01;Tunisia;0.005;100;Arab
+106;HLA-A*25:02;Tunisia;0.005;100;Arab
+107;HLA-A*29:01;Tunisia;0.005;100;Arab
+108;HLA-A*33:03;Tunisia;0.005;100;Arab
+109;HLA-A*34:02;Tunisia;0.005;100;Arab
+110;HLA-A*66:01;Tunisia;0.005;100;Arab
+111;HLA-A*69:01;Tunisia;0.005;100;Arab
+1;HLA-A*02:11;India Khandesh Region Pawra;0.16;50;Asian
+2;HLA-A*24:02;India Khandesh Region Pawra;0.16;50;Asian
+3;HLA-A*30:01;India Khandesh Region Pawra;0.06;50;Asian
+4;HLA-A*01:01;India Khandesh Region Pawra;0.05;50;Asian
+5;HLA-A*02:03;India Khandesh Region Pawra;0.05;50;Asian
+6;HLA-A*24:08;India Khandesh Region Pawra;0.05;50;Asian
+7;HLA-A*32:01;India Khandesh Region Pawra;0.03;50;Asian
+8;HLA-A*33:03;India Khandesh Region Pawra;0.03;50;Asian
+9;HLA-A*01:06;India Khandesh Region Pawra;0.01;50;Asian
+10;HLA-A*24:24;India Khandesh Region Pawra;0.01;50;Asian
+11;HLA-A*24:02;India Mumbai Maratha;0.167;91;Asian
+12;HLA-A*33:03;India Mumbai Maratha;0.13;91;Asian
+13;HLA-A*01:01;India Mumbai Maratha;0.123;91;Asian
+14;HLA-A*11:01;India Mumbai Maratha;0.123;91;Asian
+15;HLA-A*02:11;India Mumbai Maratha;0.086;91;Asian
+16;HLA-A*02:03;India Mumbai Maratha;0.037;91;Asian
+17;HLA-A*24:07;India Mumbai Maratha;0.037;91;Asian
+18;HLA-A*24:06;India Mumbai Maratha;0.025;91;Asian
+19;HLA-A*66:01;India Mumbai Maratha;0.025;91;Asian
+20;HLA-A*02:01;India Mumbai Maratha;0.019;91;Asian
+21;HLA-A*02:36;India Mumbai Maratha;0.012;91;Asian
+22;HLA-A*32:01;India Mumbai Maratha;0.006;91;Asian
+23;HLA-A*01:01;India Tamil Nadu Nadar;0.09;61;Asian
+24;HLA-A*33:03;India Tamil Nadu Nadar;0.066;61;Asian
+25;HLA-A*26:11N;India Tamil Nadu Nadar;0.016;61;Asian
+26;HLA-A*30:01;India West Coast Parsi;0.16;50;Asian
+27;HLA-A*33:03;India West Coast Parsi;0.14;50;Asian
+28;HLA-A*31:08;India West Coast Parsi;0.13;50;Asian
+29;HLA-A*01:06;India West Coast Parsi;0.08;50;Asian
+30;HLA-A*24:05;India West Coast Parsi;0.08;50;Asian
+31;HLA-A*32:01;India West Coast Parsi;0.03;50;Asian
+32;HLA-A*33:01;India West Coast Parsi;0.03;50;Asian
+33;HLA-A*03:02;India West Coast Parsi;0.02;50;Asian
+34;HLA-A*24:06;India West Coast Parsi;0.02;50;Asian
+35;HLA-A*29:01;India West Coast Parsi;0.02;50;Asian
+36;HLA-A*29:02;India West Coast Parsi;0.02;50;Asian
+37;HLA-A*32:04;India West Coast Parsi;0.02;50;Asian
+38;HLA-A*66:01;India West Coast Parsi;0.02;50;Asian
+39;HLA-A*01:01;India West Coast Parsi;0.01;50;Asian
+40;HLA-A*11:02;India West Coast Parsi;0.01;50;Asian
+41;HLA-A*24:24;India West Coast Parsi;0.01;50;Asian
+42;HLA-A*25:01;India West Coast Parsi;0.01;50;Asian
+43;HLA-A*26:01;India West Coast Parsi;0.01;50;Asian
+44;HLA-A*26:08;India West Coast Parsi;0.01;50;Asian
+45;HLA-A*26:11N;India West Coast Parsi;0.01;50;Asian
+46;HLA-A*26:14;India West Coast Parsi;0.01;50;Asian
+47;HLA-A*11:01;Pakistan Baloch;0.222;66;Asian
+48;HLA-A*33:03;Pakistan Baloch;0.127;66;Asian
+49;HLA-A*26:01;Pakistan Baloch;0.103;66;Asian
+50;HLA-A*02:01;Pakistan Baloch;0.095;66;Asian
+51;HLA-A*24:02;Pakistan Baloch;0.08;66;Asian
+52;HLA-A*32:01;Pakistan Baloch;0.071;66;Asian
+53;HLA-A*03:01;Pakistan Baloch;0.063;66;Asian
+54;HLA-A*30:02;Pakistan Baloch;0.04;66;Asian
+55;HLA-A*30:01;Pakistan Baloch;0.032;66;Asian
+56;HLA-A*01:01;Pakistan Baloch;0.03;66;Asian
+57;HLA-A*33:01;Pakistan Baloch;0.024;66;Asian
+58;HLA-A*68:01;Pakistan Baloch;0.024;66;Asian
+59;HLA-A*02:06;Pakistan Baloch;0.016;66;Asian
+60;HLA-A*02:11;Pakistan Baloch;0.016;66;Asian
+61;HLA-A*03:02;Pakistan Baloch;0.016;66;Asian
+62;HLA-A*68:02;Pakistan Baloch;0.016;66;Asian
+63;HLA-A*02:03;Pakistan Baloch;0.008;66;Asian
+64;HLA-A*24:03;Pakistan Baloch;0.008;66;Asian
+65;HLA-A*29:01;Pakistan Baloch;0.008;66;Asian
+66;HLA-A*69:01;Pakistan Baloch;0.008;66;Asian
+67;HLA-A*11:01;Pakistan Brahui;0.252;104;Asian
+68;HLA-A*02:01;Pakistan Brahui;0.115;104;Asian
+69;HLA-A*32:01;Pakistan Brahui;0.092;104;Asian
+70;HLA-A*26:01;Pakistan Brahui;0.08;104;Asian
+71;HLA-A*33:03;Pakistan Brahui;0.08;104;Asian
+72;HLA-A*01:01;Pakistan Brahui;0.063;104;Asian
+73;HLA-A*03:01;Pakistan Brahui;0.046;104;Asian
+74;HLA-A*24:02;Pakistan Brahui;0.04;104;Asian
+75;HLA-A*30:02;Pakistan Brahui;0.034;104;Asian
+76;HLA-A*02:02;Pakistan Brahui;0.023;104;Asian
+77;HLA-A*02:06;Pakistan Brahui;0.023;104;Asian
+78;HLA-A*02:11;Pakistan Brahui;0.023;104;Asian
+79;HLA-A*29:01;Pakistan Brahui;0.017;104;Asian
+80;HLA-A*30:01;Pakistan Brahui;0.011;104;Asian
+81;HLA-A*02:05;Pakistan Brahui;0.006;104;Asian
+82;HLA-A*26:02;Pakistan Brahui;0.006;104;Asian
+83;HLA-A*66:01;Pakistan Brahui;0.006;104;Asian
+84;HLA-A*02:06;Pakistan Kalash;0.216;69;Asian
+85;HLA-A*02:01;Pakistan Kalash;0.158;69;Asian
+86;HLA-A*30:01;Pakistan Kalash;0.092;69;Asian
+87;HLA-A*03:01;Pakistan Kalash;0.075;69;Asian
+88;HLA-A*24:02;Pakistan Kalash;0.075;69;Asian
+89;HLA-A*32:01;Pakistan Kalash;0.075;69;Asian
+90;HLA-A*33:03;Pakistan Kalash;0.058;69;Asian
+91;HLA-A*68:02;Pakistan Kalash;0.033;69;Asian
+92;HLA-A*02:09;Pakistan Kalash;0.025;69;Asian
+93;HLA-A*03:02;Pakistan Kalash;0.017;69;Asian
+94;HLA-A*26:01;Pakistan Kalash;0.017;69;Asian
+95;HLA-A*33:01;Pakistan Kalash;0.017;69;Asian
+96;HLA-A*11:01;Pakistan Kalash;0.008;69;Asian
+97;HLA-A*30:01;Pakistan Karachi Parsi;0.139;91;Asian
+98;HLA-A*11:01;Pakistan Karachi Parsi;0.128;91;Asian
+99;HLA-A*33:01;Pakistan Karachi Parsi;0.122;91;Asian
+100;HLA-A*01:01;Pakistan Karachi Parsi;0.083;91;Asian
+101;HLA-A*26:01;Pakistan Karachi Parsi;0.083;91;Asian
+102;HLA-A*32:01;Pakistan Karachi Parsi;0.078;91;Asian
+103;HLA-A*33:03;Pakistan Karachi Parsi;0.067;91;Asian
+104;HLA-A*24:02;Pakistan Karachi Parsi;0.044;91;Asian
+105;HLA-A*29:01;Pakistan Karachi Parsi;0.044;91;Asian
+106;HLA-A*29:02;Pakistan Karachi Parsi;0.044;91;Asian
+107;HLA-A*02:01;Pakistan Karachi Parsi;0.028;91;Asian
+108;HLA-A*03:02;Pakistan Karachi Parsi;0.028;91;Asian
+109;HLA-A*02:02;Pakistan Karachi Parsi;0.017;91;Asian
+110;HLA-A*02:06;Pakistan Karachi Parsi;0.011;91;Asian
+111;HLA-A*03:01;Pakistan Karachi Parsi;0.011;91;Asian
+112;HLA-A*30:04;Pakistan Karachi Parsi;0.011;91;Asian
+113;HLA-A*66:01;Pakistan Karachi Parsi;0.011;91;Asian
+114;HLA-A*02:05;Pakistan Karachi Parsi;0.006;91;Asian
+115;HLA-A*24:07;Pakistan Karachi Parsi;0.006;91;Asian
+116;HLA-A*43:01;Pakistan Karachi Parsi;0.006;91;Asian
+117;HLA-A*24:02;USA Asian pop 2;0.1824;1772;Asian
+118;HLA-A*11:01;USA Asian pop 2;0.179;1772;Asian
+119;HLA-A*02:01;USA Asian pop 2;0.0946;1772;Asian
+120;HLA-A*33:03;USA Asian pop 2;0.0943;1772;Asian
+121;HLA-A*01:01;USA Asian pop 2;0.0508;1772;Asian
+122;HLA-A*02:06;USA Asian pop 2;0.0483;1772;Asian
+123;HLA-A*02:07;USA Asian pop 2;0.0438;1772;Asian
+124;HLA-A*26:01;USA Asian pop 2;0.039;1772;Asian
+125;HLA-A*31:01;USA Asian pop 2;0.0325;1772;Asian
+126;HLA-A*02:03;USA Asian pop 2;0.0316;1772;Asian
+127;HLA-A*03:01;USA Asian pop 2;0.026;1772;Asian
+128;HLA-A*30:01;USA Asian pop 2;0.0206;1772;Asian
+129;HLA-A*68:01;USA Asian pop 2;0.0186;1772;Asian
+130;HLA-A*24:07;USA Asian pop 2;0.0178;1772;Asian
+131;HLA-A*34:01;USA Asian pop 2;0.0158;1772;Asian
+132;HLA-A*11:02;USA Asian pop 2;0.0153;1772;Asian
+133;HLA-A*29:01;USA Asian pop 2;0.0144;1772;Asian
+134;HLA-A*32:01;USA Asian pop 2;0.013;1772;Asian
+135;HLA-A*02:11;USA Asian pop 2;0.0116;1772;Asian
+136;HLA-A*26:02;USA Asian pop 2;0.0073;1772;Asian
+137;HLA-A*24:03;USA Asian pop 2;0.0057;1772;Asian
+138;HLA-A*03:02;USA Asian pop 2;0.0054;1772;Asian
+139;HLA-A*24:17;USA Asian pop 2;0.0042;1772;Asian
+140;HLA-A*02:05;USA Asian pop 2;0.0034;1772;Asian
+141;HLA-A*30:04;USA Asian pop 2;0.0034;1772;Asian
+142;HLA-A*24:10;USA Asian pop 2;0.0025;1772;Asian
+143;HLA-A*23:01;USA Asian pop 2;0.0023;1772;Asian
+144;HLA-A*24:20;USA Asian pop 2;0.0017;1772;Asian
+145;HLA-A*26:03;USA Asian pop 2;0.0014;1772;Asian
+146;HLA-A*29:02;USA Asian pop 2;0.0014;1772;Asian
+147;HLA-A*34:05;USA Asian pop 2;0.0014;1772;Asian
+148;HLA-A*69:01;USA Asian pop 2;0.0014;1772;Asian
+149;HLA-A*02:16;USA Asian pop 2;0.0011;1772;Asian
+150;HLA-A*33:01;USA Asian pop 2;0.0011;1772;Asian
+151;HLA-A*74:01;USA Asian pop 2;0.0011;1772;Asian
+152;HLA-A*02:10;USA Asian pop 2;9e-04;1772;Asian
+153;HLA-A*02:20;USA Asian pop 2;6e-04;1772;Asian
+154;HLA-A*24:08;USA Asian pop 2;6e-04;1772;Asian
+155;HLA-A*25:01;USA Asian pop 2;6e-04;1772;Asian
+156;HLA-A*30:02;USA Asian pop 2;6e-04;1772;Asian
+157;HLA-A*02:02;USA Asian pop 2;3e-04;1772;Asian
+158;HLA-A*02:42;USA Asian pop 2;3e-04;1772;Asian
+159;HLA-A*02:53N;USA Asian pop 2;3e-04;1772;Asian
+160;HLA-A*11:03;USA Asian pop 2;3e-04;1772;Asian
+161;HLA-A*11:19;USA Asian pop 2;3e-04;1772;Asian
+162;HLA-A*31:12;USA Asian pop 2;3e-04;1772;Asian
+163;HLA-A*34:02;USA Asian pop 2;3e-04;1772;Asian
+164;HLA-A*66:01;USA Asian pop 2;3e-04;1772;Asian
+165;HLA-A*68:02;USA Asian pop 2;3e-04;1772;Asian
+166;HLA-A*68:03;USA Asian pop 2;3e-04;1772;Asian
+1;HLA-A*34:01;Australia Cape York Peninsula Aborigine;0.291;103;Aust.Aboriginal
+2;HLA-A*24:02;Australia Cape York Peninsula Aborigine;0.223;103;Aust.Aboriginal
+3;HLA-A*11:01;Australia Cape York Peninsula Aborigine;0.18;103;Aust.Aboriginal
+4;HLA-A*02:01;Australia Cape York Peninsula Aborigine;0.175;103;Aust.Aboriginal
+5;HLA-A*01:01;Australia Cape York Peninsula Aborigine;0.053;103;Aust.Aboriginal
+6;HLA-A*03:01;Australia Cape York Peninsula Aborigine;0.044;103;Aust.Aboriginal
+7;HLA-A*32:01;Australia Cape York Peninsula Aborigine;0.019;103;Aust.Aboriginal
+8;HLA-A*68:01;Australia Cape York Peninsula Aborigine;0.005;103;Aust.Aboriginal
+9;HLA-A*34:01;Australia Groote Eylandt Aborigine;0.32;75;Aust.Aboriginal
+10;HLA-A*24:02;Australia Groote Eylandt Aborigine;0.293;75;Aust.Aboriginal
+11;HLA-A*11:01;Australia Groote Eylandt Aborigine;0.24;75;Aust.Aboriginal
+12;HLA-A*02:01;Australia Groote Eylandt Aborigine;0.107;75;Aust.Aboriginal
+13;HLA-A*01:01;Australia Groote Eylandt Aborigine;0.027;75;Aust.Aboriginal
+14;HLA-A*32:01;Australia Groote Eylandt Aborigine;0.007;75;Aust.Aboriginal
+15;HLA-A*34:01;Australia Yuendumu Aborigine;0.44;191;Aust.Aboriginal
+16;HLA-A*24:02;Australia Yuendumu Aborigine;0.298;191;Aust.Aboriginal
+17;HLA-A*02:01;Australia Yuendumu Aborigine;0.113;191;Aust.Aboriginal
+18;HLA-A*11:01;Australia Yuendumu Aborigine;0.076;191;Aust.Aboriginal
+19;HLA-A*24:13;Australia Yuendumu Aborigine;0.018;191;Aust.Aboriginal
+20;HLA-A*24:06;Australia Yuendumu Aborigine;0.013;191;Aust.Aboriginal
+21;HLA-A*01:01;Australia Yuendumu Aborigine;0.008;191;Aust.Aboriginal
+22;HLA-A*03:01;Australia Yuendumu Aborigine;0.003;191;Aust.Aboriginal
+23;HLA-A*32:01;Australia Yuendumu Aborigine;0.003;191;Aust.Aboriginal
+1;HLA-A*24:07;Indonesia Java Western;0.222;236;Austronesian
+2;HLA-A*11:01;Indonesia Java Western;0.164;236;Austronesian
+3;HLA-A*33:03;Indonesia Java Western;0.162;236;Austronesian
+4;HLA-A*24:02;Indonesia Java Western;0.139;236;Austronesian
+5;HLA-A*34:01;Indonesia Java Western;0.073;236;Austronesian
+6;HLA-A*02:01;Indonesia Java Western;0.066;236;Austronesian
+7;HLA-A*02:03;Indonesia Java Western;0.037;236;Austronesian
+8;HLA-A*02:06;Indonesia Java Western;0.035;236;Austronesian
+9;HLA-A*01:01;Indonesia Java Western;0.026;236;Austronesian
+10;HLA-A*03:01;Indonesia Java Western;0.024;236;Austronesian
+11;HLA-A*24:10;Indonesia Java Western;0.017;236;Austronesian
+12;HLA-A*26:01;Indonesia Java Western;0.011;236;Austronesian
+13;HLA-A*29:01;Indonesia Java Western;0.011;236;Austronesian
+14;HLA-A*30:01;Indonesia Java Western;0.011;236;Austronesian
+15;HLA-A*24:07;Indonesia Sundanese and Javanese;0.207;201;Austronesian
+16;HLA-A*34:01;Indonesia Sundanese and Javanese;0.067;201;Austronesian
+17;HLA-A*24:10;Indonesia Sundanese and Javanese;0.015;201;Austronesian
+18;HLA-A*32:01;Indonesia Sundanese and Javanese;0.005;201;Austronesian
+19;HLA-A*11:04;Indonesia Sundanese and Javanese;0.003;201;Austronesian
+20;HLA-A*74:01;Indonesia Sundanese and Javanese;0.003;201;Austronesian
+1;HLA-A*23:01;Cameroon Beti;0.135;174;Black
+2;HLA-A*02:01;Cameroon Beti;0.112;174;Black
+3;HLA-A*30:02;Cameroon Beti;0.095;174;Black
+4;HLA-A*03:01;Cameroon Beti;0.086;174;Black
+5;HLA-A*74:01;Cameroon Beti;0.083;174;Black
+6;HLA-A*29:02;Cameroon Beti;0.063;174;Black
+7;HLA-A*02:02;Cameroon Beti;0.06;174;Black
+8;HLA-A*66:01;Cameroon Beti;0.046;174;Black
+9;HLA-A*30:01;Cameroon Beti;0.04;174;Black
+10;HLA-A*36:01;Cameroon Beti;0.037;174;Black
+11;HLA-A*34:02;Cameroon Beti;0.032;174;Black
+12;HLA-A*68:01;Cameroon Beti;0.032;174;Black
+13;HLA-A*68:02;Cameroon Beti;0.032;174;Black
+14;HLA-A*33:03;Cameroon Beti;0.023;174;Black
+15;HLA-A*26:01;Cameroon Beti;0.02;174;Black
+16;HLA-A*26:12;Cameroon Beti;0.02;174;Black
+17;HLA-A*32:01;Cameroon Beti;0.02;174;Black
+18;HLA-A*01:01;Cameroon Beti;0.011;174;Black
+19;HLA-A*02:05;Cameroon Beti;0.011;174;Black
+20;HLA-A*30:04;Cameroon Beti;0.009;174;Black
+21;HLA-A*66:02;Cameroon Beti;0.009;174;Black
+22;HLA-A*80:01;Cameroon Beti;0.006;174;Black
+23;HLA-A*01:02;Cameroon Beti;0.003;174;Black
+24;HLA-A*24:02;Cameroon Beti;0.003;174;Black
+25;HLA-A*25:01;Cameroon Beti;0.003;174;Black
+26;HLA-A*33:01;Cameroon Beti;0.003;174;Black
+27;HLA-A*23:01;Cameroon Yaounde;0.187;92;Black
+28;HLA-A*29:02;Cameroon Yaounde;0.104;92;Black
+29;HLA-A*02:02;Cameroon Yaounde;0.082;92;Black
+30;HLA-A*02:01;Cameroon Yaounde;0.071;92;Black
+31;HLA-A*30:02;Cameroon Yaounde;0.06;92;Black
+32;HLA-A*66:01;Cameroon Yaounde;0.06;92;Black
+33;HLA-A*30:01;Cameroon Yaounde;0.055;92;Black
+34;HLA-A*74:01;Cameroon Yaounde;0.05;92;Black
+35;HLA-A*33:03;Cameroon Yaounde;0.028;92;Black
+36;HLA-A*68:02;Cameroon Yaounde;0.028;92;Black
+37;HLA-A*02:05;Cameroon Yaounde;0.022;92;Black
+38;HLA-A*34:02;Cameroon Yaounde;0.022;92;Black
+39;HLA-A*36:01;Cameroon Yaounde;0.022;92;Black
+40;HLA-A*26:01;Cameroon Yaounde;0.017;92;Black
+41;HLA-A*01:01;Cameroon Yaounde;0.011;92;Black
+42;HLA-A*30:03;Cameroon Yaounde;0.011;92;Black
+43;HLA-A*30:04;Cameroon Yaounde;0.011;92;Black
+44;HLA-A*32:01;Cameroon Yaounde;0.011;92;Black
+45;HLA-A*66:02;Cameroon Yaounde;0.011;92;Black
+46;HLA-A*02:04;Cameroon Yaounde;0.006;92;Black
+47;HLA-A*02:11;Cameroon Yaounde;0.006;92;Black
+48;HLA-A*02:14;Cameroon Yaounde;0.006;92;Black
+49;HLA-A*26:12;Cameroon Yaounde;0.006;92;Black
+50;HLA-A*30:06;Cameroon Yaounde;0.006;92;Black
+51;HLA-A*68:01;Cameroon Yaounde;0.006;92;Black
+52;HLA-A*69:01;Cameroon Yaounde;0.006;92;Black
+53;HLA-A*24:02;Cameroon Yaounde;0.005;92;Black
+54;HLA-A*30:02;Cape Verde Northwestern Islands;0.121;62;Black
+55;HLA-A*23:01;Cape Verde Northwestern Islands;0.081;62;Black
+56;HLA-A*30:01;Cape Verde Northwestern Islands;0.056;62;Black
+57;HLA-A*24:02;Cape Verde Northwestern Islands;0.048;62;Black
+58;HLA-A*26:01;Cape Verde Northwestern Islands;0.048;62;Black
+59;HLA-A*32:01;Cape Verde Northwestern Islands;0.048;62;Black
+60;HLA-A*69:01;Cape Verde Northwestern Islands;0.04;62;Black
+61;HLA-A*33:01;Cape Verde Northwestern Islands;0.032;62;Black
+62;HLA-A*33:03;Cape Verde Northwestern Islands;0.024;62;Black
+63;HLA-A*66:01;Cape Verde Northwestern Islands;0.024;62;Black
+64;HLA-A*29:02;Cape Verde Northwestern Islands;0.016;62;Black
+65;HLA-A*02:02;Cape Verde Northwestern Islands;0.008;62;Black
+66;HLA-A*26:08;Cape Verde Northwestern Islands;0.008;62;Black
+67;HLA-A*68:02;Cape Verde Northwestern Islands;0.008;62;Black
+68;HLA-A*23:01;Cape Verde Southeastern Islands;0.148;62;Black
+69;HLA-A*24:02;Cape Verde Southeastern Islands;0.089;62;Black
+70;HLA-A*30:02;Cape Verde Southeastern Islands;0.065;62;Black
+71;HLA-A*74:01;Cape Verde Southeastern Islands;0.056;62;Black
+72;HLA-A*29:02;Cape Verde Southeastern Islands;0.048;62;Black
+73;HLA-A*68:02;Cape Verde Southeastern Islands;0.048;62;Black
+74;HLA-A*32:01;Cape Verde Southeastern Islands;0.04;62;Black
+75;HLA-A*33:03;Cape Verde Southeastern Islands;0.04;62;Black
+76;HLA-A*26:01;Cape Verde Southeastern Islands;0.032;62;Black
+77;HLA-A*30:01;Cape Verde Southeastern Islands;0.032;62;Black
+78;HLA-A*02:02;Cape Verde Southeastern Islands;0.024;62;Black
+79;HLA-A*69:01;Cape Verde Southeastern Islands;0.024;62;Black
+80;HLA-A*01:02;Cape Verde Southeastern Islands;0.016;62;Black
+81;HLA-A*02:05;Cape Verde Southeastern Islands;0.008;62;Black
+82;HLA-A*02:17;Cape Verde Southeastern Islands;0.008;62;Black
+83;HLA-A*33:01;Cape Verde Southeastern Islands;0.008;62;Black
+84;HLA-A*34:02;Cape Verde Southeastern Islands;0.008;62;Black
+85;HLA-A*66:01;Cape Verde Southeastern Islands;0.008;62;Black
+86;HLA-A*68:15;Cape Verde Southeastern Islands;0.008;62;Black
+87;HLA-A*80:01;Cape Verde Southeastern Islands;0.008;62;Black
+88;HLA-A*23:01;Ghana Ga-Adangbe;0.1756;131;Black
+89;HLA-A*30:01;Ghana Ga-Adangbe;0.1107;131;Black
+90;HLA-A*02:01;Ghana Ga-Adangbe;0.1069;131;Black
+91;HLA-A*03:01;Ghana Ga-Adangbe;0.0954;131;Black
+92;HLA-A*68:02;Ghana Ga-Adangbe;0.0802;131;Black
+93;HLA-A*30:02;Ghana Ga-Adangbe;0.0725;131;Black
+94;HLA-A*02:02;Ghana Ga-Adangbe;0.0649;131;Black
+95;HLA-A*74:01;Ghana Ga-Adangbe;0.0534;131;Black
+96;HLA-A*33:01;Ghana Ga-Adangbe;0.0382;131;Black
+97;HLA-A*80:01;Ghana Ga-Adangbe;0.0382;131;Black
+98;HLA-A*68:01;Ghana Ga-Adangbe;0.0382;131;Black
+99;HLA-A*34:02;Ghana Ga-Adangbe;0.0267;131;Black
+100;HLA-A*01:01;Ghana Ga-Adangbe;0.0229;131;Black
+101;HLA-A*29:01;Ghana Ga-Adangbe;0.0191;131;Black
+102;HLA-A*02:05;Ghana Ga-Adangbe;0.0153;131;Black
+103;HLA-A*23:04;Ghana Ga-Adangbe;0.0076;131;Black
+104;HLA-A*36:01;Ghana Ga-Adangbe;0.0076;131;Black
+105;HLA-A*66:01;Ghana Ga-Adangbe;0.0076;131;Black
+106;HLA-A*02:06;Ghana Ga-Adangbe;0.0038;131;Black
+107;HLA-A*02:25;Ghana Ga-Adangbe;0.0038;131;Black
+108;HLA-A*26:01;Ghana Ga-Adangbe;0.0038;131;Black
+109;HLA-A*31:01;Ghana Ga-Adangbe;0.0038;131;Black
+110;HLA-A*66:03;Ghana Ga-Adangbe;0.0038;131;Black
+111;HLA-A*23:01;Guinea Bissau;0.156;65;Black
+112;HLA-A*33:03;Guinea Bissau;0.085;65;Black
+113;HLA-A*74:01;Guinea Bissau;0.077;65;Black
+114;HLA-A*02:02;Guinea Bissau;0.062;65;Black
+115;HLA-A*34:02;Guinea Bissau;0.054;65;Black
+116;HLA-A*33:01;Guinea Bissau;0.046;65;Black
+117;HLA-A*30:01;Guinea Bissau;0.038;65;Black
+118;HLA-A*32:01;Guinea Bissau;0.038;65;Black
+119;HLA-A*26:01;Guinea Bissau;0.031;65;Black
+120;HLA-A*30:02;Guinea Bissau;0.031;65;Black
+121;HLA-A*68:02;Guinea Bissau;0.023;65;Black
+122;HLA-A*24:02;Guinea Bissau;0.015;65;Black
+123;HLA-A*29:02;Guinea Bissau;0.015;65;Black
+124;HLA-A*66:01;Guinea Bissau;0.015;65;Black
+125;HLA-A*01:02;Guinea Bissau;0.008;65;Black
+126;HLA-A*80:01;Guinea Bissau;0.008;65;Black
+127;HLA-A*02:01;Kenya Luo;0.115;265;Black
+128;HLA-A*23:01;Kenya Luo;0.089;265;Black
+129;HLA-A*68:02;Kenya Luo;0.076;265;Black
+130;HLA-A*01:01;Kenya Luo;0.074;265;Black
+131;HLA-A*74:01;Kenya Luo;0.072;265;Black
+132;HLA-A*66:01;Kenya Luo;0.068;265;Black
+133;HLA-A*30:01;Kenya Luo;0.064;265;Black
+134;HLA-A*30:02;Kenya Luo;0.059;265;Black
+135;HLA-A*29:02;Kenya Luo;0.053;265;Black
+136;HLA-A*03:01;Kenya Luo;0.036;265;Black
+137;HLA-A*02:02;Kenya Luo;0.03;265;Black
+138;HLA-A*36:01;Kenya Luo;0.03;265;Black
+139;HLA-A*74:03;Kenya Luo;0.028;265;Black
+140;HLA-A*02:05;Kenya Luo;0.026;265;Black
+141;HLA-A*32:01;Kenya Luo;0.026;265;Black
+142;HLA-A*34:02;Kenya Luo;0.026;265;Black
+143;HLA-A*02:14;Kenya Luo;0.015;265;Black
+144;HLA-A*68:01;Kenya Luo;0.015;265;Black
+145;HLA-A*30:04;Kenya Luo;0.013;265;Black
+146;HLA-A*33:01;Kenya Luo;0.013;265;Black
+147;HLA-A*29:01;Kenya Luo;0.011;265;Black
+148;HLA-A*33:03;Kenya Luo;0.009;265;Black
+149;HLA-A*66:02;Kenya Luo;0.009;265;Black
+150;HLA-A*31:03;Kenya Luo;0.008;265;Black
+151;HLA-A*24:02;Kenya Luo;0.006;265;Black
+152;HLA-A*26:01;Kenya Luo;0.006;265;Black
+153;HLA-A*01:02;Kenya Luo;0.004;265;Black
+154;HLA-A*02:25;Kenya Luo;0.004;265;Black
+155;HLA-A*26:12;Kenya Luo;0.002;265;Black
+156;HLA-A*01:01;Kenya Nandi;0.118;240;Black
+157;HLA-A*02:01;Kenya Nandi;0.118;240;Black
+158;HLA-A*68:02;Kenya Nandi;0.116;240;Black
+159;HLA-A*02:05;Kenya Nandi;0.087;240;Black
+160;HLA-A*23:01;Kenya Nandi;0.071;240;Black
+161;HLA-A*02:02;Kenya Nandi;0.066;240;Black
+162;HLA-A*34:02;Kenya Nandi;0.05;240;Black
+163;HLA-A*66:01;Kenya Nandi;0.05;240;Black
+164;HLA-A*29:02;Kenya Nandi;0.048;240;Black
+165;HLA-A*30:01;Kenya Nandi;0.048;240;Black
+166;HLA-A*30:02;Kenya Nandi;0.037;240;Black
+167;HLA-A*03:01;Kenya Nandi;0.031;240;Black
+168;HLA-A*01:02;Kenya Nandi;0.027;240;Black
+169;HLA-A*32:01;Kenya Nandi;0.019;240;Black
+170;HLA-A*01:03;Kenya Nandi;0.017;240;Black
+171;HLA-A*74:01;Kenya Nandi;0.017;240;Black
+172;HLA-A*29:01;Kenya Nandi;0.013;240;Black
+173;HLA-A*36:01;Kenya Nandi;0.013;240;Black
+174;HLA-A*24:02;Kenya Nandi;0.01;240;Black
+175;HLA-A*02:14;Kenya Nandi;0.008;240;Black
+176;HLA-A*26:01;Kenya Nandi;0.008;240;Black
+177;HLA-A*31:03;Kenya Nandi;0.006;240;Black
+178;HLA-A*68:01;Kenya Nandi;0.006;240;Black
+179;HLA-A*30:04;Kenya Nandi;0.004;240;Black
+180;HLA-A*66:02;Kenya Nandi;0.004;240;Black
+181;HLA-A*33:01;Kenya Nandi;0.002;240;Black
+182;HLA-A*33:03;Kenya Nandi;0.002;240;Black
+183;HLA-A*23:01;Mali Bandiagara;0.228;138;Black
+184;HLA-A*30:01;Mali Bandiagara;0.141;138;Black
+185;HLA-A*33:03;Mali Bandiagara;0.094;138;Black
+186;HLA-A*02:01;Mali Bandiagara;0.083;138;Black
+187;HLA-A*02:02;Mali Bandiagara;0.076;138;Black
+188;HLA-A*68:02;Mali Bandiagara;0.062;138;Black
+189;HLA-A*03:01;Mali Bandiagara;0.044;138;Black
+190;HLA-A*34:02;Mali Bandiagara;0.036;138;Black
+191;HLA-A*68:01;Mali Bandiagara;0.036;138;Black
+192;HLA-A*74:01;Mali Bandiagara;0.036;138;Black
+193;HLA-A*30:02;Mali Bandiagara;0.034;138;Black
+194;HLA-A*29:02;Mali Bandiagara;0.033;138;Black
+195;HLA-A*02:05;Mali Bandiagara;0.022;138;Black
+196;HLA-A*33:01;Mali Bandiagara;0.018;138;Black
+197;HLA-A*80:01;Mali Bandiagara;0.015;138;Black
+198;HLA-A*01:02;Mali Bandiagara;0.011;138;Black
+199;HLA-A*01:01;Mali Bandiagara;0.007;138;Black
+200;HLA-A*32:01;Mali Bandiagara;0.007;138;Black
+201;HLA-A*02:17;Mali Bandiagara;0.004;138;Black
+202;HLA-A*24:06;Mali Bandiagara;0.004;138;Black
+203;HLA-A*24:13;Mali Bandiagara;0.004;138;Black
+204;HLA-A*02:01;Sao Tome Island Forro;0.128;66;Black
+205;HLA-A*23:01;Sao Tome Island Forro;0.128;66;Black
+206;HLA-A*68:02;Sao Tome Island Forro;0.128;66;Black
+207;HLA-A*03:01;Sao Tome Island Forro;0.06;66;Black
+208;HLA-A*30:01;Sao Tome Island Forro;0.06;66;Black
+209;HLA-A*02:02;Sao Tome Island Forro;0.045;66;Black
+210;HLA-A*33:03;Sao Tome Island Forro;0.045;66;Black
+211;HLA-A*02:05;Sao Tome Island Forro;0.038;66;Black
+212;HLA-A*34:02;Sao Tome Island Forro;0.038;66;Black
+213;HLA-A*68:01;Sao Tome Island Forro;0.038;66;Black
+214;HLA-A*01:01;Sao Tome Island Forro;0.03;66;Black
+215;HLA-A*29:02;Sao Tome Island Forro;0.03;66;Black
+216;HLA-A*36:01;Sao Tome Island Forro;0.03;66;Black
+217;HLA-A*74:01;Sao Tome Island Forro;0.03;66;Black
+218;HLA-A*30:04;Sao Tome Island Forro;0.023;66;Black
+219;HLA-A*31:01;Sao Tome Island Forro;0.023;66;Black
+220;HLA-A*33:01;Sao Tome Island Forro;0.023;66;Black
+221;HLA-A*24:02;Sao Tome Island Forro;0.015;66;Black
+222;HLA-A*02:17;Sao Tome Island Forro;0.008;66;Black
+223;HLA-A*23:04;Sao Tome Island Forro;0.008;66;Black
+224;HLA-A*23:05;Sao Tome Island Forro;0.008;66;Black
+225;HLA-A*26:01;Sao Tome Island Forro;0.008;66;Black
+226;HLA-A*29:01;Sao Tome Island Forro;0.008;66;Black
+227;HLA-A*30:02;Sao Tome Island Forro;0.008;66;Black
+228;HLA-A*32:01;Sao Tome Island Forro;0.008;66;Black
+229;HLA-A*66:01;Sao Tome Island Forro;0.008;66;Black
+230;HLA-A*66:02;Sao Tome Island Forro;0.008;66;Black
+231;HLA-A*69:01;Sao Tome Island Forro;0.008;66;Black
+232;HLA-A*80:01;Sao Tome Island Forro;0.008;66;Black
+233;HLA-A*23:01;Senegal Niokholo Mandenka;0.177;165;Black
+234;HLA-A*30:02;Senegal Niokholo Mandenka;0.124;165;Black
+235;HLA-A*02:02;Senegal Niokholo Mandenka;0.091;165;Black
+236;HLA-A*02:01;Senegal Niokholo Mandenka;0.081;165;Black
+237;HLA-A*33:03;Senegal Niokholo Mandenka;0.081;165;Black
+238;HLA-A*68:01;Senegal Niokholo Mandenka;0.07;165;Black
+239;HLA-A*26:01;Senegal Niokholo Mandenka;0.043;165;Black
+240;HLA-A*03:01;Senegal Niokholo Mandenka;0.038;165;Black
+241;HLA-A*29:02;Senegal Niokholo Mandenka;0.038;165;Black
+242;HLA-A*30:01;Senegal Niokholo Mandenka;0.038;165;Black
+243;HLA-A*80:01;Senegal Niokholo Mandenka;0.038;165;Black
+244;HLA-A*01:01;Senegal Niokholo Mandenka;0.027;165;Black
+245;HLA-A*33:01;Senegal Niokholo Mandenka;0.027;165;Black
+246;HLA-A*34:02;Senegal Niokholo Mandenka;0.022;165;Black
+247;HLA-A*74:01;Senegal Niokholo Mandenka;0.022;165;Black
+248;HLA-A*01:02;Senegal Niokholo Mandenka;0.016;165;Black
+249;HLA-A*68:02;Senegal Niokholo Mandenka;0.016;165;Black
+250;HLA-A*02:05;Senegal Niokholo Mandenka;0.011;165;Black
+251;HLA-A*32:01;Senegal Niokholo Mandenka;0.011;165;Black
+252;HLA-A*02:06;Senegal Niokholo Mandenka;0.005;165;Black
+253;HLA-A*24:02;Senegal Niokholo Mandenka;0.005;165;Black
+254;HLA-A*30:08;Senegal Niokholo Mandenka;0.005;165;Black
+255;HLA-A*66:02;Senegal Niokholo Mandenka;0.005;165;Black
+256;HLA-A*68:04;Senegal Niokholo Mandenka;0.005;165;Black
+257;HLA-A*02:01;Uganda Kampala;0.184;161;Black
+258;HLA-A*01:01;Uganda Kampala;0.083;161;Black
+259;HLA-A*23:01;Uganda Kampala;0.068;161;Black
+260;HLA-A*03:01;Uganda Kampala;0.055;161;Black
+261;HLA-A*68:02;Uganda Kampala;0.052;161;Black
+262;HLA-A*74:01;Uganda Kampala;0.052;161;Black
+263;HLA-A*11:01;Uganda Kampala;0.043;161;Black
+264;HLA-A*24:02;Uganda Kampala;0.043;161;Black
+265;HLA-A*30:02;Uganda Kampala;0.04;161;Black
+266;HLA-A*02:02;Uganda Kampala;0.034;161;Black
+267;HLA-A*29:02;Uganda Kampala;0.031;161;Black
+268;HLA-A*30:01;Uganda Kampala;0.031;161;Black
+269;HLA-A*33:03;Uganda Kampala;0.031;161;Black
+270;HLA-A*34:02;Uganda Kampala;0.028;161;Black
+271;HLA-A*66:01;Uganda Kampala;0.028;161;Black
+272;HLA-A*68:01;Uganda Kampala;0.028;161;Black
+273;HLA-A*02:05;Uganda Kampala;0.022;161;Black
+274;HLA-A*32:01;Uganda Kampala;0.022;161;Black
+275;HLA-A*26:01;Uganda Kampala;0.015;161;Black
+276;HLA-A*33:01;Uganda Kampala;0.015;161;Black
+277;HLA-A*25:01;Uganda Kampala;0.012;161;Black
+278;HLA-A*36:01;Uganda Kampala;0.012;161;Black
+279;HLA-A*02:14;Uganda Kampala;0.006;161;Black
+280;HLA-A*24:03;Uganda Kampala;0.006;161;Black
+281;HLA-A*26:08;Uganda Kampala;0.006;161;Black
+282;HLA-A*29:01;Uganda Kampala;0.006;161;Black
+283;HLA-A*01:02;Uganda Kampala;0.003;161;Black
+284;HLA-A*02:06;Uganda Kampala;0.003;161;Black
+285;HLA-A*03:02;Uganda Kampala;0.003;161;Black
+286;HLA-A*31:04;Uganda Kampala;0.003;161;Black
+287;HLA-A*69:01;Uganda Kampala;0.003;161;Black
+288;HLA-A*74:03;Uganda Kampala;0.003;161;Black
+289;HLA-A*80:01;Uganda Kampala;0.003;161;Black
+290;HLA-A*02:01;Uganda Kampala pop 2;0.114;175;Black
+291;HLA-A*74:01;Uganda Kampala pop 2;0.094;175;Black
+292;HLA-A*23:01;Uganda Kampala pop 2;0.091;175;Black
+293;HLA-A*30:02;Uganda Kampala pop 2;0.083;175;Black
+294;HLA-A*01:01;Uganda Kampala pop 2;0.066;175;Black
+295;HLA-A*66:01;Uganda Kampala pop 2;0.066;175;Black
+296;HLA-A*68:02;Uganda Kampala pop 2;0.066;175;Black
+297;HLA-A*30:01;Uganda Kampala pop 2;0.063;175;Black
+298;HLA-A*29:02;Uganda Kampala pop 2;0.051;175;Black
+299;HLA-A*03:01;Uganda Kampala pop 2;0.043;175;Black
+300;HLA-A*02:02;Uganda Kampala pop 2;0.037;175;Black
+301;HLA-A*36:01;Uganda Kampala pop 2;0.029;175;Black
+302;HLA-A*02:14;Uganda Kampala pop 2;0.02;175;Black
+303;HLA-A*34:02;Uganda Kampala pop 2;0.02;175;Black
+304;HLA-A*68:01;Uganda Kampala pop 2;0.02;175;Black
+305;HLA-A*02:05;Uganda Kampala pop 2;0.014;175;Black
+306;HLA-A*29:01;Uganda Kampala pop 2;0.014;175;Black
+307;HLA-A*33:03;Uganda Kampala pop 2;0.014;175;Black
+308;HLA-A*30:04;Uganda Kampala pop 2;0.011;175;Black
+309;HLA-A*24:02;Uganda Kampala pop 2;0.009;175;Black
+310;HLA-A*26:01;Uganda Kampala pop 2;0.009;175;Black
+311;HLA-A*31:01;Uganda Kampala pop 2;0.009;175;Black
+312;HLA-A*31:04;Uganda Kampala pop 2;0.009;175;Black
+313;HLA-A*32:01;Uganda Kampala pop 2;0.009;175;Black
+314;HLA-A*01:02;Uganda Kampala pop 2;0.006;175;Black
+315;HLA-A*26:12;Uganda Kampala pop 2;0.006;175;Black
+316;HLA-A*30:09;Uganda Kampala pop 2;0.006;175;Black
+317;HLA-A*66:02;Uganda Kampala pop 2;0.006;175;Black
+318;HLA-A*74:03;Uganda Kampala pop 2;0.006;175;Black
+319;HLA-A*01:03;Uganda Kampala pop 2;0.003;175;Black
+320;HLA-A*01:09;Uganda Kampala pop 2;0.003;175;Black
+321;HLA-A*01:23;Uganda Kampala pop 2;0.003;175;Black
+322;HLA-A*66:03;Uganda Kampala pop 2;0.003;175;Black
+323;HLA-A*23:01;USA African American pop 2;0.121;149;Black
+324;HLA-A*02:01;USA African American pop 2;0.107;149;Black
+325;HLA-A*03:01;USA African American pop 2;0.094;149;Black
+326;HLA-A*30:02;USA African American pop 2;0.094;149;Black
+327;HLA-A*68:02;USA African American pop 2;0.077;149;Black
+328;HLA-A*30:01;USA African American pop 2;0.057;149;Black
+329;HLA-A*01:01;USA African American pop 2;0.054;149;Black
+330;HLA-A*33:03;USA African American pop 2;0.04;149;Black
+331;HLA-A*02:02;USA African American pop 2;0.037;149;Black
+332;HLA-A*29:02;USA African American pop 2;0.03;149;Black
+333;HLA-A*34:02;USA African American pop 2;0.027;149;Black
+334;HLA-A*74:01;USA African American pop 2;0.027;149;Black
+335;HLA-A*33:01;USA African American pop 2;0.024;149;Black
+336;HLA-A*24:02;USA African American pop 2;0.02;149;Black
+337;HLA-A*26:01;USA African American pop 2;0.02;149;Black
+338;HLA-A*36:01;USA African American pop 2;0.02;149;Black
+339;HLA-A*02:05;USA African American pop 2;0.017;149;Black
+340;HLA-A*32:01;USA African American pop 2;0.017;149;Black
+341;HLA-A*25:01;USA African American pop 2;0.01;149;Black
+342;HLA-A*66:03;USA African American pop 2;0.01;149;Black
+343;HLA-A*34:01;USA African American pop 2;0.007;149;Black
+344;HLA-A*80:01;USA African American pop 2;0.007;149;Black
+345;HLA-A*11:01;USA African American pop 2;0.003;149;Black
+346;HLA-A*26:03;USA African American pop 2;0.003;149;Black
+347;HLA-A*02:01;USA African American pop 3;0.121;564;Black
+348;HLA-A*23:01;USA African American pop 3;0.108;564;Black
+349;HLA-A*30:01;USA African American pop 3;0.082;564;Black
+350;HLA-A*30:02;USA African American pop 3;0.058;564;Black
+351;HLA-A*74:01;USA African American pop 3;0.051;564;Black
+352;HLA-A*68:02;USA African American pop 3;0.047;564;Black
+353;HLA-A*34:02;USA African American pop 3;0.04;564;Black
+354;HLA-A*36:01;USA African American pop 3;0.031;564;Black
+355;HLA-A*02:02;USA African American pop 3;0.029;564;Black
+356;HLA-A*33:01;USA African American pop 3;0.025;564;Black
+357;HLA-A*02:05;USA African American pop 3;0.022;564;Black
+358;HLA-A*24:02;USA African American pop 3;0.02;564;Black
+359;HLA-A*26:01;USA African American pop 3;0.014;564;Black
+360;HLA-A*32:01;USA African American pop 3;0.014;564;Black
+361;HLA-A*66:01;USA African American pop 3;0.013;564;Black
+362;HLA-A*01:02;USA African American pop 3;0.007;564;Black
+363;HLA-A*66:02;USA African American pop 3;0.007;564;Black
+364;HLA-A*80:01;USA African American pop 3;0.007;564;Black
+365;HLA-A*02:60;USA African American pop 3;0.002;564;Black
+366;HLA-A*24:07;USA African American pop 3;0.002;564;Black
+367;HLA-A*30:04;USA African American pop 3;0.002;564;Black
+368;HLA-A*66:03;USA African American pop 3;0.002;564;Black
+369;HLA-A*74:09;USA African American pop 3;0.002;564;Black
+370;HLA-A*02:11;USA African American pop 3;0.001;564;Black
+371;HLA-A*02:22;USA African American pop 3;0.001;564;Black
+372;HLA-A*23:05;USA African American pop 3;0.001;564;Black
+373;HLA-A*26:12;USA African American pop 3;0.001;564;Black
+374;HLA-A*34:03;USA African American pop 3;0.001;564;Black
+375;HLA-A*69:01;USA African American pop 3;0.001;564;Black
+376;HLA-A*74:11;USA African American pop 3;0.001;564;Black
+377;HLA-A*02:01;USA African American pop 4;0.1246;2411;Black
+378;HLA-A*23:01;USA African American pop 4;0.1077;2411;Black
+379;HLA-A*03:01;USA African American pop 4;0.0813;2411;Black
+380;HLA-A*30:01;USA African American pop 4;0.0691;2411;Black
+381;HLA-A*68:02;USA African American pop 4;0.0651;2411;Black
+382;HLA-A*30:02;USA African American pop 4;0.0622;2411;Black
+383;HLA-A*74:01;USA African American pop 4;0.0522;2411;Black
+384;HLA-A*01:01;USA African American pop 4;0.0474;2411;Black
+385;HLA-A*33:03;USA African American pop 4;0.0445;2411;Black
+386;HLA-A*02:02;USA African American pop 4;0.042;2411;Black
+387;HLA-A*68:01;USA African American pop 4;0.0368;2411;Black
+388;HLA-A*29:02;USA African American pop 4;0.0364;2411;Black
+389;HLA-A*34:02;USA African American pop 4;0.0335;2411;Black
+390;HLA-A*36:01;USA African American pop 4;0.0241;2411;Black
+391;HLA-A*24:02;USA African American pop 4;0.0221;2411;Black
+392;HLA-A*33:01;USA African American pop 4;0.0212;2411;Black
+393;HLA-A*02:05;USA African American pop 4;0.0187;2411;Black
+394;HLA-A*11:01;USA African American pop 4;0.0158;2411;Black
+395;HLA-A*66:01;USA African American pop 4;0.0148;2411;Black
+396;HLA-A*26:01;USA African American pop 4;0.0141;2411;Black
+397;HLA-A*32:01;USA African American pop 4;0.0141;2411;Black
+398;HLA-A*31:01;USA African American pop 4;0.0104;2411;Black
+399;HLA-A*66:02;USA African American pop 4;0.0079;2411;Black
+400;HLA-A*80:01;USA African American pop 4;0.0071;2411;Black
+401;HLA-A*01:02;USA African American pop 4;0.0065;2411;Black
+402;HLA-A*25:01;USA African American pop 4;0.005;2411;Black
+403;HLA-A*66:03;USA African American pop 4;0.0023;2411;Black
+404;HLA-A*30:04;USA African American pop 4;0.0021;2411;Black
+405;HLA-A*29:01;USA African American pop 4;0.001;2411;Black
+406;HLA-A*03:02;USA African American pop 4;8e-04;2411;Black
+407;HLA-A*24:07;USA African American pop 4;8e-04;2411;Black
+408;HLA-A*02:60;USA African American pop 4;6e-04;2411;Black
+409;HLA-A*74:09;USA African American pop 4;6e-04;2411;Black
+410;HLA-A*74:11;USA African American pop 4;6e-04;2411;Black
+411;HLA-A*24:03;USA African American pop 4;4e-04;2411;Black
+412;HLA-A*24:17;USA African American pop 4;4e-04;2411;Black
+413;HLA-A*26:08;USA African American pop 4;4e-04;2411;Black
+414;HLA-A*26:12;USA African American pop 4;4e-04;2411;Black
+415;HLA-A*34:01;USA African American pop 4;4e-04;2411;Black
+416;HLA-A*69:01;USA African American pop 4;4e-04;2411;Black
+417;HLA-A*01:03;USA African American pop 4;2e-04;2411;Black
+418;HLA-A*02:03;USA African American pop 4;2e-04;2411;Black
+419;HLA-A*02:04;USA African American pop 4;2e-04;2411;Black
+420;HLA-A*02:06;USA African American pop 4;2e-04;2411;Black
+421;HLA-A*02:11;USA African American pop 4;2e-04;2411;Black
+422;HLA-A*02:13;USA African American pop 4;2e-04;2411;Black
+423;HLA-A*02:14;USA African American pop 4;2e-04;2411;Black
+424;HLA-A*02:20;USA African American pop 4;2e-04;2411;Black
+425;HLA-A*02:22;USA African American pop 4;2e-04;2411;Black
+426;HLA-A*02:74;USA African American pop 4;2e-04;2411;Black
+427;HLA-A*23:05;USA African American pop 4;2e-04;2411;Black
+428;HLA-A*26:03;USA African American pop 4;2e-04;2411;Black
+429;HLA-A*31:04;USA African American pop 4;2e-04;2411;Black
+430;HLA-A*34:03;USA African American pop 4;2e-04;2411;Black
+431;HLA-A*36:03;USA African American pop 4;2e-04;2411;Black
+432;HLA-A*43:01;USA African American pop 4;2e-04;2411;Black
+433;HLA-A*68:05;USA African American pop 4;2e-04;2411;Black
+434;HLA-A*68:15;USA African American pop 4;2e-04;2411;Black
+435;HLA-A*74:03;USA African American pop 4;2e-04;2411;Black
+1;HLA-A*02:01;Australia New South Wales Caucasian;0.261;134;Caucasoid
+2;HLA-A*01:01;Australia New South Wales Caucasian;0.187;134;Caucasoid
+3;HLA-A*03:01;Australia New South Wales Caucasian;0.138;134;Caucasoid
+4;HLA-A*24:02;Australia New South Wales Caucasian;0.082;134;Caucasoid
+5;HLA-A*11:01;Australia New South Wales Caucasian;0.067;134;Caucasoid
+6;HLA-A*68:01;Australia New South Wales Caucasian;0.041;134;Caucasoid
+7;HLA-A*32:01;Australia New South Wales Caucasian;0.034;134;Caucasoid
+8;HLA-A*29:02;Australia New South Wales Caucasian;0.03;134;Caucasoid
+9;HLA-A*26:01;Australia New South Wales Caucasian;0.022;134;Caucasoid
+10;HLA-A*23:01;Australia New South Wales Caucasian;0.019;134;Caucasoid
+11;HLA-A*25:01;Australia New South Wales Caucasian;0.019;134;Caucasoid
+12;HLA-A*30:01;Australia New South Wales Caucasian;0.015;134;Caucasoid
+13;HLA-A*68:02;Australia New South Wales Caucasian;0.015;134;Caucasoid
+14;HLA-A*30:02;Australia New South Wales Caucasian;0.011;134;Caucasoid
+15;HLA-A*02:05;Australia New South Wales Caucasian;0.008;134;Caucasoid
+16;HLA-A*02:07;Australia New South Wales Caucasian;0.008;134;Caucasoid
+17;HLA-A*29:01;Australia New South Wales Caucasian;0.004;134;Caucasoid
+18;HLA-A*30:04;Australia New South Wales Caucasian;0.004;134;Caucasoid
+19;HLA-A*33:03;Australia New South Wales Caucasian;0.004;134;Caucasoid
+20;HLA-A*02:01;Azores Central Islands;0.259;59;Caucasoid
+21;HLA-A*03:01;Azores Central Islands;0.125;59;Caucasoid
+22;HLA-A*24:02;Azores Central Islands;0.125;59;Caucasoid
+23;HLA-A*01:01;Azores Central Islands;0.08;59;Caucasoid
+24;HLA-A*29:02;Azores Central Islands;0.08;59;Caucasoid
+25;HLA-A*23:01;Azores Central Islands;0.071;59;Caucasoid
+26;HLA-A*11:01;Azores Central Islands;0.054;59;Caucasoid
+27;HLA-A*26:01;Azores Central Islands;0.045;59;Caucasoid
+28;HLA-A*32:01;Azores Central Islands;0.027;59;Caucasoid
+29;HLA-A*68:01;Azores Central Islands;0.027;59;Caucasoid
+30;HLA-A*02:02;Azores Central Islands;0.018;59;Caucasoid
+31;HLA-A*25:01;Azores Central Islands;0.018;59;Caucasoid
+32;HLA-A*33:01;Azores Central Islands;0.018;59;Caucasoid
+33;HLA-A*02:05;Azores Central Islands;0.009;59;Caucasoid
+34;HLA-A*24:03;Azores Central Islands;0.009;59;Caucasoid
+35;HLA-A*30:01;Azores Central Islands;0.009;59;Caucasoid
+36;HLA-A*30:02;Azores Central Islands;0.009;59;Caucasoid
+37;HLA-A*32:06;Azores Central Islands;0.009;59;Caucasoid
+38;HLA-A*33:03;Azores Central Islands;0.009;59;Caucasoid
+39;HLA-A*02:01;Brazil Belo Horizonte Caucasian;0.237;95;Caucasoid
+40;HLA-A*03:01;Brazil Belo Horizonte Caucasian;0.1;95;Caucasoid
+41;HLA-A*01:01;Brazil Belo Horizonte Caucasian;0.079;95;Caucasoid
+42;HLA-A*23:01;Brazil Belo Horizonte Caucasian;0.053;95;Caucasoid
+43;HLA-A*26:01;Brazil Belo Horizonte Caucasian;0.037;95;Caucasoid
+44;HLA-A*30:02;Brazil Belo Horizonte Caucasian;0.032;95;Caucasoid
+45;HLA-A*02:05;Brazil Belo Horizonte Caucasian;0.026;95;Caucasoid
+46;HLA-A*29:02;Brazil Belo Horizonte Caucasian;0.026;95;Caucasoid
+47;HLA-A*33:01;Brazil Belo Horizonte Caucasian;0.026;95;Caucasoid
+48;HLA-A*11:01;Brazil Belo Horizonte Caucasian;0.026;95;Caucasoid
+49;HLA-A*30:01;Brazil Belo Horizonte Caucasian;0.021;95;Caucasoid
+50;HLA-A*34:02;Brazil Belo Horizonte Caucasian;0.021;95;Caucasoid
+51;HLA-A*32:01;Brazil Belo Horizonte Caucasian;0.016;95;Caucasoid
+52;HLA-A*33:03;Brazil Belo Horizonte Caucasian;0.016;95;Caucasoid
+53;HLA-A*36:01;Brazil Belo Horizonte Caucasian;0.016;95;Caucasoid
+54;HLA-A*68:02;Brazil Belo Horizonte Caucasian;0.011;95;Caucasoid
+55;HLA-A*03:02;Brazil Belo Horizonte Caucasian;0.005;95;Caucasoid
+56;HLA-A*25:01;Brazil Belo Horizonte Caucasian;0.005;95;Caucasoid
+57;HLA-A*26:08;Brazil Belo Horizonte Caucasian;0.005;95;Caucasoid
+58;HLA-A*30:04;Brazil Belo Horizonte Caucasian;0.005;95;Caucasoid
+59;HLA-A*66:01;Brazil Belo Horizonte Caucasian;0.005;95;Caucasoid
+60;HLA-A*80:01;Brazil Belo Horizonte Caucasian;0.005;95;Caucasoid
+61;HLA-A*32:01;Bulgaria;0.082;55;Caucasoid
+62;HLA-A*26:01;Bulgaria;0.073;55;Caucasoid
+63;HLA-A*23:01;Bulgaria;0.055;55;Caucasoid
+64;HLA-A*02:05;Bulgaria;0.027;55;Caucasoid
+65;HLA-A*25:01;Bulgaria;0.027;55;Caucasoid
+66;HLA-A*33:01;Bulgaria;0.018;55;Caucasoid
+67;HLA-A*69:01;Bulgaria;0.018;55;Caucasoid
+68;HLA-A*02:11;Bulgaria;0.009;55;Caucasoid
+69;HLA-A*02:17;Bulgaria;0.009;55;Caucasoid
+70;HLA-A*29:02;Bulgaria;0.009;55;Caucasoid
+71;HLA-A*30:01;Bulgaria;0.009;55;Caucasoid
+72;HLA-A*30:04;Bulgaria;0.009;55;Caucasoid
+73;HLA-A*80:01;Bulgaria;0.009;55;Caucasoid
+74;HLA-A*02:01;Cuba Caucasian;0.179;70;Caucasoid
+75;HLA-A*03:01;Cuba Caucasian;0.086;70;Caucasoid
+76;HLA-A*01:01;Cuba Caucasian;0.079;70;Caucasoid
+77;HLA-A*23:01;Cuba Caucasian;0.079;70;Caucasoid
+78;HLA-A*29:02;Cuba Caucasian;0.064;70;Caucasoid
+79;HLA-A*11:01;Cuba Caucasian;0.057;70;Caucasoid
+80;HLA-A*30:02;Cuba Caucasian;0.043;70;Caucasoid
+81;HLA-A*26:01;Cuba Caucasian;0.036;70;Caucasoid
+82;HLA-A*32:01;Cuba Caucasian;0.036;70;Caucasoid
+83;HLA-A*33:01;Cuba Caucasian;0.036;70;Caucasoid
+84;HLA-A*68:02;Cuba Caucasian;0.029;70;Caucasoid
+85;HLA-A*02:05;Cuba Caucasian;0.021;70;Caucasoid
+86;HLA-A*66:01;Cuba Caucasian;0.021;70;Caucasoid
+87;HLA-A*68:03;Cuba Caucasian;0.014;70;Caucasoid
+88;HLA-A*02:07;Cuba Caucasian;0.007;70;Caucasoid
+89;HLA-A*02:11;Cuba Caucasian;0.007;70;Caucasoid
+90;HLA-A*02:17;Cuba Caucasian;0.007;70;Caucasoid
+91;HLA-A*24:03;Cuba Caucasian;0.007;70;Caucasoid
+92;HLA-A*25:01;Cuba Caucasian;0.007;70;Caucasoid
+93;HLA-A*29:01;Cuba Caucasian;0.007;70;Caucasoid
+94;HLA-A*34:02;Cuba Caucasian;0.007;70;Caucasoid
+95;HLA-A*66:02;Cuba Caucasian;0.007;70;Caucasoid
+96;HLA-A*02:01;England North West;0.289;298;Caucasoid
+97;HLA-A*01:01;England North West;0.208;298;Caucasoid
+98;HLA-A*03:01;England North West;0.138;298;Caucasoid
+99;HLA-A*11:01;England North West;0.07;298;Caucasoid
+100;HLA-A*24:02;England North West;0.069;298;Caucasoid
+101;HLA-A*31:01;England North West;0.029;298;Caucasoid
+102;HLA-A*32:01;England North West;0.027;298;Caucasoid
+103;HLA-A*25:01;England North West;0.022;298;Caucasoid
+104;HLA-A*26:01;England North West;0.02;298;Caucasoid
+105;HLA-A*23:01;England North West;0.018;298;Caucasoid
+106;HLA-A*68:01;England North West;0.018;298;Caucasoid
+107;HLA-A*02:05;England North West;0.01;298;Caucasoid
+108;HLA-A*30:02;England North West;0.01;298;Caucasoid
+109;HLA-A*30:01;England North West;0.007;298;Caucasoid
+110;HLA-A*68:02;England North West;0.007;298;Caucasoid
+111;HLA-A*66:01;England North West;0.005;298;Caucasoid
+112;HLA-A*03:02;England North West;0.003;298;Caucasoid
+113;HLA-A*29:01;England North West;0.003;298;Caucasoid
+114;HLA-A*33:01;England North West;0.003;298;Caucasoid
+115;HLA-A*33:03;England North West;0.003;298;Caucasoid
+116;HLA-A*01:06;England North West;0.002;298;Caucasoid
+117;HLA-A*02:24;England North West;0.002;298;Caucasoid
+118;HLA-A*24:03;England North West;0.002;298;Caucasoid
+119;HLA-A*74:03;England North West;0.002;298;Caucasoid
+120;HLA-A*02:01;Georgia Svaneti Region Svan;0.213;80;Caucasoid
+121;HLA-A*03:01;Georgia Svaneti Region Svan;0.138;80;Caucasoid
+122;HLA-A*24:02;Georgia Svaneti Region Svan;0.131;80;Caucasoid
+123;HLA-A*11:01;Georgia Svaneti Region Svan;0.125;80;Caucasoid
+124;HLA-A*26:01;Georgia Svaneti Region Svan;0.063;80;Caucasoid
+125;HLA-A*68:01;Georgia Svaneti Region Svan;0.063;80;Caucasoid
+126;HLA-A*01:01;Georgia Svaneti Region Svan;0.056;80;Caucasoid
+127;HLA-A*02:02;Georgia Svaneti Region Svan;0.038;80;Caucasoid
+128;HLA-A*02:04;Georgia Svaneti Region Svan;0.019;80;Caucasoid
+129;HLA-A*25:01;Georgia Svaneti Region Svan;0.019;80;Caucasoid
+130;HLA-A*02:08;Georgia Svaneti Region Svan;0.013;80;Caucasoid
+131;HLA-A*11:04;Georgia Svaneti Region Svan;0.013;80;Caucasoid
+132;HLA-A*24:03;Georgia Svaneti Region Svan;0.013;80;Caucasoid
+133;HLA-A*29:01;Georgia Svaneti Region Svan;0.013;80;Caucasoid
+134;HLA-A*31:02;Georgia Svaneti Region Svan;0.013;80;Caucasoid
+135;HLA-A*32:01;Georgia Svaneti Region Svan;0.013;80;Caucasoid
+136;HLA-A*33:01;Georgia Svaneti Region Svan;0.013;80;Caucasoid
+137;HLA-A*02:05;Georgia Svaneti Region Svan;0.006;80;Caucasoid
+138;HLA-A*02:16;Georgia Svaneti Region Svan;0.006;80;Caucasoid
+139;HLA-A*02:20;Georgia Svaneti Region Svan;0.006;80;Caucasoid
+140;HLA-A*03:02;Georgia Svaneti Region Svan;0.006;80;Caucasoid
+141;HLA-A*68:02;Georgia Svaneti Region Svan;0.006;80;Caucasoid
+142;HLA-A*02:01;Germany DKMS - Austria minority;0.2677;1698;Caucasoid
+143;HLA-A*01:01;Germany DKMS - Austria minority;0.1561;1698;Caucasoid
+144;HLA-A*03:01;Germany DKMS - Austria minority;0.1376;1698;Caucasoid
+145;HLA-A*24:02;Germany DKMS - Austria minority;0.0854;1698;Caucasoid
+146;HLA-A*11:01;Germany DKMS - Austria minority;0.0558;1698;Caucasoid
+147;HLA-A*32:01;Germany DKMS - Austria minority;0.0412;1698;Caucasoid
+148;HLA-A*68:01;Germany DKMS - Austria minority;0.0395;1698;Caucasoid
+149;HLA-A*26:01;Germany DKMS - Austria minority;0.0337;1698;Caucasoid
+150;HLA-A*23:01;Germany DKMS - Austria minority;0.0315;1698;Caucasoid
+151;HLA-A*31:01;Germany DKMS - Austria minority;0.0289;1698;Caucasoid
+152;HLA-A*29:02;Germany DKMS - Austria minority;0.0247;1698;Caucasoid
+153;HLA-A*25:01;Germany DKMS - Austria minority;0.0194;1698;Caucasoid
+154;HLA-A*30:01;Germany DKMS - Austria minority;0.015;1698;Caucasoid
+155;HLA-A*33:01;Germany DKMS - Austria minority;0.0097;1698;Caucasoid
+156;HLA-A*02:05;Germany DKMS - Austria minority;0.0094;1698;Caucasoid
+157;HLA-A*68:02;Germany DKMS - Austria minority;0.0077;1698;Caucasoid
+158;HLA-A*66:01;Germany DKMS - Austria minority;0.006;1698;Caucasoid
+159;HLA-A*33:03;Germany DKMS - Austria minority;0.0044;1698;Caucasoid
+160;HLA-A*30:02;Germany DKMS - Austria minority;0.0041;1698;Caucasoid
+161;HLA-A*03:02;Germany DKMS - Austria minority;0.0038;1698;Caucasoid
+162;HLA-A*34:02;Germany DKMS - Austria minority;0.0032;1698;Caucasoid
+163;HLA-A*24:03;Germany DKMS - Austria minority;0.0027;1698;Caucasoid
+164;HLA-A*02:06;Germany DKMS - Austria minority;0.0021;1698;Caucasoid
+165;HLA-A*29:01;Germany DKMS - Austria minority;0.0015;1698;Caucasoid
+166;HLA-A*02:17;Germany DKMS - Austria minority;0.0012;1698;Caucasoid
+167;HLA-A*01:03;Germany DKMS - Austria minority;9e-04;1698;Caucasoid
+168;HLA-A*30:04;Germany DKMS - Austria minority;9e-04;1698;Caucasoid
+169;HLA-A*02:02;Germany DKMS - Austria minority;6e-04;1698;Caucasoid
+170;HLA-A*02:26;Germany DKMS - Austria minority;6e-04;1698;Caucasoid
+171;HLA-A*68:12;Germany DKMS - Austria minority;6e-04;1698;Caucasoid
+172;HLA-A*74:03;Germany DKMS - Austria minority;6e-04;1698;Caucasoid
+173;HLA-A*02:03;Germany DKMS - Austria minority;3e-04;1698;Caucasoid
+174;HLA-A*02:27;Germany DKMS - Austria minority;3e-04;1698;Caucasoid
+175;HLA-A*02:133;Germany DKMS - Austria minority;3e-04;1698;Caucasoid
+176;HLA-A*11:29;Germany DKMS - Austria minority;3e-04;1698;Caucasoid
+177;HLA-A*24:31;Germany DKMS - Austria minority;3e-04;1698;Caucasoid
+178;HLA-A*26:08;Germany DKMS - Austria minority;3e-04;1698;Caucasoid
+179;HLA-A*29:12;Germany DKMS - Austria minority;3e-04;1698;Caucasoid
+180;HLA-A*33:10;Germany DKMS - Austria minority;3e-04;1698;Caucasoid
+181;HLA-A*69:01;Germany DKMS - Austria minority;3e-04;1698;Caucasoid
+182;HLA-A*74:01;Germany DKMS - Austria minority;3e-04;1698;Caucasoid
+183;HLA-A*02:01;Germany DKMS - Bosnia and Herzegovina minority;0.305;1028;Caucasoid
+184;HLA-A*01:01;Germany DKMS - Bosnia and Herzegovina minority;0.1513;1028;Caucasoid
+185;HLA-A*03:01;Germany DKMS - Bosnia and Herzegovina minority;0.1094;1028;Caucasoid
+186;HLA-A*24:02;Germany DKMS - Bosnia and Herzegovina minority;0.0841;1028;Caucasoid
+187;HLA-A*11:01;Germany DKMS - Bosnia and Herzegovina minority;0.0627;1028;Caucasoid
+188;HLA-A*26:01;Germany DKMS - Bosnia and Herzegovina minority;0.0589;1028;Caucasoid
+189;HLA-A*32:01;Germany DKMS - Bosnia and Herzegovina minority;0.041;1028;Caucasoid
+190;HLA-A*68:01;Germany DKMS - Bosnia and Herzegovina minority;0.0375;1028;Caucasoid
+191;HLA-A*25:01;Germany DKMS - Bosnia and Herzegovina minority;0.0263;1028;Caucasoid
+192;HLA-A*23:01;Germany DKMS - Bosnia and Herzegovina minority;0.0221;1028;Caucasoid
+193;HLA-A*30:01;Germany DKMS - Bosnia and Herzegovina minority;0.0165;1028;Caucasoid
+194;HLA-A*31:01;Germany DKMS - Bosnia and Herzegovina minority;0.0161;1028;Caucasoid
+195;HLA-A*33:01;Germany DKMS - Bosnia and Herzegovina minority;0.0161;1028;Caucasoid
+196;HLA-A*29:02;Germany DKMS - Bosnia and Herzegovina minority;0.0092;1028;Caucasoid
+197;HLA-A*02:05;Germany DKMS - Bosnia and Herzegovina minority;0.0088;1028;Caucasoid
+198;HLA-A*66:01;Germany DKMS - Bosnia and Herzegovina minority;0.0058;1028;Caucasoid
+199;HLA-A*30:04;Germany DKMS - Bosnia and Herzegovina minority;0.0049;1028;Caucasoid
+200;HLA-A*68:02;Germany DKMS - Bosnia and Herzegovina minority;0.0049;1028;Caucasoid
+201;HLA-A*33:03;Germany DKMS - Bosnia and Herzegovina minority;0.0044;1028;Caucasoid
+202;HLA-A*24:03;Germany DKMS - Bosnia and Herzegovina minority;0.0034;1028;Caucasoid
+203;HLA-A*02:02;Germany DKMS - Bosnia and Herzegovina minority;0.0015;1028;Caucasoid
+204;HLA-A*02:30;Germany DKMS - Bosnia and Herzegovina minority;0.0015;1028;Caucasoid
+205;HLA-A*30:02;Germany DKMS - Bosnia and Herzegovina minority;0.0015;1028;Caucasoid
+206;HLA-A*02:11;Germany DKMS - Bosnia and Herzegovina minority;0.001;1028;Caucasoid
+207;HLA-A*03:02;Germany DKMS - Bosnia and Herzegovina minority;0.001;1028;Caucasoid
+208;HLA-A*24:04;Germany DKMS - Bosnia and Herzegovina minority;0.001;1028;Caucasoid
+209;HLA-A*29:01;Germany DKMS - Bosnia and Herzegovina minority;0.001;1028;Caucasoid
+210;HLA-A*69:01;Germany DKMS - Bosnia and Herzegovina minority;0.001;1028;Caucasoid
+211;HLA-A*24:07;Germany DKMS - Bosnia and Herzegovina minority;5e-04;1028;Caucasoid
+212;HLA-A*25:04;Germany DKMS - Bosnia and Herzegovina minority;5e-04;1028;Caucasoid
+213;HLA-A*26:08;Germany DKMS - Bosnia and Herzegovina minority;5e-04;1028;Caucasoid
+214;HLA-A*36:01;Germany DKMS - Bosnia and Herzegovina minority;5e-04;1028;Caucasoid
+215;HLA-A*02:01;Germany DKMS - Croatia minority;0.2842;2057;Caucasoid
+216;HLA-A*01:01;Germany DKMS - Croatia minority;0.1213;2057;Caucasoid
+217;HLA-A*03:01;Germany DKMS - Croatia minority;0.1198;2057;Caucasoid
+218;HLA-A*24:02;Germany DKMS - Croatia minority;0.1124;2057;Caucasoid
+219;HLA-A*11:01;Germany DKMS - Croatia minority;0.0756;2057;Caucasoid
+220;HLA-A*26:01;Germany DKMS - Croatia minority;0.0523;2057;Caucasoid
+221;HLA-A*68:01;Germany DKMS - Croatia minority;0.0421;2057;Caucasoid
+222;HLA-A*32:01;Germany DKMS - Croatia minority;0.0399;2057;Caucasoid
+223;HLA-A*25:01;Germany DKMS - Croatia minority;0.0326;2057;Caucasoid
+224;HLA-A*31:01;Germany DKMS - Croatia minority;0.0219;2057;Caucasoid
+225;HLA-A*23:01;Germany DKMS - Croatia minority;0.0204;2057;Caucasoid
+226;HLA-A*30:01;Germany DKMS - Croatia minority;0.0124;2057;Caucasoid
+227;HLA-A*33:01;Germany DKMS - Croatia minority;0.0117;2057;Caucasoid
+228;HLA-A*29:02;Germany DKMS - Croatia minority;0.0088;2057;Caucasoid
+229;HLA-A*02:05;Germany DKMS - Croatia minority;0.0071;2057;Caucasoid
+230;HLA-A*33:03;Germany DKMS - Croatia minority;0.0063;2057;Caucasoid
+231;HLA-A*30:02;Germany DKMS - Croatia minority;0.0044;2057;Caucasoid
+232;HLA-A*24:03;Germany DKMS - Croatia minority;0.0041;2057;Caucasoid
+233;HLA-A*68:02;Germany DKMS - Croatia minority;0.0041;2057;Caucasoid
+234;HLA-A*03:02;Germany DKMS - Croatia minority;0.0039;2057;Caucasoid
+235;HLA-A*66:01;Germany DKMS - Croatia minority;0.0037;2057;Caucasoid
+236;HLA-A*30:04;Germany DKMS - Croatia minority;0.0022;2057;Caucasoid
+237;HLA-A*02:06;Germany DKMS - Croatia minority;0.0015;2057;Caucasoid
+238;HLA-A*29:01;Germany DKMS - Croatia minority;0.0012;2057;Caucasoid
+239;HLA-A*26:08;Germany DKMS - Croatia minority;0.001;2057;Caucasoid
+240;HLA-A*02:22;Germany DKMS - Croatia minority;7e-04;2057;Caucasoid
+241;HLA-A*24:07;Germany DKMS - Croatia minority;5e-04;2057;Caucasoid
+242;HLA-A*80:01;Germany DKMS - Croatia minority;5e-04;2057;Caucasoid
+243;HLA-A*24:06;Germany DKMS - Croatia minority;3e-04;2057;Caucasoid
+244;HLA-A*01:02;Germany DKMS - Croatia minority;2e-04;2057;Caucasoid
+245;HLA-A*02:02;Germany DKMS - Croatia minority;2e-04;2057;Caucasoid
+246;HLA-A*02:11;Germany DKMS - Croatia minority;2e-04;2057;Caucasoid
+247;HLA-A*02:17;Germany DKMS - Croatia minority;2e-04;2057;Caucasoid
+248;HLA-A*26:49;Germany DKMS - Croatia minority;2e-04;2057;Caucasoid
+249;HLA-A*29:12;Germany DKMS - Croatia minority;2e-04;2057;Caucasoid
+250;HLA-A*32:04;Germany DKMS - Croatia minority;2e-04;2057;Caucasoid
+251;HLA-A*34:01;Germany DKMS - Croatia minority;2e-04;2057;Caucasoid
+252;HLA-A*66:02;Germany DKMS - Croatia minority;2e-04;2057;Caucasoid
+253;HLA-A*69:01;Germany DKMS - Croatia minority;2e-04;2057;Caucasoid
+254;HLA-A*74:03;Germany DKMS - Croatia minority;2e-04;2057;Caucasoid
+255;HLA-A*02:01;Germany DKMS - France minority;0.2572;1406;Caucasoid
+256;HLA-A*03:01;Germany DKMS - France minority;0.1465;1406;Caucasoid
+257;HLA-A*01:01;Germany DKMS - France minority;0.1376;1406;Caucasoid
+258;HLA-A*24:02;Germany DKMS - France minority;0.0889;1406;Caucasoid
+259;HLA-A*11:01;Germany DKMS - France minority;0.0594;1406;Caucasoid
+260;HLA-A*32:01;Germany DKMS - France minority;0.0384;1406;Caucasoid
+261;HLA-A*29:02;Germany DKMS - France minority;0.0352;1406;Caucasoid
+262;HLA-A*26:01;Germany DKMS - France minority;0.0338;1406;Caucasoid
+263;HLA-A*68:01;Germany DKMS - France minority;0.0309;1406;Caucasoid
+264;HLA-A*31:01;Germany DKMS - France minority;0.0299;1406;Caucasoid
+265;HLA-A*25:01;Germany DKMS - France minority;0.0238;1406;Caucasoid
+266;HLA-A*23:01;Germany DKMS - France minority;0.0224;1406;Caucasoid
+267;HLA-A*30:01;Germany DKMS - France minority;0.0189;1406;Caucasoid
+268;HLA-A*30:02;Germany DKMS - France minority;0.0121;1406;Caucasoid
+269;HLA-A*33:01;Germany DKMS - France minority;0.0107;1406;Caucasoid
+270;HLA-A*02:05;Germany DKMS - France minority;0.0079;1406;Caucasoid
+271;HLA-A*68:02;Germany DKMS - France minority;0.0077;1406;Caucasoid
+272;HLA-A*33:03;Germany DKMS - France minority;0.0061;1406;Caucasoid
+273;HLA-A*66:01;Germany DKMS - France minority;0.005;1406;Caucasoid
+274;HLA-A*03:02;Germany DKMS - France minority;0.0036;1406;Caucasoid
+275;HLA-A*29:01;Germany DKMS - France minority;0.0032;1406;Caucasoid
+276;HLA-A*30:04;Germany DKMS - France minority;0.0028;1406;Caucasoid
+277;HLA-A*02:06;Germany DKMS - France minority;0.0023;1406;Caucasoid
+278;HLA-A*24:03;Germany DKMS - France minority;0.0021;1406;Caucasoid
+279;HLA-A*34:02;Germany DKMS - France minority;0.0021;1406;Caucasoid
+280;HLA-A*69:01;Germany DKMS - France minority;0.0018;1406;Caucasoid
+281;HLA-A*74:01;Germany DKMS - France minority;0.0011;1406;Caucasoid
+282;HLA-A*80:01;Germany DKMS - France minority;0.0011;1406;Caucasoid
+283;HLA-A*02:02;Germany DKMS - France minority;8e-04;1406;Caucasoid
+284;HLA-A*01:03;Germany DKMS - France minority;7e-04;1406;Caucasoid
+285;HLA-A*26:08;Germany DKMS - France minority;7e-04;1406;Caucasoid
+286;HLA-A*29:10;Germany DKMS - France minority;7e-04;1406;Caucasoid
+287;HLA-A*02:35;Germany DKMS - France minority;5e-04;1406;Caucasoid
+288;HLA-A*02:03;Germany DKMS - France minority;4e-04;1406;Caucasoid
+289;HLA-A*02:07;Germany DKMS - France minority;4e-04;1406;Caucasoid
+290;HLA-A*02:08;Germany DKMS - France minority;4e-04;1406;Caucasoid
+291;HLA-A*02:17;Germany DKMS - France minority;4e-04;1406;Caucasoid
+292;HLA-A*02:36;Germany DKMS - France minority;4e-04;1406;Caucasoid
+293;HLA-A*02:85;Germany DKMS - France minority;4e-04;1406;Caucasoid
+294;HLA-A*24:13;Germany DKMS - France minority;4e-04;1406;Caucasoid
+295;HLA-A*32:04;Germany DKMS - France minority;4e-04;1406;Caucasoid
+296;HLA-A*74:03;Germany DKMS - France minority;4e-04;1406;Caucasoid
+297;HLA-A*02:01;Germany DKMS - Greece minority;0.2629;1894;Caucasoid
+298;HLA-A*24:02;Germany DKMS - Greece minority;0.1434;1894;Caucasoid
+299;HLA-A*01:01;Germany DKMS - Greece minority;0.1038;1894;Caucasoid
+300;HLA-A*03:01;Germany DKMS - Greece minority;0.0882;1894;Caucasoid
+301;HLA-A*11:01;Germany DKMS - Greece minority;0.0628;1894;Caucasoid
+302;HLA-A*32:01;Germany DKMS - Greece minority;0.0613;1894;Caucasoid
+303;HLA-A*26:01;Germany DKMS - Greece minority;0.0555;1894;Caucasoid
+304;HLA-A*68:01;Germany DKMS - Greece minority;0.0407;1894;Caucasoid
+305;HLA-A*23:01;Germany DKMS - Greece minority;0.0269;1894;Caucasoid
+306;HLA-A*30:01;Germany DKMS - Greece minority;0.0187;1894;Caucasoid
+307;HLA-A*31:01;Germany DKMS - Greece minority;0.0184;1894;Caucasoid
+308;HLA-A*33:01;Germany DKMS - Greece minority;0.0132;1894;Caucasoid
+309;HLA-A*25:01;Germany DKMS - Greece minority;0.0118;1894;Caucasoid
+310;HLA-A*29:01;Germany DKMS - Greece minority;0.0098;1894;Caucasoid
+311;HLA-A*29:02;Germany DKMS - Greece minority;0.0095;1894;Caucasoid
+312;HLA-A*02:05;Germany DKMS - Greece minority;0.009;1894;Caucasoid
+313;HLA-A*33:03;Germany DKMS - Greece minority;0.0077;1894;Caucasoid
+314;HLA-A*03:02;Germany DKMS - Greece minority;0.0071;1894;Caucasoid
+315;HLA-A*66:01;Germany DKMS - Greece minority;0.0071;1894;Caucasoid
+316;HLA-A*30:02;Germany DKMS - Greece minority;0.0058;1894;Caucasoid
+317;HLA-A*30:04;Germany DKMS - Greece minority;0.0055;1894;Caucasoid
+318;HLA-A*02:11;Germany DKMS - Greece minority;0.0042;1894;Caucasoid
+319;HLA-A*02:17;Germany DKMS - Greece minority;0.0042;1894;Caucasoid
+320;HLA-A*68:02;Germany DKMS - Greece minority;0.0042;1894;Caucasoid
+321;HLA-A*24:03;Germany DKMS - Greece minority;0.0041;1894;Caucasoid
+322;HLA-A*69:01;Germany DKMS - Greece minority;0.0026;1894;Caucasoid
+323;HLA-A*02:07;Germany DKMS - Greece minority;0.0016;1894;Caucasoid
+324;HLA-A*02:02;Germany DKMS - Greece minority;0.0013;1894;Caucasoid
+325;HLA-A*26:08;Germany DKMS - Greece minority;8e-04;1894;Caucasoid
+326;HLA-A*01:03;Germany DKMS - Greece minority;8e-04;1894;Caucasoid
+327;HLA-A*02:20;Germany DKMS - Greece minority;8e-04;1894;Caucasoid
+328;HLA-A*24:07;Germany DKMS - Greece minority;8e-04;1894;Caucasoid
+329;HLA-A*02:06;Germany DKMS - Greece minority;5e-04;1894;Caucasoid
+330;HLA-A*24:29;Germany DKMS - Greece minority;5e-04;1894;Caucasoid
+331;HLA-A*29:10;Germany DKMS - Greece minority;5e-04;1894;Caucasoid
+332;HLA-A*74:01;Germany DKMS - Greece minority;5e-04;1894;Caucasoid
+333;HLA-A*26:09;Germany DKMS - Greece minority;3e-04;1894;Caucasoid
+334;HLA-A*01:02;Germany DKMS - Greece minority;3e-04;1894;Caucasoid
+335;HLA-A*02:27;Germany DKMS - Greece minority;3e-04;1894;Caucasoid
+336;HLA-A*02:60;Germany DKMS - Greece minority;3e-04;1894;Caucasoid
+337;HLA-A*03:05;Germany DKMS - Greece minority;3e-04;1894;Caucasoid
+338;HLA-A*03:12;Germany DKMS - Greece minority;3e-04;1894;Caucasoid
+339;HLA-A*11:40;Germany DKMS - Greece minority;3e-04;1894;Caucasoid
+340;HLA-A*32:03;Germany DKMS - Greece minority;3e-04;1894;Caucasoid
+341;HLA-A*34:02;Germany DKMS - Greece minority;3e-04;1894;Caucasoid
+342;HLA-A*80:01;Germany DKMS - Greece minority;3e-04;1894;Caucasoid
+343;HLA-A*02:01;Germany DKMS - Italy minority;0.2252;1159;Caucasoid
+344;HLA-A*01:01;Germany DKMS - Italy minority;0.133;1159;Caucasoid
+345;HLA-A*24:02;Germany DKMS - Italy minority;0.1199;1159;Caucasoid
+346;HLA-A*03:01;Germany DKMS - Italy minority;0.1123;1159;Caucasoid
+347;HLA-A*11:01;Germany DKMS - Italy minority;0.0542;1159;Caucasoid
+348;HLA-A*32:01;Germany DKMS - Italy minority;0.052;1159;Caucasoid
+349;HLA-A*26:01;Germany DKMS - Italy minority;0.0378;1159;Caucasoid
+350;HLA-A*23:01;Germany DKMS - Italy minority;0.0324;1159;Caucasoid
+351;HLA-A*30:01;Germany DKMS - Italy minority;0.028;1159;Caucasoid
+352;HLA-A*68:01;Germany DKMS - Italy minority;0.0228;1159;Caucasoid
+353;HLA-A*02:05;Germany DKMS - Italy minority;0.0224;1159;Caucasoid
+354;HLA-A*29:02;Germany DKMS - Italy minority;0.0211;1159;Caucasoid
+355;HLA-A*30:02;Germany DKMS - Italy minority;0.0194;1159;Caucasoid
+356;HLA-A*31:01;Germany DKMS - Italy minority;0.0186;1159;Caucasoid
+357;HLA-A*33:01;Germany DKMS - Italy minority;0.0168;1159;Caucasoid
+358;HLA-A*25:01;Germany DKMS - Italy minority;0.0101;1159;Caucasoid
+359;HLA-A*24:03;Germany DKMS - Italy minority;0.0096;1159;Caucasoid
+360;HLA-A*29:01;Germany DKMS - Italy minority;0.0078;1159;Caucasoid
+361;HLA-A*68:02;Germany DKMS - Italy minority;0.0075;1159;Caucasoid
+362;HLA-A*33:03;Germany DKMS - Italy minority;0.0069;1159;Caucasoid
+363;HLA-A*66:01;Germany DKMS - Italy minority;0.0065;1159;Caucasoid
+364;HLA-A*69:01;Germany DKMS - Italy minority;0.0065;1159;Caucasoid
+365;HLA-A*30:04;Germany DKMS - Italy minority;0.0043;1159;Caucasoid
+366;HLA-A*03:02;Germany DKMS - Italy minority;0.0039;1159;Caucasoid
+367;HLA-A*02:17;Germany DKMS - Italy minority;0.0035;1159;Caucasoid
+368;HLA-A*02:02;Germany DKMS - Italy minority;0.003;1159;Caucasoid
+369;HLA-A*01:02;Germany DKMS - Italy minority;0.0022;1159;Caucasoid
+370;HLA-A*26:08;Germany DKMS - Italy minority;0.0013;1159;Caucasoid
+371;HLA-A*74:01;Germany DKMS - Italy minority;9e-04;1159;Caucasoid
+372;HLA-A*68:03;Germany DKMS - Italy minority;8e-04;1159;Caucasoid
+373;HLA-A*03:97;Germany DKMS - Italy minority;5e-04;1159;Caucasoid
+374;HLA-A*02:03;Germany DKMS - Italy minority;4e-04;1159;Caucasoid
+375;HLA-A*02:06;Germany DKMS - Italy minority;4e-04;1159;Caucasoid
+376;HLA-A*02:11;Germany DKMS - Italy minority;4e-04;1159;Caucasoid
+377;HLA-A*02:55;Germany DKMS - Italy minority;4e-04;1159;Caucasoid
+378;HLA-A*11:08;Germany DKMS - Italy minority;4e-04;1159;Caucasoid
+379;HLA-A*11:12;Germany DKMS - Italy minority;4e-04;1159;Caucasoid
+380;HLA-A*29:10;Germany DKMS - Italy minority;4e-04;1159;Caucasoid
+381;HLA-A*32:22;Germany DKMS - Italy minority;4e-04;1159;Caucasoid
+382;HLA-A*33:10;Germany DKMS - Italy minority;4e-04;1159;Caucasoid
+383;HLA-A*34:02;Germany DKMS - Italy minority;4e-04;1159;Caucasoid
+384;HLA-A*80:01;Germany DKMS - Italy minority;4e-04;1159;Caucasoid
+385;HLA-A*02:01;Germany DKMS - Netherlands minority;0.2956;1374;Caucasoid
+386;HLA-A*01:01;Germany DKMS - Netherlands minority;0.1681;1374;Caucasoid
+387;HLA-A*03:01;Germany DKMS - Netherlands minority;0.1521;1374;Caucasoid
+388;HLA-A*24:02;Germany DKMS - Netherlands minority;0.0955;1374;Caucasoid
+389;HLA-A*11:01;Germany DKMS - Netherlands minority;0.051;1374;Caucasoid
+390;HLA-A*32:01;Germany DKMS - Netherlands minority;0.0364;1374;Caucasoid
+391;HLA-A*31:01;Germany DKMS - Netherlands minority;0.036;1374;Caucasoid
+392;HLA-A*68:01;Germany DKMS - Netherlands minority;0.0348;1374;Caucasoid
+393;HLA-A*29:02;Germany DKMS - Netherlands minority;0.0248;1374;Caucasoid
+394;HLA-A*26:01;Germany DKMS - Netherlands minority;0.0208;1374;Caucasoid
+395;HLA-A*23:01;Germany DKMS - Netherlands minority;0.0131;1374;Caucasoid
+396;HLA-A*30:01;Germany DKMS - Netherlands minority;0.0127;1374;Caucasoid
+397;HLA-A*25:01;Germany DKMS - Netherlands minority;0.0113;1374;Caucasoid
+398;HLA-A*30:02;Germany DKMS - Netherlands minority;0.0062;1374;Caucasoid
+399;HLA-A*68:02;Germany DKMS - Netherlands minority;0.0055;1374;Caucasoid
+400;HLA-A*02:05;Germany DKMS - Netherlands minority;0.0051;1374;Caucasoid
+401;HLA-A*33:01;Germany DKMS - Netherlands minority;0.0044;1374;Caucasoid
+402;HLA-A*33:03;Germany DKMS - Netherlands minority;0.0038;1374;Caucasoid
+403;HLA-A*66:01;Germany DKMS - Netherlands minority;0.0036;1374;Caucasoid
+404;HLA-A*03:02;Germany DKMS - Netherlands minority;0.0033;1374;Caucasoid
+405;HLA-A*02:06;Germany DKMS - Netherlands minority;0.0022;1374;Caucasoid
+406;HLA-A*29:01;Germany DKMS - Netherlands minority;0.0022;1374;Caucasoid
+407;HLA-A*69:01;Germany DKMS - Netherlands minority;0.0015;1374;Caucasoid
+408;HLA-A*24:03;Germany DKMS - Netherlands minority;0.0013;1374;Caucasoid
+409;HLA-A*02:17;Germany DKMS - Netherlands minority;7e-04;1374;Caucasoid
+410;HLA-A*24:07;Germany DKMS - Netherlands minority;7e-04;1374;Caucasoid
+411;HLA-A*74:01;Germany DKMS - Netherlands minority;7e-04;1374;Caucasoid
+412;HLA-A*74:03;Germany DKMS - Netherlands minority;7e-04;1374;Caucasoid
+413;HLA-A*01:03;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+414;HLA-A*02:02;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+415;HLA-A*02:20;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+416;HLA-A*02:35;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+417;HLA-A*24:13;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+418;HLA-A*26:08;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+419;HLA-A*26:09;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+420;HLA-A*30:04;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+421;HLA-A*32:04;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+422;HLA-A*33:05;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+423;HLA-A*36:01;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+424;HLA-A*80:01;Germany DKMS - Netherlands minority;4e-04;1374;Caucasoid
+425;HLA-A*02:01;Germany DKMS - Portugal minority;0.2564;1176;Caucasoid
+426;HLA-A*01:01;Germany DKMS - Portugal minority;0.1158;1176;Caucasoid
+427;HLA-A*03:01;Germany DKMS - Portugal minority;0.1111;1176;Caucasoid
+428;HLA-A*24:02;Germany DKMS - Portugal minority;0.0903;1176;Caucasoid
+429;HLA-A*11:01;Germany DKMS - Portugal minority;0.0689;1176;Caucasoid
+430;HLA-A*26:01;Germany DKMS - Portugal minority;0.0397;1176;Caucasoid
+431;HLA-A*29:02;Germany DKMS - Portugal minority;0.0383;1176;Caucasoid
+432;HLA-A*23:01;Germany DKMS - Portugal minority;0.037;1176;Caucasoid
+433;HLA-A*32:01;Germany DKMS - Portugal minority;0.0361;1176;Caucasoid
+434;HLA-A*68:01;Germany DKMS - Portugal minority;0.0307;1176;Caucasoid
+435;HLA-A*33:01;Germany DKMS - Portugal minority;0.0234;1176;Caucasoid
+436;HLA-A*25:01;Germany DKMS - Portugal minority;0.023;1176;Caucasoid
+437;HLA-A*31:01;Germany DKMS - Portugal minority;0.0196;1176;Caucasoid
+438;HLA-A*02:05;Germany DKMS - Portugal minority;0.0179;1176;Caucasoid
+439;HLA-A*68:02;Germany DKMS - Portugal minority;0.0149;1176;Caucasoid
+440;HLA-A*30:01;Germany DKMS - Portugal minority;0.0145;1176;Caucasoid
+441;HLA-A*30:02;Germany DKMS - Portugal minority;0.0136;1176;Caucasoid
+442;HLA-A*33:03;Germany DKMS - Portugal minority;0.0068;1176;Caucasoid
+443;HLA-A*02:02;Germany DKMS - Portugal minority;0.0051;1176;Caucasoid
+444;HLA-A*66:01;Germany DKMS - Portugal minority;0.0051;1176;Caucasoid
+445;HLA-A*29:01;Germany DKMS - Portugal minority;0.0043;1176;Caucasoid
+446;HLA-A*02:20;Germany DKMS - Portugal minority;0.003;1176;Caucasoid
+447;HLA-A*03:02;Germany DKMS - Portugal minority;0.003;1176;Caucasoid
+448;HLA-A*34:02;Germany DKMS - Portugal minority;0.003;1176;Caucasoid
+449;HLA-A*69:01;Germany DKMS - Portugal minority;0.0026;1176;Caucasoid
+450;HLA-A*36:01;Germany DKMS - Portugal minority;0.0017;1176;Caucasoid
+451;HLA-A*01:02;Germany DKMS - Portugal minority;0.0013;1176;Caucasoid
+452;HLA-A*24:03;Germany DKMS - Portugal minority;0.0013;1176;Caucasoid
+453;HLA-A*30:04;Germany DKMS - Portugal minority;0.0013;1176;Caucasoid
+454;HLA-A*24:13;Germany DKMS - Portugal minority;0.001;1176;Caucasoid
+455;HLA-A*24:07;Germany DKMS - Portugal minority;9e-04;1176;Caucasoid
+456;HLA-A*26:08;Germany DKMS - Portugal minority;9e-04;1176;Caucasoid
+457;HLA-A*74:01;Germany DKMS - Portugal minority;9e-04;1176;Caucasoid
+458;HLA-A*80:01;Germany DKMS - Portugal minority;9e-04;1176;Caucasoid
+459;HLA-A*02:06;Germany DKMS - Portugal minority;6e-04;1176;Caucasoid
+460;HLA-A*01:03;Germany DKMS - Portugal minority;4e-04;1176;Caucasoid
+461;HLA-A*02:11;Germany DKMS - Portugal minority;4e-04;1176;Caucasoid
+462;HLA-A*02:22;Germany DKMS - Portugal minority;4e-04;1176;Caucasoid
+463;HLA-A*03:65;Germany DKMS - Portugal minority;4e-04;1176;Caucasoid
+464;HLA-A*03:69N;Germany DKMS - Portugal minority;4e-04;1176;Caucasoid
+465;HLA-A*24:26;Germany DKMS - Portugal minority;4e-04;1176;Caucasoid
+466;HLA-A*33:05;Germany DKMS - Portugal minority;4e-04;1176;Caucasoid
+467;HLA-A*66:02;Germany DKMS - Portugal minority;4e-04;1176;Caucasoid
+468;HLA-A*02:01;Germany DKMS - Romania minority;0.2763;1234;Caucasoid
+469;HLA-A*01:01;Germany DKMS - Romania minority;0.1457;1234;Caucasoid
+470;HLA-A*03:01;Germany DKMS - Romania minority;0.1175;1234;Caucasoid
+471;HLA-A*24:02;Germany DKMS - Romania minority;0.1079;1234;Caucasoid
+472;HLA-A*11:01;Germany DKMS - Romania minority;0.0584;1234;Caucasoid
+473;HLA-A*26:01;Germany DKMS - Romania minority;0.0417;1234;Caucasoid
+474;HLA-A*32:01;Germany DKMS - Romania minority;0.0365;1234;Caucasoid
+475;HLA-A*25:01;Germany DKMS - Romania minority;0.0296;1234;Caucasoid
+476;HLA-A*31:01;Germany DKMS - Romania minority;0.0288;1234;Caucasoid
+477;HLA-A*68:01;Germany DKMS - Romania minority;0.0271;1234;Caucasoid
+478;HLA-A*23:01;Germany DKMS - Romania minority;0.0199;1234;Caucasoid
+479;HLA-A*29:02;Germany DKMS - Romania minority;0.017;1234;Caucasoid
+480;HLA-A*30:01;Germany DKMS - Romania minority;0.0166;1234;Caucasoid
+481;HLA-A*33:01;Germany DKMS - Romania minority;0.013;1234;Caucasoid
+482;HLA-A*30:02;Germany DKMS - Romania minority;0.0077;1234;Caucasoid
+483;HLA-A*02:05;Germany DKMS - Romania minority;0.0073;1234;Caucasoid
+484;HLA-A*33:03;Germany DKMS - Romania minority;0.0069;1234;Caucasoid
+485;HLA-A*03:02;Germany DKMS - Romania minority;0.0061;1234;Caucasoid
+486;HLA-A*66:01;Germany DKMS - Romania minority;0.0057;1234;Caucasoid
+487;HLA-A*29:01;Germany DKMS - Romania minority;0.0053;1234;Caucasoid
+488;HLA-A*68:02;Germany DKMS - Romania minority;0.0045;1234;Caucasoid
+489;HLA-A*24:03;Germany DKMS - Romania minority;0.0041;1234;Caucasoid
+490;HLA-A*02:17;Germany DKMS - Romania minority;0.0032;1234;Caucasoid
+491;HLA-A*02:02;Germany DKMS - Romania minority;0.0016;1234;Caucasoid
+492;HLA-A*02:11;Germany DKMS - Romania minority;0.0016;1234;Caucasoid
+493;HLA-A*34:02;Germany DKMS - Romania minority;0.0016;1234;Caucasoid
+494;HLA-A*02:06;Germany DKMS - Romania minority;0.0012;1234;Caucasoid
+495;HLA-A*30:04;Germany DKMS - Romania minority;0.0012;1234;Caucasoid
+496;HLA-A*74:03;Germany DKMS - Romania minority;0.0012;1234;Caucasoid
+497;HLA-A*02:30;Germany DKMS - Romania minority;8e-04;1234;Caucasoid
+498;HLA-A*02:07;Germany DKMS - Romania minority;4e-04;1234;Caucasoid
+499;HLA-A*02:08;Germany DKMS - Romania minority;4e-04;1234;Caucasoid
+500;HLA-A*02:27;Germany DKMS - Romania minority;4e-04;1234;Caucasoid
+501;HLA-A*03:97;Germany DKMS - Romania minority;4e-04;1234;Caucasoid
+502;HLA-A*24:18;Germany DKMS - Romania minority;4e-04;1234;Caucasoid
+503;HLA-A*68:18N;Germany DKMS - Romania minority;4e-04;1234;Caucasoid
+504;HLA-A*74:01;Germany DKMS - Romania minority;4e-04;1234;Caucasoid
+505;HLA-A*80:01;Germany DKMS - Romania minority;4e-04;1234;Caucasoid
+506;HLA-A*02:01;Germany DKMS - Spain minority;0.2367;1107;Caucasoid
+507;HLA-A*01:01;Germany DKMS - Spain minority;0.1189;1107;Caucasoid
+508;HLA-A*03:01;Germany DKMS - Spain minority;0.1147;1107;Caucasoid
+509;HLA-A*24:02;Germany DKMS - Spain minority;0.0901;1107;Caucasoid
+510;HLA-A*11:01;Germany DKMS - Spain minority;0.0628;1107;Caucasoid
+511;HLA-A*29:02;Germany DKMS - Spain minority;0.0621;1107;Caucasoid
+512;HLA-A*26:01;Germany DKMS - Spain minority;0.0375;1107;Caucasoid
+513;HLA-A*23:01;Germany DKMS - Spain minority;0.037;1107;Caucasoid
+514;HLA-A*32:01;Germany DKMS - Spain minority;0.034;1107;Caucasoid
+515;HLA-A*68:01;Germany DKMS - Spain minority;0.0339;1107;Caucasoid
+516;HLA-A*30:02;Germany DKMS - Spain minority;0.0271;1107;Caucasoid
+517;HLA-A*33:01;Germany DKMS - Spain minority;0.0251;1107;Caucasoid
+518;HLA-A*31:01;Germany DKMS - Spain minority;0.0208;1107;Caucasoid
+519;HLA-A*68:02;Germany DKMS - Spain minority;0.0163;1107;Caucasoid
+520;HLA-A*25:01;Germany DKMS - Spain minority;0.015;1107;Caucasoid
+521;HLA-A*30:01;Germany DKMS - Spain minority;0.0149;1107;Caucasoid
+522;HLA-A*02:05;Germany DKMS - Spain minority;0.0122;1107;Caucasoid
+523;HLA-A*66:01;Germany DKMS - Spain minority;0.0058;1107;Caucasoid
+524;HLA-A*03:02;Germany DKMS - Spain minority;0.0036;1107;Caucasoid
+525;HLA-A*34:02;Germany DKMS - Spain minority;0.0036;1107;Caucasoid
+526;HLA-A*01:02;Germany DKMS - Spain minority;0.0027;1107;Caucasoid
+527;HLA-A*29:01;Germany DKMS - Spain minority;0.0027;1107;Caucasoid
+528;HLA-A*24:03;Germany DKMS - Spain minority;0.0023;1107;Caucasoid
+529;HLA-A*69:01;Germany DKMS - Spain minority;0.0023;1107;Caucasoid
+530;HLA-A*33:03;Germany DKMS - Spain minority;0.002;1107;Caucasoid
+531;HLA-A*30:04;Germany DKMS - Spain minority;0.0018;1107;Caucasoid
+532;HLA-A*02:02;Germany DKMS - Spain minority;0.0014;1107;Caucasoid
+533;HLA-A*74:01;Germany DKMS - Spain minority;0.0014;1107;Caucasoid
+534;HLA-A*02:11;Germany DKMS - Spain minority;9e-04;1107;Caucasoid
+535;HLA-A*02:17;Germany DKMS - Spain minority;9e-04;1107;Caucasoid
+536;HLA-A*01:03;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+537;HLA-A*02:20;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+538;HLA-A*02:22;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+539;HLA-A*02:60;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+540;HLA-A*11:04;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+541;HLA-A*23:04;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+542;HLA-A*26:08;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+543;HLA-A*26:09;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+544;HLA-A*30:10;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+545;HLA-A*33:05;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+546;HLA-A*34:01;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+547;HLA-A*68:03;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+548;HLA-A*74:06;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+549;HLA-A*80:01;Germany DKMS - Spain minority;5e-04;1107;Caucasoid
+550;HLA-A*02:01;Germany DKMS - Turkey minority;0.1957;4856;Caucasoid
+551;HLA-A*24:02;Germany DKMS - Turkey minority;0.1447;4856;Caucasoid
+552;HLA-A*01:01;Germany DKMS - Turkey minority;0.1032;4856;Caucasoid
+553;HLA-A*03:01;Germany DKMS - Turkey minority;0.0943;4856;Caucasoid
+554;HLA-A*11:01;Germany DKMS - Turkey minority;0.0748;4856;Caucasoid
+555;HLA-A*26:01;Germany DKMS - Turkey minority;0.0578;4856;Caucasoid
+556;HLA-A*32:01;Germany DKMS - Turkey minority;0.049;4856;Caucasoid
+557;HLA-A*68:01;Germany DKMS - Turkey minority;0.0389;4856;Caucasoid
+558;HLA-A*23:01;Germany DKMS - Turkey minority;0.0294;4856;Caucasoid
+559;HLA-A*03:02;Germany DKMS - Turkey minority;0.0282;4856;Caucasoid
+560;HLA-A*30:01;Germany DKMS - Turkey minority;0.0254;4856;Caucasoid
+561;HLA-A*31:01;Germany DKMS - Turkey minority;0.0195;4856;Caucasoid
+562;HLA-A*02:05;Germany DKMS - Turkey minority;0.0181;4856;Caucasoid
+563;HLA-A*33:03;Germany DKMS - Turkey minority;0.0142;4856;Caucasoid
+564;HLA-A*33:01;Germany DKMS - Turkey minority;0.0141;4856;Caucasoid
+565;HLA-A*29:01;Germany DKMS - Turkey minority;0.0133;4856;Caucasoid
+566;HLA-A*24:03;Germany DKMS - Turkey minority;0.0081;4856;Caucasoid
+567;HLA-A*25:01;Germany DKMS - Turkey minority;0.0078;4856;Caucasoid
+568;HLA-A*29:02;Germany DKMS - Turkey minority;0.0069;4856;Caucasoid
+569;HLA-A*30:04;Germany DKMS - Turkey minority;0.0065;4856;Caucasoid
+570;HLA-A*66:01;Germany DKMS - Turkey minority;0.0064;4856;Caucasoid
+571;HLA-A*02:06;Germany DKMS - Turkey minority;0.0058;4856;Caucasoid
+572;HLA-A*02:17;Germany DKMS - Turkey minority;0.0056;4856;Caucasoid
+573;HLA-A*30:02;Germany DKMS - Turkey minority;0.0054;4856;Caucasoid
+574;HLA-A*69:01;Germany DKMS - Turkey minority;0.0052;4856;Caucasoid
+575;HLA-A*68:02;Germany DKMS - Turkey minority;0.0046;4856;Caucasoid
+576;HLA-A*02:11;Germany DKMS - Turkey minority;0.0028;4856;Caucasoid
+577;HLA-A*02:07;Germany DKMS - Turkey minority;0.0021;4856;Caucasoid
+578;HLA-A*02:02;Germany DKMS - Turkey minority;0.0019;4856;Caucasoid
+579;HLA-A*29:10;Germany DKMS - Turkey minority;0.0017;4856;Caucasoid
+580;HLA-A*02:08;Germany DKMS - Turkey minority;0.0011;4856;Caucasoid
+581;HLA-A*01:03;Germany DKMS - Turkey minority;9e-04;4856;Caucasoid
+582;HLA-A*02:20;Germany DKMS - Turkey minority;7e-04;4856;Caucasoid
+583;HLA-A*24:07;Germany DKMS - Turkey minority;6e-04;4856;Caucasoid
+584;HLA-A*02:03;Germany DKMS - Turkey minority;4e-04;4856;Caucasoid
+585;HLA-A*11:02;Germany DKMS - Turkey minority;4e-04;4856;Caucasoid
+586;HLA-A*02:12;Germany DKMS - Turkey minority;3e-04;4856;Caucasoid
+587;HLA-A*33:05;Germany DKMS - Turkey minority;3e-04;4856;Caucasoid
+588;HLA-A*34:01;Germany DKMS - Turkey minority;3e-04;4856;Caucasoid
+589;HLA-A*36:01;Germany DKMS - Turkey minority;3e-04;4856;Caucasoid
+590;HLA-A*01:02;Germany DKMS - Turkey minority;2e-04;4856;Caucasoid
+591;HLA-A*02:22;Germany DKMS - Turkey minority;2e-04;4856;Caucasoid
+592;HLA-A*03:97;Germany DKMS - Turkey minority;2e-04;4856;Caucasoid
+593;HLA-A*26:08;Germany DKMS - Turkey minority;2e-04;4856;Caucasoid
+594;HLA-A*26:49;Germany DKMS - Turkey minority;2e-04;4856;Caucasoid
+595;HLA-A*33:26;Germany DKMS - Turkey minority;2e-04;4856;Caucasoid
+596;HLA-A*34:02;Germany DKMS - Turkey minority;2e-04;4856;Caucasoid
+597;HLA-A*74:01;Germany DKMS - Turkey minority;2e-04;4856;Caucasoid
+598;HLA-A*80:01;Germany DKMS - Turkey minority;2e-04;4856;Caucasoid
+599;HLA-A*01:06;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+600;HLA-A*01:38;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+601;HLA-A*01:44;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+602;HLA-A*02:64;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+603;HLA-A*02:93;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+604;HLA-A*02:141;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+605;HLA-A*02:146;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+606;HLA-A*11:18;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+607;HLA-A*11:19;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+608;HLA-A*24:93;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+609;HLA-A*26:17;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+610;HLA-A*32:13;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+611;HLA-A*32:20;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+612;HLA-A*68:38;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+613;HLA-A*74:03;Germany DKMS - Turkey minority;1e-04;4856;Caucasoid
+614;HLA-A*02:01;Germany DKMS - United Kingdom minority;0.2739;1043;Caucasoid
+615;HLA-A*01:01;Germany DKMS - United Kingdom minority;0.1803;1043;Caucasoid
+616;HLA-A*03:01;Germany DKMS - United Kingdom minority;0.1366;1043;Caucasoid
+617;HLA-A*24:02;Germany DKMS - United Kingdom minority;0.0859;1043;Caucasoid
+618;HLA-A*11:01;Germany DKMS - United Kingdom minority;0.0647;1043;Caucasoid
+619;HLA-A*32:01;Germany DKMS - United Kingdom minority;0.036;1043;Caucasoid
+620;HLA-A*29:02;Germany DKMS - United Kingdom minority;0.0352;1043;Caucasoid
+621;HLA-A*68:01;Germany DKMS - United Kingdom minority;0.0309;1043;Caucasoid
+622;HLA-A*26:01;Germany DKMS - United Kingdom minority;0.028;1043;Caucasoid
+623;HLA-A*31:01;Germany DKMS - United Kingdom minority;0.0264;1043;Caucasoid
+624;HLA-A*25:01;Germany DKMS - United Kingdom minority;0.0216;1043;Caucasoid
+625;HLA-A*23:01;Germany DKMS - United Kingdom minority;0.0154;1043;Caucasoid
+626;HLA-A*30:01;Germany DKMS - United Kingdom minority;0.0096;1043;Caucasoid
+627;HLA-A*02:05;Germany DKMS - United Kingdom minority;0.0086;1043;Caucasoid
+628;HLA-A*30:02;Germany DKMS - United Kingdom minority;0.0077;1043;Caucasoid
+629;HLA-A*68:02;Germany DKMS - United Kingdom minority;0.006;1043;Caucasoid
+630;HLA-A*33:01;Germany DKMS - United Kingdom minority;0.0048;1043;Caucasoid
+631;HLA-A*66:01;Germany DKMS - United Kingdom minority;0.0048;1043;Caucasoid
+632;HLA-A*33:03;Germany DKMS - United Kingdom minority;0.0038;1043;Caucasoid
+633;HLA-A*03:02;Germany DKMS - United Kingdom minority;0.0014;1043;Caucasoid
+634;HLA-A*29:01;Germany DKMS - United Kingdom minority;0.0014;1043;Caucasoid
+635;HLA-A*69:01;Germany DKMS - United Kingdom minority;0.0014;1043;Caucasoid
+636;HLA-A*26:08;Germany DKMS - United Kingdom minority;0.001;1043;Caucasoid
+637;HLA-A*01:02;Germany DKMS - United Kingdom minority;0.001;1043;Caucasoid
+638;HLA-A*02:02;Germany DKMS - United Kingdom minority;0.001;1043;Caucasoid
+639;HLA-A*02:06;Germany DKMS - United Kingdom minority;0.001;1043;Caucasoid
+640;HLA-A*30:04;Germany DKMS - United Kingdom minority;0.001;1043;Caucasoid
+641;HLA-A*34:02;Germany DKMS - United Kingdom minority;0.001;1043;Caucasoid
+642;HLA-A*80:01;Germany DKMS - United Kingdom minority;0.001;1043;Caucasoid
+643;HLA-A*23:04;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+644;HLA-A*24:03;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+645;HLA-A*02:08;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+646;HLA-A*02:11;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+647;HLA-A*02:30;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+648;HLA-A*02:38;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+649;HLA-A*03:22;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+650;HLA-A*24:10;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+651;HLA-A*24:13;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+652;HLA-A*33:05;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+653;HLA-A*36:01;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+654;HLA-A*74:03;Germany DKMS - United Kingdom minority;5e-04;1043;Caucasoid
+655;HLA-A*02:01;Germany pop 6;0.2888;8862;Caucasoid
+656;HLA-A*03:01;Germany pop 6;0.1588;8862;Caucasoid
+657;HLA-A*01:01;Germany pop 6;0.1541;8862;Caucasoid
+658;HLA-A*24:02;Germany pop 6;0.0887;8862;Caucasoid
+659;HLA-A*11:01;Germany pop 6;0.0507;8862;Caucasoid
+660;HLA-A*32:01;Germany pop 6;0.0368;8862;Caucasoid
+661;HLA-A*68:01;Germany pop 6;0.0363;8862;Caucasoid
+662;HLA-A*26:01;Germany pop 6;0.0299;8862;Caucasoid
+663;HLA-A*25:01;Germany pop 6;0.0238;8862;Caucasoid
+664;HLA-A*29:02;Germany pop 6;0.0235;8862;Caucasoid
+665;HLA-A*31:01;Germany pop 6;0.0226;8862;Caucasoid
+666;HLA-A*23:01;Germany pop 6;0.0215;8862;Caucasoid
+667;HLA-A*30:01;Germany pop 6;0.0124;8862;Caucasoid
+668;HLA-A*33:01;Germany pop 6;0.0078;8862;Caucasoid
+669;HLA-A*68:02;Germany pop 6;0.0071;8862;Caucasoid
+670;HLA-A*02:05;Germany pop 6;0.0064;8862;Caucasoid
+671;HLA-A*30:02;Germany pop 6;0.0059;8862;Caucasoid
+672;HLA-A*33:03;Germany pop 6;0.0044;8862;Caucasoid
+673;HLA-A*66:01;Germany pop 6;0.0044;8862;Caucasoid
+674;HLA-A*02:06;Germany pop 6;0.0025;8862;Caucasoid
+675;HLA-A*03:02;Germany pop 6;0.0024;8862;Caucasoid
+676;HLA-A*29:01;Germany pop 6;0.0017;8862;Caucasoid
+677;HLA-A*24:03;Germany pop 6;0.0012;8862;Caucasoid
+678;HLA-A*02:17;Germany pop 6;0.001;8862;Caucasoid
+679;HLA-A*30:04;Germany pop 6;8e-04;8862;Caucasoid
+680;HLA-A*26:08;Germany pop 6;8e-04;8862;Caucasoid
+681;HLA-A*02:02;Germany pop 6;5e-04;8862;Caucasoid
+682;HLA-A*69:01;Germany pop 6;6e-04;8862;Caucasoid
+683;HLA-A*74:03;Germany pop 6;5e-04;8862;Caucasoid
+684;HLA-A*02:08;Germany pop 6;2e-04;8862;Caucasoid
+685;HLA-A*02:30;Germany pop 6;2e-04;8862;Caucasoid
+686;HLA-A*34:02;Germany pop 6;3e-04;8862;Caucasoid
+687;HLA-A*01:02;Germany pop 6;2e-04;8862;Caucasoid
+688;HLA-A*01:03;Germany pop 6;2e-04;8862;Caucasoid
+689;HLA-A*02:03;Germany pop 6;1e-04;8862;Caucasoid
+690;HLA-A*02:07;Germany pop 6;1e-04;8862;Caucasoid
+691;HLA-A*02:20;Germany pop 6;1e-04;8862;Caucasoid
+692;HLA-A*02:27;Germany pop 6;2e-04;8862;Caucasoid
+693;HLA-A*02:29;Germany pop 6;1e-04;8862;Caucasoid
+694;HLA-A*02:35;Germany pop 6;2e-04;8862;Caucasoid
+695;HLA-A*03:05;Germany pop 6;1e-04;8862;Caucasoid
+696;HLA-A*11:12;Germany pop 6;1e-04;8862;Caucasoid
+697;HLA-A*24:07;Germany pop 6;1e-04;8862;Caucasoid
+698;HLA-A*26:15;Germany pop 6;2e-04;8862;Caucasoid
+699;HLA-A*33:05;Germany pop 6;2e-04;8862;Caucasoid
+700;HLA-A*36:01;Germany pop 6;1e-04;8862;Caucasoid
+701;HLA-A*68:12;Germany pop 6;1e-04;8862;Caucasoid
+702;HLA-A*68:13;Germany pop 6;1e-04;8862;Caucasoid
+703;HLA-A*68:24;Germany pop 6;1e-04;8862;Caucasoid
+704;HLA-A*74:01;Germany pop 6;1e-04;8862;Caucasoid
+705;HLA-A*02:01;Greece pop 6;0.2624;242;Caucasoid
+706;HLA-A*24:02;Greece pop 6;0.1178;242;Caucasoid
+707;HLA-A*01:01;Greece pop 6;0.1136;242;Caucasoid
+708;HLA-A*03:01;Greece pop 6;0.0868;242;Caucasoid
+709;HLA-A*11:01;Greece pop 6;0.0682;242;Caucasoid
+710;HLA-A*26:01;Greece pop 6;0.0661;242;Caucasoid
+711;HLA-A*32:01;Greece pop 6;0.0661;242;Caucasoid
+712;HLA-A*68:01;Greece pop 6;0.0393;242;Caucasoid
+713;HLA-A*23:01;Greece pop 6;0.0248;242;Caucasoid
+714;HLA-A*31:01;Greece pop 6;0.0248;242;Caucasoid
+715;HLA-A*30:01;Greece pop 6;0.0186;242;Caucasoid
+716;HLA-A*29:01;Greece pop 6;0.0124;242;Caucasoid
+717;HLA-A*33:03;Greece pop 6;0.0124;242;Caucasoid
+718;HLA-A*68:02;Greece pop 6;0.0124;242;Caucasoid
+719;HLA-A*24:03;Greece pop 6;0.0103;242;Caucasoid
+720;HLA-A*03:02;Greece pop 6;0.0083;242;Caucasoid
+721;HLA-A*30:02;Greece pop 6;0.0083;242;Caucasoid
+722;HLA-A*69:01;Greece pop 6;0.0083;242;Caucasoid
+723;HLA-A*02:05;Greece pop 6;0.0062;242;Caucasoid
+724;HLA-A*66:01;Greece pop 6;0.0062;242;Caucasoid
+725;HLA-A*23:02;Greece pop 6;0.0041;242;Caucasoid
+726;HLA-A*25:01;Greece pop 6;0.0041;242;Caucasoid
+727;HLA-A*33:01;Greece pop 6;0.0041;242;Caucasoid
+728;HLA-A*02:02;Greece pop 6;0.0021;242;Caucasoid
+729;HLA-A*02:11;Greece pop 6;0.0021;242;Caucasoid
+730;HLA-A*11:09;Greece pop 6;0.0021;242;Caucasoid
+731;HLA-A*29:02;Greece pop 6;0.0021;242;Caucasoid
+732;HLA-A*29:10;Greece pop 6;0.0021;242;Caucasoid
+733;HLA-A*30:04;Greece pop 6;0.0021;242;Caucasoid
+734;HLA-A*32:03;Greece pop 6;0.0021;242;Caucasoid
+735;HLA-A*02:01;Ireland Northern;0.274;1;Caucasoid
+736;HLA-A*01:01;Ireland Northern;0.202;1;Caucasoid
+737;HLA-A*03:01;Ireland Northern;0.143;1;Caucasoid
+738;HLA-A*11:01;Ireland Northern;0.08;1;Caucasoid
+739;HLA-A*29:02;Ireland Northern;0.049;1;Caucasoid
+740;HLA-A*32:01;Ireland Northern;0.032;1;Caucasoid
+741;HLA-A*25:01;Ireland Northern;0.02;1;Caucasoid
+742;HLA-A*26:01;Ireland Northern;0.018;1;Caucasoid
+743;HLA-A*23:01;Ireland Northern;0.014;1;Caucasoid
+744;HLA-A*02:05;Ireland Northern;0.012;1;Caucasoid
+745;HLA-A*30:02;Ireland Northern;0.012;1;Caucasoid
+746;HLA-A*30:01;Ireland Northern;0.011;1;Caucasoid
+747;HLA-A*68:02;Ireland Northern;0.009;1;Caucasoid
+748;HLA-A*33:01;Ireland Northern;0.007;1;Caucasoid
+749;HLA-A*33:03;Ireland Northern;0.003;1;Caucasoid
+750;HLA-A*03:02;Ireland Northern;0.002;1;Caucasoid
+751;HLA-A*66:01;Ireland Northern;0.001;1;Caucasoid
+752;HLA-A*02:17;Ireland Northern;0.001;1;Caucasoid
+753;HLA-A*24:09N;Ireland Northern;0.001;1;Caucasoid
+754;HLA-A*25:02;Ireland Northern;0.001;1;Caucasoid
+755;HLA-A*26:08;Ireland Northern;0.001;1;Caucasoid
+756;HLA-A*30:04;Ireland Northern;0.001;1;Caucasoid
+757;HLA-A*34:02;Ireland Northern;0.001;1;Caucasoid
+758;HLA-A*02:01;Italy pop 5;0.241;975;Caucasoid
+759;HLA-A*24:02;Italy pop 5;0.122;975;Caucasoid
+760;HLA-A*01:01;Italy pop 5;0.102;975;Caucasoid
+761;HLA-A*03:01;Italy pop 5;0.102;975;Caucasoid
+762;HLA-A*11:01;Italy pop 5;0.046;975;Caucasoid
+763;HLA-A*26:01;Italy pop 5;0.041;975;Caucasoid
+764;HLA-A*32:01;Italy pop 5;0.037;975;Caucasoid
+765;HLA-A*30:01;Italy pop 5;0.034;975;Caucasoid
+766;HLA-A*68:01;Italy pop 5;0.033;975;Caucasoid
+767;HLA-A*31:01;Italy pop 5;0.026;975;Caucasoid
+768;HLA-A*02:05;Italy pop 5;0.023;975;Caucasoid
+769;HLA-A*23:01;Italy pop 5;0.022;975;Caucasoid
+770;HLA-A*29:02;Italy pop 5;0.021;975;Caucasoid
+771;HLA-A*30:02;Italy pop 5;0.02;975;Caucasoid
+772;HLA-A*33:01;Italy pop 5;0.02;975;Caucasoid
+773;HLA-A*25:01;Italy pop 5;0.017;975;Caucasoid
+774;HLA-A*03:02;Italy pop 5;0.015;975;Caucasoid
+775;HLA-A*24:03;Italy pop 5;0.012;975;Caucasoid
+776;HLA-A*66:01;Italy pop 5;0.008;975;Caucasoid
+777;HLA-A*30:04;Italy pop 5;0.007;975;Caucasoid
+778;HLA-A*68:02;Italy pop 5;0.007;975;Caucasoid
+779;HLA-A*02:17;Italy pop 5;0.006;975;Caucasoid
+780;HLA-A*33:03;Italy pop 5;0.006;975;Caucasoid
+781;HLA-A*29:01;Italy pop 5;0.005;975;Caucasoid
+782;HLA-A*02:02;Italy pop 5;0.004;975;Caucasoid
+783;HLA-A*69:01;Italy pop 5;0.004;975;Caucasoid
+784;HLA-A*01:02;Italy pop 5;0.003;975;Caucasoid
+785;HLA-A*02:06;Italy pop 5;0.003;975;Caucasoid
+786;HLA-A*03:05;Italy pop 5;0.003;975;Caucasoid
+787;HLA-A*24:07;Italy pop 5;0.002;975;Caucasoid
+788;HLA-A*26:08;Italy pop 5;0.002;975;Caucasoid
+789;HLA-A*02:04;Italy pop 5;0.001;975;Caucasoid
+790;HLA-A*02:07;Italy pop 5;0.001;975;Caucasoid
+791;HLA-A*02:09;Italy pop 5;0.001;975;Caucasoid
+792;HLA-A*02:20;Italy pop 5;0.001;975;Caucasoid
+793;HLA-A*02:22;Italy pop 5;0.001;975;Caucasoid
+794;HLA-A*02:40;Italy pop 5;0.001;975;Caucasoid
+795;HLA-A*02:55;Italy pop 5;0.001;975;Caucasoid
+796;HLA-A*11:06;Italy pop 5;0.001;975;Caucasoid
+797;HLA-A*11:12;Italy pop 5;0.001;975;Caucasoid
+798;HLA-A*26:15;Italy pop 5;0.001;975;Caucasoid
+799;HLA-A*26:26;Italy pop 5;0.001;975;Caucasoid
+800;HLA-A*31:04;Italy pop 5;0.001;975;Caucasoid
+801;HLA-A*32:02;Italy pop 5;0.001;975;Caucasoid
+802;HLA-A*33:05;Italy pop 5;0.001;975;Caucasoid
+803;HLA-A*34:02;Italy pop 5;0.001;975;Caucasoid
+804;HLA-A*36:01;Italy pop 5;0.001;975;Caucasoid
+805;HLA-A*74:01;Italy pop 5;0.001;975;Caucasoid
+806;HLA-A*24:02;Madeira;0.13;185;Caucasoid
+807;HLA-A*23:01;Madeira;0.062;185;Caucasoid
+808;HLA-A*29:02;Madeira;0.062;185;Caucasoid
+809;HLA-A*32:01;Madeira;0.049;185;Caucasoid
+810;HLA-A*26:01;Madeira;0.035;185;Caucasoid
+811;HLA-A*33:01;Madeira;0.03;185;Caucasoid
+812;HLA-A*02:05;Madeira;0.022;185;Caucasoid
+813;HLA-A*30:02;Madeira;0.014;185;Caucasoid
+814;HLA-A*66:01;Madeira;0.011;185;Caucasoid
+815;HLA-A*01:02;Madeira;0.008;185;Caucasoid
+816;HLA-A*02:02;Madeira;0.008;185;Caucasoid
+817;HLA-A*68:02;Madeira;0.008;185;Caucasoid
+818;HLA-A*02:08;Madeira;0.005;185;Caucasoid
+819;HLA-A*25:01;Madeira;0.005;185;Caucasoid
+820;HLA-A*03:02;Madeira;0.003;185;Caucasoid
+821;HLA-A*24:05;Madeira;0.003;185;Caucasoid
+822;HLA-A*24:26;Madeira;0.003;185;Caucasoid
+823;HLA-A*25:02;Madeira;0.003;185;Caucasoid
+824;HLA-A*29:01;Madeira;0.003;185;Caucasoid
+825;HLA-A*30:01;Madeira;0.003;185;Caucasoid
+826;HLA-A*31:08;Madeira;0.003;185;Caucasoid
+827;HLA-A*34:02;Madeira;0.003;185;Caucasoid
+828;HLA-A*36:01;Madeira;0.003;185;Caucasoid
+829;HLA-A*74:03;Madeira;0.003;185;Caucasoid
+830;HLA-A*23:01;Morocco Settat Chaouya;0.074;98;Caucasoid
+831;HLA-A*29:02;Morocco Settat Chaouya;0.068;98;Caucasoid
+832;HLA-A*30:01;Morocco Settat Chaouya;0.068;98;Caucasoid
+833;HLA-A*30:02;Morocco Settat Chaouya;0.041;98;Caucasoid
+834;HLA-A*32:01;Morocco Settat Chaouya;0.034;98;Caucasoid
+835;HLA-A*26:01;Morocco Settat Chaouya;0.027;98;Caucasoid
+836;HLA-A*80:01;Morocco Settat Chaouya;0.027;98;Caucasoid
+837;HLA-A*33:01;Morocco Settat Chaouya;0.02;98;Caucasoid
+838;HLA-A*02:05;Morocco Settat Chaouya;0.014;98;Caucasoid
+839;HLA-A*25:01;Morocco Settat Chaouya;0.014;98;Caucasoid
+840;HLA-A*30:04;Morocco Settat Chaouya;0.014;98;Caucasoid
+841;HLA-A*33:03;Morocco Settat Chaouya;0.014;98;Caucasoid
+842;HLA-A*34:02;Morocco Settat Chaouya;0.014;98;Caucasoid
+843;HLA-A*66:01;Morocco Settat Chaouya;0.014;98;Caucasoid
+844;HLA-A*69:01;Morocco Settat Chaouya;0.014;98;Caucasoid
+845;HLA-A*01:02;Morocco Settat Chaouya;0.007;98;Caucasoid
+846;HLA-A*02:02;Morocco Settat Chaouya;0.007;98;Caucasoid
+847;HLA-A*03:02;Morocco Settat Chaouya;0.007;98;Caucasoid
+848;HLA-A*30:10;Morocco Settat Chaouya;0.007;98;Caucasoid
+849;HLA-A*74:01;Morocco Settat Chaouya;0.007;98;Caucasoid
+850;HLA-A*02:01;Poland DKMS;0.2849;20653;Caucasoid
+851;HLA-A*01:01;Poland DKMS;0.1377;20653;Caucasoid
+852;HLA-A*03:01;Poland DKMS;0.1315;20653;Caucasoid
+853;HLA-A*24:02;Poland DKMS;0.0943;20653;Caucasoid
+854;HLA-A*11:01;Poland DKMS;0.0623;20653;Caucasoid
+855;HLA-A*25:01;Poland DKMS;0.0518;20653;Caucasoid
+856;HLA-A*26:01;Poland DKMS;0.0473;20653;Caucasoid
+857;HLA-A*68:01;Poland DKMS;0.033;20653;Caucasoid
+858;HLA-A*32:01;Poland DKMS;0.0286;20653;Caucasoid
+859;HLA-A*31:01;Poland DKMS;0.0245;20653;Caucasoid
+860;HLA-A*23:01;Poland DKMS;0.0228;20653;Caucasoid
+861;HLA-A*30:01;Poland DKMS;0.0175;20653;Caucasoid
+862;HLA-A*29:02;Poland DKMS;0.0142;20653;Caucasoid
+863;HLA-A*66:01;Poland DKMS;0.0071;20653;Caucasoid
+864;HLA-A*02:05;Poland DKMS;0.0066;20653;Caucasoid
+865;HLA-A*33:01;Poland DKMS;0.0056;20653;Caucasoid
+866;HLA-A*68:02;Poland DKMS;0.0047;20653;Caucasoid
+867;HLA-A*33:03;Poland DKMS;0.0042;20653;Caucasoid
+868;HLA-A*03:02;Poland DKMS;0.0034;20653;Caucasoid
+869;HLA-A*30:02;Poland DKMS;0.0027;20653;Caucasoid
+870;HLA-A*29:01;Poland DKMS;0.0024;20653;Caucasoid
+871;HLA-A*02:06;Poland DKMS;0.0022;20653;Caucasoid
+872;HLA-A*02:17;Poland DKMS;0.0017;20653;Caucasoid
+873;HLA-A*24:03;Poland DKMS;0.0014;20653;Caucasoid
+874;HLA-A*30:04;Poland DKMS;0.0014;20653;Caucasoid
+875;HLA-A*26:08;Poland DKMS;7e-04;20653;Caucasoid
+876;HLA-A*34:02;Poland DKMS;7e-04;20653;Caucasoid
+877;HLA-A*69:01;Poland DKMS;6e-04;20653;Caucasoid
+878;HLA-A*02:07;Poland DKMS;4e-04;20653;Caucasoid
+879;HLA-A*02:30;Poland DKMS;4e-04;20653;Caucasoid
+880;HLA-A*74:03;Poland DKMS;4e-04;20653;Caucasoid
+881;HLA-A*02:02;Poland DKMS;3e-04;20653;Caucasoid
+882;HLA-A*02:35;Poland DKMS;3e-04;20653;Caucasoid
+883;HLA-A*02:22;Poland DKMS;3e-04;20653;Caucasoid
+884;HLA-A*24:07;Poland DKMS;3e-04;20653;Caucasoid
+885;HLA-A*01:03;Poland DKMS;2e-04;20653;Caucasoid
+886;HLA-A*02:08;Poland DKMS;2e-04;20653;Caucasoid
+887;HLA-A*02:12;Poland DKMS;1e-04;20653;Caucasoid
+888;HLA-A*24:56;Poland DKMS;2e-04;20653;Caucasoid
+889;HLA-A*29:10;Poland DKMS;2e-04;20653;Caucasoid
+890;HLA-A*68:24;Poland DKMS;1e-04;20653;Caucasoid
+891;HLA-A*02:01;Portugal Center;0.26;50;Caucasoid
+892;HLA-A*01:01;Portugal Center;0.13;50;Caucasoid
+893;HLA-A*03:01;Portugal Center;0.09;50;Caucasoid
+894;HLA-A*24:02;Portugal Center;0.08;50;Caucasoid
+895;HLA-A*29:02;Portugal Center;0.07;50;Caucasoid
+896;HLA-A*68:01;Portugal Center;0.06;50;Caucasoid
+897;HLA-A*11:01;Portugal Center;0.05;50;Caucasoid
+898;HLA-A*32:01;Portugal Center;0.04;50;Caucasoid
+899;HLA-A*33:01;Portugal Center;0.03;50;Caucasoid
+900;HLA-A*03:02;Portugal Center;0.02;50;Caucasoid
+901;HLA-A*30:01;Portugal Center;0.02;50;Caucasoid
+902;HLA-A*30:02;Portugal Center;0.02;50;Caucasoid
+903;HLA-A*66:01;Portugal Center;0.02;50;Caucasoid
+904;HLA-A*02:05;Portugal Center;0.01;50;Caucasoid
+905;HLA-A*02:20;Portugal Center;0.01;50;Caucasoid
+906;HLA-A*23:01;Portugal Center;0.01;50;Caucasoid
+907;HLA-A*26:01;Portugal Center;0.01;50;Caucasoid
+908;HLA-A*29:01;Portugal Center;0.01;50;Caucasoid
+909;HLA-A*68:02;Portugal Center;0.01;50;Caucasoid
+910;HLA-A*69:01;Portugal Center;0.01;50;Caucasoid
+911;HLA-A*03:01;Sweden Northern Sami;0.313;154;Caucasoid
+912;HLA-A*02:01;Sweden Northern Sami;0.236;154;Caucasoid
+913;HLA-A*24:02;Sweden Northern Sami;0.212;154;Caucasoid
+914;HLA-A*01:01;Sweden Northern Sami;0.083;154;Caucasoid
+915;HLA-A*31:01;Sweden Northern Sami;0.059;154;Caucasoid
+916;HLA-A*26:01;Sweden Northern Sami;0.031;154;Caucasoid
+917;HLA-A*32:01;Sweden Northern Sami;0.021;154;Caucasoid
+918;HLA-A*02:06;Sweden Northern Sami;0.014;154;Caucasoid
+919;HLA-A*68:01;Sweden Northern Sami;0.014;154;Caucasoid
+920;HLA-A*11:01;Sweden Northern Sami;0.01;154;Caucasoid
+921;HLA-A*29:02;Sweden Northern Sami;0.004;154;Caucasoid
+922;HLA-A*26:08;Sweden Northern Sami;0.003;154;Caucasoid
+923;HLA-A*02:01;Sweden Southern Sami;0.26;130;Caucasoid
+924;HLA-A*03:01;Sweden Southern Sami;0.248;130;Caucasoid
+925;HLA-A*24:02;Sweden Southern Sami;0.132;130;Caucasoid
+926;HLA-A*01:01;Sweden Southern Sami;0.093;130;Caucasoid
+927;HLA-A*11:01;Sweden Southern Sami;0.058;130;Caucasoid
+928;HLA-A*31:01;Sweden Southern Sami;0.058;130;Caucasoid
+929;HLA-A*68:01;Sweden Southern Sami;0.047;130;Caucasoid
+930;HLA-A*26:01;Sweden Southern Sami;0.031;130;Caucasoid
+931;HLA-A*02:06;Sweden Southern Sami;0.012;130;Caucasoid
+932;HLA-A*32:01;Sweden Southern Sami;0.012;130;Caucasoid
+933;HLA-A*25:01;Sweden Southern Sami;0.011;130;Caucasoid
+934;HLA-A*33:01;Sweden Southern Sami;0.011;130;Caucasoid
+935;HLA-A*29:02;Sweden Southern Sami;0.008;130;Caucasoid
+936;HLA-A*68:03;Sweden Southern Sami;0.008;130;Caucasoid
+937;HLA-A*29:01;Sweden Southern Sami;0.007;130;Caucasoid
+938;HLA-A*30:02;Sweden Southern Sami;0.004;130;Caucasoid
+939;HLA-A*02:01;USA Caucasian pop 3;0.222;88;Caucasoid
+940;HLA-A*01:01;USA Caucasian pop 3;0.136;88;Caucasoid
+941;HLA-A*24:02;USA Caucasian pop 3;0.131;88;Caucasoid
+942;HLA-A*03:01;USA Caucasian pop 3;0.108;88;Caucasoid
+943;HLA-A*11:01;USA Caucasian pop 3;0.074;88;Caucasoid
+944;HLA-A*32:01;USA Caucasian pop 3;0.068;88;Caucasoid
+945;HLA-A*26:01;USA Caucasian pop 3;0.051;88;Caucasoid
+946;HLA-A*25:01;USA Caucasian pop 3;0.034;88;Caucasoid
+947;HLA-A*23:01;USA Caucasian pop 3;0.023;88;Caucasoid
+948;HLA-A*29:02;USA Caucasian pop 3;0.017;88;Caucasoid
+949;HLA-A*30:01;USA Caucasian pop 3;0.017;88;Caucasoid
+950;HLA-A*30:02;USA Caucasian pop 3;0.017;88;Caucasoid
+951;HLA-A*33:03;USA Caucasian pop 3;0.017;88;Caucasoid
+952;HLA-A*02:05;USA Caucasian pop 3;0.011;88;Caucasoid
+953;HLA-A*02:02;USA Caucasian pop 3;0.006;88;Caucasoid
+954;HLA-A*33:01;USA Caucasian pop 3;0.006;88;Caucasoid
+955;HLA-A*66:01;USA Caucasian pop 3;0.006;88;Caucasoid
+956;HLA-A*68:02;USA Caucasian pop 3;0.006;88;Caucasoid
+957;HLA-A*80:01;USA Caucasian pop 3;0.006;88;Caucasoid
+958;HLA-A*02:01;USA Caucasian pop 4;0.2944;1070;Caucasoid
+959;HLA-A*01:01;USA Caucasian pop 4;0.1682;1070;Caucasoid
+960;HLA-A*03:01;USA Caucasian pop 4;0.1383;1070;Caucasoid
+961;HLA-A*24:02;USA Caucasian pop 4;0.0953;1070;Caucasoid
+962;HLA-A*11:01;USA Caucasian pop 4;0.0561;1070;Caucasoid
+963;HLA-A*29:02;USA Caucasian pop 4;0.0393;1070;Caucasoid
+964;HLA-A*68:01;USA Caucasian pop 4;0.0299;1070;Caucasoid
+965;HLA-A*32:01;USA Caucasian pop 4;0.0262;1070;Caucasoid
+966;HLA-A*26:01;USA Caucasian pop 4;0.0224;1070;Caucasoid
+967;HLA-A*31:01;USA Caucasian pop 4;0.0206;1070;Caucasoid
+968;HLA-A*25:01;USA Caucasian pop 4;0.0178;1070;Caucasoid
+969;HLA-A*30:01;USA Caucasian pop 4;0.0159;1070;Caucasoid
+970;HLA-A*23:01;USA Caucasian pop 4;0.0131;1070;Caucasoid
+971;HLA-A*33:01;USA Caucasian pop 4;0.0094;1070;Caucasoid
+972;HLA-A*02:05;USA Caucasian pop 4;0.0075;1070;Caucasoid
+973;HLA-A*33:03;USA Caucasian pop 4;0.0065;1070;Caucasoid
+974;HLA-A*68:02;USA Caucasian pop 4;0.0065;1070;Caucasoid
+975;HLA-A*30:04;USA Caucasian pop 4;0.0047;1070;Caucasoid
+976;HLA-A*02:06;USA Caucasian pop 4;0.0037;1070;Caucasoid
+977;HLA-A*30:02;USA Caucasian pop 4;0.0037;1070;Caucasoid
+978;HLA-A*66:01;USA Caucasian pop 4;0.0037;1070;Caucasoid
+979;HLA-A*29:01;USA Caucasian pop 4;0.0028;1070;Caucasoid
+980;HLA-A*02:22;USA Caucasian pop 4;0.0019;1070;Caucasoid
+981;HLA-A*03:02;USA Caucasian pop 4;0.0019;1070;Caucasoid
+982;HLA-A*24:03;USA Caucasian pop 4;0.0019;1070;Caucasoid
+983;HLA-A*80:01;USA Caucasian pop 4;0.0019;1070;Caucasoid
+984;HLA-A*01:02;USA Caucasian pop 4;9e-04;1070;Caucasoid
+985;HLA-A*02:02;USA Caucasian pop 4;9e-04;1070;Caucasoid
+986;HLA-A*02:03;USA Caucasian pop 4;9e-04;1070;Caucasoid
+987;HLA-A*02:17;USA Caucasian pop 4;9e-04;1070;Caucasoid
+988;HLA-A*69:01;USA Caucasian pop 4;9e-04;1070;Caucasoid
+989;HLA-A*74:01;USA Caucasian pop 4;9e-04;1070;Caucasoid
+990;HLA-A*11:01;USA Eastern European;0.063;558;Caucasoid
+991;HLA-A*26:01;USA Eastern European;0.041;558;Caucasoid
+992;HLA-A*32:01;USA Eastern European;0.028;558;Caucasoid
+993;HLA-A*25:01;USA Eastern European;0.026;558;Caucasoid
+994;HLA-A*31:01;USA Eastern European;0.024;558;Caucasoid
+995;HLA-A*29:02;USA Eastern European;0.021;558;Caucasoid
+996;HLA-A*23:01;USA Eastern European;0.017;558;Caucasoid
+997;HLA-A*02:05;USA Eastern European;0.016;558;Caucasoid
+998;HLA-A*33:01;USA Eastern European;0.013;558;Caucasoid
+999;HLA-A*30:01;USA Eastern European;0.01;558;Caucasoid
+1;000;HLA-A*68:02;USA Eastern European;0.007;558;Caucasoid
+1;001;HLA-A*03:02;USA Eastern European;0.006;558;Caucasoid
+1;002;HLA-A*66:01;USA Eastern European;0.006;558;Caucasoid
+1;003;HLA-A*30:02;USA Eastern European;0.005;558;Caucasoid
+1;004;HLA-A*02:06;USA Eastern European;0.004;558;Caucasoid
+1;005;HLA-A*33:03;USA Eastern European;0.003;558;Caucasoid
+1;006;HLA-A*30:04;USA Eastern European;0.002;558;Caucasoid
+1;007;HLA-A*02:17;USA Eastern European;0.001;558;Caucasoid
+1;008;HLA-A*03:25;USA Eastern European;0.001;558;Caucasoid
+1;009;HLA-A*32:08;USA Eastern European;0.001;558;Caucasoid
+1;010;HLA-A*34:02;USA Eastern European;0.001;558;Caucasoid
+1;011;HLA-A*36:01;USA Eastern European;0.001;558;Caucasoid
+1;012;HLA-A*74:01;USA Eastern European;0.001;558;Caucasoid
+1;013;HLA-A*02:01;USA San Francisco Caucasian;0.247;220;Caucasoid
+1;014;HLA-A*01:01;USA San Francisco Caucasian;0.16;220;Caucasoid
+1;015;HLA-A*03:01;USA San Francisco Caucasian;0.148;220;Caucasoid
+1;016;HLA-A*24:02;USA San Francisco Caucasian;0.078;220;Caucasoid
+1;017;HLA-A*11:01;USA San Francisco Caucasian;0.055;220;Caucasoid
+1;018;HLA-A*29:02;USA San Francisco Caucasian;0.048;220;Caucasoid
+1;019;HLA-A*25:01;USA San Francisco Caucasian;0.039;220;Caucasoid
+1;020;HLA-A*26:01;USA San Francisco Caucasian;0.039;220;Caucasoid
+1;021;HLA-A*32:01;USA San Francisco Caucasian;0.034;220;Caucasoid
+1;022;HLA-A*68:01;USA San Francisco Caucasian;0.025;220;Caucasoid
+1;023;HLA-A*23:01;USA San Francisco Caucasian;0.023;220;Caucasoid
+1;024;HLA-A*31:01;USA San Francisco Caucasian;0.023;220;Caucasoid
+1;025;HLA-A*33:01;USA San Francisco Caucasian;0.018;220;Caucasoid
+1;026;HLA-A*68:02;USA San Francisco Caucasian;0.016;220;Caucasoid
+1;027;HLA-A*30:01;USA San Francisco Caucasian;0.014;220;Caucasoid
+1;028;HLA-A*02:05;USA San Francisco Caucasian;0.009;220;Caucasoid
+1;029;HLA-A*30:02;USA San Francisco Caucasian;0.007;220;Caucasoid
+1;030;HLA-A*66:01;USA San Francisco Caucasian;0.007;220;Caucasoid
+1;031;HLA-A*02:17;USA San Francisco Caucasian;0.002;220;Caucasoid
+1;032;HLA-A*26:08;USA San Francisco Caucasian;0.002;220;Caucasoid
+1;033;HLA-A*29:01;USA San Francisco Caucasian;0.002;220;Caucasoid
+1;034;HLA-A*30:04;USA San Francisco Caucasian;0.002;220;Caucasoid
+1;035;HLA-A*80:01;USA San Francisco Caucasian;0.002;220;Caucasoid
+1;HLA-A*02:01;USA Hispanic pop 2;0.194;1999;Hispanic
+2;HLA-A*24:02;USA Hispanic pop 2;0.1232;1999;Hispanic
+3;HLA-A*03:01;USA Hispanic pop 2;0.0791;1999;Hispanic
+4;HLA-A*01:01;USA Hispanic pop 2;0.067;1999;Hispanic
+5;HLA-A*31:01;USA Hispanic pop 2;0.0479;1999;Hispanic
+6;HLA-A*68:01;USA Hispanic pop 2;0.0469;1999;Hispanic
+7;HLA-A*11:01;USA Hispanic pop 2;0.0462;1999;Hispanic
+8;HLA-A*29:02;USA Hispanic pop 2;0.0417;1999;Hispanic
+9;HLA-A*02:06;USA Hispanic pop 2;0.0392;1999;Hispanic
+10;HLA-A*23:01;USA Hispanic pop 2;0.0369;1999;Hispanic
+11;HLA-A*26:01;USA Hispanic pop 2;0.0289;1999;Hispanic
+12;HLA-A*30:02;USA Hispanic pop 2;0.0281;1999;Hispanic
+13;HLA-A*32:01;USA Hispanic pop 2;0.0271;1999;Hispanic
+14;HLA-A*68:02;USA Hispanic pop 2;0.0246;1999;Hispanic
+15;HLA-A*30:01;USA Hispanic pop 2;0.0211;1999;Hispanic
+16;HLA-A*33:01;USA Hispanic pop 2;0.0196;1999;Hispanic
+17;HLA-A*02:05;USA Hispanic pop 2;0.0148;1999;Hispanic
+18;HLA-A*68:03;USA Hispanic pop 2;0.0138;1999;Hispanic
+19;HLA-A*33:03;USA Hispanic pop 2;0.0131;1999;Hispanic
+20;HLA-A*25:01;USA Hispanic pop 2;0.0088;1999;Hispanic
+21;HLA-A*74:01;USA Hispanic pop 2;0.0075;1999;Hispanic
+22;HLA-A*02:02;USA Hispanic pop 2;0.0068;1999;Hispanic
+23;HLA-A*66:01;USA Hispanic pop 2;0.0055;1999;Hispanic
+24;HLA-A*69:01;USA Hispanic pop 2;0.0055;1999;Hispanic
+25;HLA-A*02:17;USA Hispanic pop 2;0.0035;1999;Hispanic
+26;HLA-A*29:01;USA Hispanic pop 2;0.0035;1999;Hispanic
+27;HLA-A*68:05;USA Hispanic pop 2;0.0035;1999;Hispanic
+28;HLA-A*02:11;USA Hispanic pop 2;0.0033;1999;Hispanic
+29;HLA-A*34:02;USA Hispanic pop 2;0.0033;1999;Hispanic
+30;HLA-A*01:02;USA Hispanic pop 2;0.003;1999;Hispanic
+31;HLA-A*02:04;USA Hispanic pop 2;0.0028;1999;Hispanic
+32;HLA-A*36:01;USA Hispanic pop 2;0.0028;1999;Hispanic
+33;HLA-A*24:25;USA Hispanic pop 2;0.0025;1999;Hispanic
+34;HLA-A*30:04;USA Hispanic pop 2;0.0025;1999;Hispanic
+35;HLA-A*80:01;USA Hispanic pop 2;0.0025;1999;Hispanic
+36;HLA-A*02:22;USA Hispanic pop 2;0.002;1999;Hispanic
+37;HLA-A*24:03;USA Hispanic pop 2;0.002;1999;Hispanic
+38;HLA-A*03:02;USA Hispanic pop 2;0.0018;1999;Hispanic
+39;HLA-A*02:20;USA Hispanic pop 2;0.0015;1999;Hispanic
+40;HLA-A*30:10;USA Hispanic pop 2;0.0015;1999;Hispanic
+41;HLA-A*31:02;USA Hispanic pop 2;0.0015;1999;Hispanic
+42;HLA-A*24:22;USA Hispanic pop 2;0.0013;1999;Hispanic
+43;HLA-A*26:08;USA Hispanic pop 2;0.001;1999;Hispanic
+44;HLA-A*66:02;USA Hispanic pop 2;0.001;1999;Hispanic
+45;HLA-A*02:13;USA Hispanic pop 2;8e-04;1999;Hispanic
+46;HLA-A*24:26;USA Hispanic pop 2;8e-04;1999;Hispanic
+47;HLA-A*24:05;USA Hispanic pop 2;5e-04;1999;Hispanic
+48;HLA-A*24:07;USA Hispanic pop 2;5e-04;1999;Hispanic
+49;HLA-A*02:03;USA Hispanic pop 2;3e-04;1999;Hispanic
+50;HLA-A*02:12;USA Hispanic pop 2;3e-04;1999;Hispanic
+51;HLA-A*02:30;USA Hispanic pop 2;3e-04;1999;Hispanic
+52;HLA-A*02:60;USA Hispanic pop 2;3e-04;1999;Hispanic
+53;HLA-A*11:04;USA Hispanic pop 2;3e-04;1999;Hispanic
+54;HLA-A*11:05;USA Hispanic pop 2;3e-04;1999;Hispanic
+55;HLA-A*23:05;USA Hispanic pop 2;3e-04;1999;Hispanic
+56;HLA-A*24:14;USA Hispanic pop 2;3e-04;1999;Hispanic
+57;HLA-A*26:02;USA Hispanic pop 2;3e-04;1999;Hispanic
+58;HLA-A*26:07;USA Hispanic pop 2;3e-04;1999;Hispanic
+59;HLA-A*31:09;USA Hispanic pop 2;3e-04;1999;Hispanic
+60;HLA-A*32:06;USA Hispanic pop 2;3e-04;1999;Hispanic
+61;HLA-A*34:01;USA Hispanic pop 2;3e-04;1999;Hispanic
+62;HLA-A*68:07;USA Hispanic pop 2;3e-04;1999;Hispanic
+1;HLA-A*24:02;New Caledonia;0.607;65;Melanesian
+2;HLA-A*34:01;New Caledonia;0.155;65;Melanesian
+3;HLA-A*11:01;New Caledonia;0.131;65;Melanesian
+4;HLA-A*02:01;New Caledonia;0.024;65;Melanesian
+5;HLA-A*03:01;New Caledonia;0.012;65;Melanesian
+6;HLA-A*25:01;New Caledonia;0.012;65;Melanesian
+7;HLA-A*26:01;New Caledonia;0.012;65;Melanesian
+8;HLA-A*32:01;New Caledonia;0.012;65;Melanesian
+9;HLA-A*68:02;New Caledonia;0.012;65;Melanesian
+10;HLA-A*24:02;Papua New Guinea Karimui Plateau Pawaia;0.744;80;Melanesian
+11;HLA-A*11:01;Papua New Guinea Karimui Plateau Pawaia;0.179;80;Melanesian
+12;HLA-A*34:01;Papua New Guinea Karimui Plateau Pawaia;0.048;80;Melanesian
+13;HLA-A*11:01;Papua New Guinea Madang;0.636;65;Melanesian
+14;HLA-A*24:02;Papua New Guinea Madang;0.153;65;Melanesian
+15;HLA-A*34:01;Papua New Guinea Madang;0.136;65;Melanesian
+16;HLA-A*26:01;Papua New Guinea Madang;0.025;65;Melanesian
+17;HLA-A*11:01;Papua New Guinea West Schrader Ranges Haruai;0.55;55;Melanesian
+18;HLA-A*34:01;Papua New Guinea West Schrader Ranges Haruai;0.292;55;Melanesian
+19;HLA-A*24:02;Papua New Guinea West Schrader Ranges Haruai;0.142;55;Melanesian
+20;HLA-A*24:02;Papua New Guinea Wosera Abelam;0.513;131;Melanesian
+21;HLA-A*11:01;Papua New Guinea Wosera Abelam;0.385;131;Melanesian
+22;HLA-A*34:01;Papua New Guinea Wosera Abelam;0.09;131;Melanesian
+1;HLA-A*30:02;Mexico Guadalajara Mestizo pop 2;0.049;103;Mestizo
+2;HLA-A*68:02;Mexico Guadalajara Mestizo pop 2;0.049;103;Mestizo
+3;HLA-A*26:01;Mexico Guadalajara Mestizo pop 2;0.024;103;Mestizo
+4;HLA-A*03:08;Mexico Guadalajara Mestizo pop 2;0.01;103;Mestizo
+5;HLA-A*32:01;Mexico Guadalajara Mestizo pop 2;0.01;103;Mestizo
+6;HLA-A*02:02;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+7;HLA-A*02:04;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+8;HLA-A*02:21;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+9;HLA-A*03:12;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+10;HLA-A*23:01;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+11;HLA-A*25:01;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+12;HLA-A*26:07;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+13;HLA-A*29:02;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+14;HLA-A*30:01;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+15;HLA-A*30:04;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+16;HLA-A*33:01;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+17;HLA-A*34:01;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+18;HLA-A*36:01;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+19;HLA-A*66:01;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+20;HLA-A*68:08;Mexico Guadalajara Mestizo pop 2;0.005;103;Mestizo
+21;HLA-A*02:01;Mexico Mexico City Mestizo pop 2;0.2286;234;Mestizo
+22;HLA-A*24:02;Mexico Mexico City Mestizo pop 2;0.1688;234;Mestizo
+23;HLA-A*02:06;Mexico Mexico City Mestizo pop 2;0.0962;234;Mestizo
+24;HLA-A*31:01;Mexico Mexico City Mestizo pop 2;0.0791;234;Mestizo
+25;HLA-A*68:01;Mexico Mexico City Mestizo pop 2;0.0791;234;Mestizo
+26;HLA-A*01:01;Mexico Mexico City Mestizo pop 2;0.0363;234;Mestizo
+27;HLA-A*68:03;Mexico Mexico City Mestizo pop 2;0.0342;234;Mestizo
+28;HLA-A*03:01;Mexico Mexico City Mestizo pop 2;0.0321;234;Mestizo
+29;HLA-A*68:02;Mexico Mexico City Mestizo pop 2;0.0299;234;Mestizo
+30;HLA-A*29:02;Mexico Mexico City Mestizo pop 2;0.0256;234;Mestizo
+31;HLA-A*11:01;Mexico Mexico City Mestizo pop 2;0.0214;234;Mestizo
+32;HLA-A*26:01;Mexico Mexico City Mestizo pop 2;0.0192;234;Mestizo
+33;HLA-A*02:05;Mexico Mexico City Mestizo pop 2;0.0171;234;Mestizo
+34;HLA-A*23:01;Mexico Mexico City Mestizo pop 2;0.0171;234;Mestizo
+35;HLA-A*30:02;Mexico Mexico City Mestizo pop 2;0.015;234;Mestizo
+36;HLA-A*30:01;Mexico Mexico City Mestizo pop 2;0.0128;234;Mestizo
+37;HLA-A*33:01;Mexico Mexico City Mestizo pop 2;0.0128;234;Mestizo
+38;HLA-A*66:01;Mexico Mexico City Mestizo pop 2;0.0128;234;Mestizo
+39;HLA-A*32:01;Mexico Mexico City Mestizo pop 2;0.0085;234;Mestizo
+40;HLA-A*03:02;Mexico Mexico City Mestizo pop 2;0.0064;234;Mestizo
+41;HLA-A*24:25;Mexico Mexico City Mestizo pop 2;0.0064;234;Mestizo
+42;HLA-A*25:01;Mexico Mexico City Mestizo pop 2;0.0064;234;Mestizo
+43;HLA-A*68:05;Mexico Mexico City Mestizo pop 2;0.0064;234;Mestizo
+44;HLA-A*01:02;Mexico Mexico City Mestizo pop 2;0.0043;234;Mestizo
+45;HLA-A*33:03;Mexico Mexico City Mestizo pop 2;0.0043;234;Mestizo
+46;HLA-A*01:03;Mexico Mexico City Mestizo pop 2;0.0021;234;Mestizo
+47;HLA-A*02:02;Mexico Mexico City Mestizo pop 2;0.0021;234;Mestizo
+48;HLA-A*02:24;Mexico Mexico City Mestizo pop 2;0.0021;234;Mestizo
+49;HLA-A*02:211;Mexico Mexico City Mestizo pop 2;0.0021;234;Mestizo
+50;HLA-A*26:17;Mexico Mexico City Mestizo pop 2;0.0021;234;Mestizo
+51;HLA-A*30:04;Mexico Mexico City Mestizo pop 2;0.0021;234;Mestizo
+52;HLA-A*34:01;Mexico Mexico City Mestizo pop 2;0.0021;234;Mestizo
+53;HLA-A*34:02;Mexico Mexico City Mestizo pop 2;0.0021;234;Mestizo
+54;HLA-A*74:01;Mexico Mexico City Mestizo pop 2;0.0021;234;Mestizo
+55;HLA-A*33:01;USA Mexican American Mestizo;0.026;553;Mestizo
+56;HLA-A*23:01;USA Mexican American Mestizo;0.023;553;Mestizo
+57;HLA-A*02:05;USA Mexican American Mestizo;0.014;553;Mestizo
+58;HLA-A*02:02;USA Mexican American Mestizo;0.005;553;Mestizo
+59;HLA-A*66:01;USA Mexican American Mestizo;0.005;553;Mestizo
+60;HLA-A*74:01;USA Mexican American Mestizo;0.005;553;Mestizo
+61;HLA-A*36:01;USA Mexican American Mestizo;0.004;553;Mestizo
+62;HLA-A*69:01;USA Mexican American Mestizo;0.004;553;Mestizo
+63;HLA-A*68:05;USA Mexican American Mestizo;0.003;553;Mestizo
+64;HLA-A*26:08;USA Mexican American Mestizo;0.002;553;Mestizo
+65;HLA-A*30:04;USA Mexican American Mestizo;0.002;553;Mestizo
+66;HLA-A*31:02;USA Mexican American Mestizo;0.002;553;Mestizo
+67;HLA-A*80:01;USA Mexican American Mestizo;0.002;553;Mestizo
+68;HLA-A*02:22;USA Mexican American Mestizo;0.001;553;Mestizo
+69;HLA-A*02:58;USA Mexican American Mestizo;0.001;553;Mestizo
+70;HLA-A*03:02;USA Mexican American Mestizo;0.001;553;Mestizo
+71;HLA-A*24:14;USA Mexican American Mestizo;0.001;553;Mestizo
+72;HLA-A*24:17;USA Mexican American Mestizo;0.001;553;Mestizo
+73;HLA-A*24:25;USA Mexican American Mestizo;0.001;553;Mestizo
+74;HLA-A*30:10;USA Mexican American Mestizo;0.001;553;Mestizo
+75;HLA-A*31:09;USA Mexican American Mestizo;0.001;553;Mestizo
+76;HLA-A*34:02;USA Mexican American Mestizo;0.001;553;Mestizo
+77;HLA-A*66:02;USA Mexican American Mestizo;0.001;553;Mestizo
+1;HLA-A*11:01;Pakistan Mixed Pathan;0.163;100;Mixed
+2;HLA-A*01:01;Pakistan Mixed Pathan;0.128;100;Mixed
+3;HLA-A*24:02;Pakistan Mixed Pathan;0.102;100;Mixed
+4;HLA-A*03:01;Pakistan Mixed Pathan;0.087;100;Mixed
+5;HLA-A*02:01;Pakistan Mixed Pathan;0.082;100;Mixed
+6;HLA-A*33:03;Pakistan Mixed Pathan;0.071;100;Mixed
+7;HLA-A*26:01;Pakistan Mixed Pathan;0.061;100;Mixed
+8;HLA-A*30:01;Pakistan Mixed Pathan;0.056;100;Mixed
+9;HLA-A*32:01;Pakistan Mixed Pathan;0.051;100;Mixed
+10;HLA-A*02:06;Pakistan Mixed Pathan;0.031;100;Mixed
+11;HLA-A*02:11;Pakistan Mixed Pathan;0.02;100;Mixed
+12;HLA-A*23:01;Pakistan Mixed Pathan;0.015;100;Mixed
+13;HLA-A*29:01;Pakistan Mixed Pathan;0.015;100;Mixed
+14;HLA-A*03:02;Pakistan Mixed Pathan;0.01;100;Mixed
+15;HLA-A*02:03;Pakistan Mixed Pathan;0.005;100;Mixed
+16;HLA-A*02:05;Pakistan Mixed Pathan;0.005;100;Mixed
+17;HLA-A*02:20;Pakistan Mixed Pathan;0.005;100;Mixed
+18;HLA-A*24:07;Pakistan Mixed Pathan;0.005;100;Mixed
+19;HLA-A*30:02;Pakistan Mixed Pathan;0.005;100;Mixed
+1;HLA-A*11:01;China Beijing Shijiazhuang Tianjian Han;0.202;618;Oriental
+2;HLA-A*02:01;China Beijing Shijiazhuang Tianjian Han;0.158;618;Oriental
+3;HLA-A*24:02;China Beijing Shijiazhuang Tianjian Han;0.105;618;Oriental
+4;HLA-A*02:07;China Beijing Shijiazhuang Tianjian Han;0.077;618;Oriental
+5;HLA-A*33:03;China Beijing Shijiazhuang Tianjian Han;0.062;618;Oriental
+6;HLA-A*30:01;China Beijing Shijiazhuang Tianjian Han;0.05;618;Oriental
+7;HLA-A*02:06;China Beijing Shijiazhuang Tianjian Han;0.047;618;Oriental
+8;HLA-A*01:01;China Beijing Shijiazhuang Tianjian Han;0.034;618;Oriental
+9;HLA-A*03:01;China Beijing Shijiazhuang Tianjian Han;0.029;618;Oriental
+10;HLA-A*26:01;China Beijing Shijiazhuang Tianjian Han;0.027;618;Oriental
+11;HLA-A*02:03;China Beijing Shijiazhuang Tianjian Han;0.024;618;Oriental
+12;HLA-A*11:02;China Beijing Shijiazhuang Tianjian Han;0.02;618;Oriental
+13;HLA-A*11:12;China Beijing Shijiazhuang Tianjian Han;0.011;618;Oriental
+14;HLA-A*11:10;China Beijing Shijiazhuang Tianjian Han;0.009;618;Oriental
+15;HLA-A*32:01;China Beijing Shijiazhuang Tianjian Han;0.008;618;Oriental
+16;HLA-A*29:01;China Beijing Shijiazhuang Tianjian Han;0.007;618;Oriental
+17;HLA-A*30:09;China Beijing Shijiazhuang Tianjian Han;0.005;618;Oriental
+18;HLA-A*68:01;China Beijing Shijiazhuang Tianjian Han;0.005;618;Oriental
+19;HLA-A*02:04;China Beijing Shijiazhuang Tianjian Han;0.004;618;Oriental
+20;HLA-A*23:01;China Beijing Shijiazhuang Tianjian Han;0.004;618;Oriental
+21;HLA-A*30:02;China Beijing Shijiazhuang Tianjian Han;0.004;618;Oriental
+22;HLA-A*33:01;China Beijing Shijiazhuang Tianjian Han;0.004;618;Oriental
+23;HLA-A*02:10;China Beijing Shijiazhuang Tianjian Han;0.003;618;Oriental
+24;HLA-A*02:12;China Beijing Shijiazhuang Tianjian Han;0.003;618;Oriental
+25;HLA-A*24:04;China Beijing Shijiazhuang Tianjian Han;0.003;618;Oriental
+26;HLA-A*24:23;China Beijing Shijiazhuang Tianjian Han;0.003;618;Oriental
+27;HLA-A*29:02;China Beijing Shijiazhuang Tianjian Han;0.003;618;Oriental
+28;HLA-A*01:03;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+29;HLA-A*02:05;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+30;HLA-A*02:11;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+31;HLA-A*02:20;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+32;HLA-A*02:21;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+33;HLA-A*02:26;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+34;HLA-A*03:02;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+35;HLA-A*03:08;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+36;HLA-A*11:03;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+37;HLA-A*11:04;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+38;HLA-A*23:09;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+39;HLA-A*24:03;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+40;HLA-A*24:05;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+41;HLA-A*24:21;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+42;HLA-A*24:28;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+43;HLA-A*24:35;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+44;HLA-A*30:04;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+45;HLA-A*31:06;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+46;HLA-A*66:01;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+47;HLA-A*74:01;China Beijing Shijiazhuang Tianjian Han;0.002;618;Oriental
+48;HLA-A*02:08;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+49;HLA-A*02:09;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+50;HLA-A*02:15N;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+51;HLA-A*02:17;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+52;HLA-A*02:22;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+53;HLA-A*02:34;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+54;HLA-A*02:37;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+55;HLA-A*02:42;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+56;HLA-A*02:44;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+57;HLA-A*02:45;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+58;HLA-A*02:49;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+59;HLA-A*02:51;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+60;HLA-A*02:55;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+61;HLA-A*03:05;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+62;HLA-A*03:10;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+63;HLA-A*23:02;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+64;HLA-A*24:08;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+65;HLA-A*24:10;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+66;HLA-A*24:14;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+67;HLA-A*24:17;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+68;HLA-A*24:25;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+69;HLA-A*24:29;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+70;HLA-A*24:31;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+71;HLA-A*25:01;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+72;HLA-A*26:02;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+73;HLA-A*26:18;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+74;HLA-A*30:11;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+75;HLA-A*30:12;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+76;HLA-A*31:02;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+77;HLA-A*31:04;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+78;HLA-A*31:08;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+79;HLA-A*32:03;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+80;HLA-A*32:05;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+81;HLA-A*68:02;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+82;HLA-A*69:01;China Beijing Shijiazhuang Tianjian Han;0.001;618;Oriental
+83;HLA-A*11:01;China Canton Han;0.267;264;Oriental
+84;HLA-A*24:02;China Canton Han;0.163;264;Oriental
+85;HLA-A*02:01;China Canton Han;0.153;264;Oriental
+86;HLA-A*33:01;China Canton Han;0.117;264;Oriental
+87;HLA-A*02:03;China Canton Han;0.112;264;Oriental
+88;HLA-A*02:06;China Canton Han;0.038;264;Oriental
+89;HLA-A*03:01;China Canton Han;0.017;264;Oriental
+90;HLA-A*11:02;China Canton Han;0.017;264;Oriental
+91;HLA-A*26:01;China Canton Han;0.017;264;Oriental
+92;HLA-A*30:01;China Canton Han;0.017;264;Oriental
+93;HLA-A*24:07;China Canton Han;0.015;264;Oriental
+94;HLA-A*29:01;China Canton Han;0.013;264;Oriental
+95;HLA-A*01:01;China Canton Han;0.006;264;Oriental
+96;HLA-A*23:01;China Canton Han;0.006;264;Oriental
+97;HLA-A*74:01;China Canton Han;0.006;264;Oriental
+98;HLA-A*34:01;China Canton Han;0.004;264;Oriental
+99;HLA-A*02:10;China Canton Han;0.002;264;Oriental
+100;HLA-A*24:10;China Canton Han;0.002;264;Oriental
+101;HLA-A*24:20;China Guangdong Province Meizhou Han;0.116;100;Oriental
+102;HLA-A*11:12;China Guangdong Province Meizhou Han;0.086;100;Oriental
+103;HLA-A*11:06;China Guangdong Province Meizhou Han;0.051;100;Oriental
+104;HLA-A*11:02;China Guangdong Province Meizhou Han;0.046;100;Oriental
+105;HLA-A*33:03;China Guangdong Province Meizhou Han;0.04;100;Oriental
+106;HLA-A*24:23;China Guangdong Province Meizhou Han;0.015;100;Oriental
+107;HLA-A*02:03;China Guangdong Province Meizhou Han;0.01;100;Oriental
+108;HLA-A*24:28;China Guangdong Province Meizhou Han;0.01;100;Oriental
+109;HLA-A*26:01;China Guangdong Province Meizhou Han;0.01;100;Oriental
+110;HLA-A*26:16;China Guangdong Province Meizhou Han;0.01;100;Oriental
+111;HLA-A*33:01;China Guangdong Province Meizhou Han;0.01;100;Oriental
+112;HLA-A*01:03;China Guangdong Province Meizhou Han;0.005;100;Oriental
+113;HLA-A*02:12;China Guangdong Province Meizhou Han;0.005;100;Oriental
+114;HLA-A*02:13;China Guangdong Province Meizhou Han;0.005;100;Oriental
+115;HLA-A*02:22;China Guangdong Province Meizhou Han;0.005;100;Oriental
+116;HLA-A*02:27;China Guangdong Province Meizhou Han;0.005;100;Oriental
+117;HLA-A*02:30;China Guangdong Province Meizhou Han;0.005;100;Oriental
+118;HLA-A*02:38;China Guangdong Province Meizhou Han;0.005;100;Oriental
+119;HLA-A*11:01;China Guangxi Region Maonan;0.352;108;Oriental
+120;HLA-A*02:03;China Guangxi Region Maonan;0.176;108;Oriental
+121;HLA-A*02:07;China Guangxi Region Maonan;0.134;108;Oriental
+122;HLA-A*24:02;China Guangxi Region Maonan;0.134;108;Oriental
+123;HLA-A*11:02;China Guangxi Region Maonan;0.065;108;Oriental
+124;HLA-A*02:01;China Guangxi Region Maonan;0.046;108;Oriental
+125;HLA-A*02:06;China Guangxi Region Maonan;0.046;108;Oriental
+126;HLA-A*33:03;China Guangxi Region Maonan;0.042;108;Oriental
+127;HLA-A*24:03;China Guangxi Region Maonan;0.005;108;Oriental
+128;HLA-A*11:01;China Guangzhou;0.338;102;Oriental
+129;HLA-A*24:02;China Guangzhou;0.152;102;Oriental
+130;HLA-A*02:01;China Guangzhou;0.128;102;Oriental
+131;HLA-A*02:03;China Guangzhou;0.098;102;Oriental
+132;HLA-A*02:07;China Guangzhou;0.093;102;Oriental
+133;HLA-A*33:03;China Guangzhou;0.054;102;Oriental
+134;HLA-A*02:06;China Guangzhou;0.04;102;Oriental
+135;HLA-A*03:01;China Guangzhou;0.029;102;Oriental
+136;HLA-A*26:01;China Guangzhou;0.02;102;Oriental
+137;HLA-A*29:01;China Guangzhou;0.015;102;Oriental
+138;HLA-A*01:01;China Guangzhou;0.01;102;Oriental
+139;HLA-A*02:05;China Guangzhou;0.005;102;Oriental
+140;HLA-A*02:10;China Guangzhou;0.005;102;Oriental
+141;HLA-A*23:01;China Guangzhou;0.005;102;Oriental
+142;HLA-A*30:01;China Guangzhou;0.005;102;Oriental
+143;HLA-A*11:01;China Guizhou Province Bouyei;0.314;109;Oriental
+144;HLA-A*02:07;China Guizhou Province Bouyei;0.227;109;Oriental
+145;HLA-A*24:02;China Guizhou Province Bouyei;0.139;109;Oriental
+146;HLA-A*33:01;China Guizhou Province Bouyei;0.072;109;Oriental
+147;HLA-A*11:02;China Guizhou Province Bouyei;0.036;109;Oriental
+148;HLA-A*02:01;China Guizhou Province Bouyei;0.021;109;Oriental
+149;HLA-A*11:04;China Guizhou Province Bouyei;0.016;109;Oriental
+150;HLA-A*26:01;China Guizhou Province Bouyei;0.016;109;Oriental
+151;HLA-A*01:01;China Guizhou Province Bouyei;0.005;109;Oriental
+152;HLA-A*11:12;China Guizhou Province Bouyei;0.005;109;Oriental
+153;HLA-A*24:10;China Guizhou Province Bouyei;0.005;109;Oriental
+154;HLA-A*24:51;China Guizhou Province Bouyei;0.005;109;Oriental
+155;HLA-A*68:04;China Guizhou Province Bouyei;0.005;109;Oriental
+156;HLA-A*11:01;China Guizhou Province Miao pop 2;0.359;85;Oriental
+157;HLA-A*02:07;China Guizhou Province Miao pop 2;0.165;85;Oriental
+158;HLA-A*24:02;China Guizhou Province Miao pop 2;0.147;85;Oriental
+159;HLA-A*11:02;China Guizhou Province Miao pop 2;0.041;85;Oriental
+160;HLA-A*33:01;China Guizhou Province Miao pop 2;0.035;85;Oriental
+161;HLA-A*02:01;China Guizhou Province Miao pop 2;0.024;85;Oriental
+162;HLA-A*69:01;China Guizhou Province Miao pop 2;0.024;85;Oriental
+163;HLA-A*26:01;China Guizhou Province Miao pop 2;0.018;85;Oriental
+164;HLA-A*02:38;China Guizhou Province Miao pop 2;0.006;85;Oriental
+165;HLA-A*02:54;China Guizhou Province Miao pop 2;0.006;85;Oriental
+166;HLA-A*11:04;China Guizhou Province Miao pop 2;0.006;85;Oriental
+167;HLA-A*11:12;China Guizhou Province Miao pop 2;0.006;85;Oriental
+168;HLA-A*11:19;China Guizhou Province Miao pop 2;0.006;85;Oriental
+169;HLA-A*24:03;China Guizhou Province Miao pop 2;0.006;85;Oriental
+170;HLA-A*24:10;China Guizhou Province Miao pop 2;0.006;85;Oriental
+171;HLA-A*24:23;China Guizhou Province Miao pop 2;0.006;85;Oriental
+172;HLA-A*68:04;China Guizhou Province Miao pop 2;0.006;85;Oriental
+173;HLA-A*11:01;China Guizhou Province Shui;0.295;153;Oriental
+174;HLA-A*24:02;China Guizhou Province Shui;0.243;153;Oriental
+175;HLA-A*02:07;China Guizhou Province Shui;0.175;153;Oriental
+176;HLA-A*11:02;China Guizhou Province Shui;0.052;153;Oriental
+177;HLA-A*02:01;China Guizhou Province Shui;0.045;153;Oriental
+178;HLA-A*33:01;China Guizhou Province Shui;0.015;153;Oriental
+179;HLA-A*11:04;China Guizhou Province Shui;0.007;153;Oriental
+180;HLA-A*02:37;China Guizhou Province Shui;0.004;153;Oriental
+181;HLA-A*11:12;China Guizhou Province Shui;0.004;153;Oriental
+182;HLA-A*11:20;China Guizhou Province Shui;0.004;153;Oriental
+183;HLA-A*24:51;China Guizhou Province Shui;0.004;153;Oriental
+184;HLA-A*68:13;China Guizhou Province Shui;0.004;153;Oriental
+185;HLA-A*24:02;China Inner Mongolia Region;0.196;102;Oriental
+186;HLA-A*11:01;China Inner Mongolia Region;0.162;102;Oriental
+187;HLA-A*02:01;China Inner Mongolia Region;0.127;102;Oriental
+188;HLA-A*01:01;China Inner Mongolia Region;0.054;102;Oriental
+189;HLA-A*30:01;China Inner Mongolia Region;0.039;102;Oriental
+190;HLA-A*68:01;China Inner Mongolia Region;0.039;102;Oriental
+191;HLA-A*26:01;China Inner Mongolia Region;0.034;102;Oriental
+192;HLA-A*02:07;China Inner Mongolia Region;0.025;102;Oriental
+193;HLA-A*23:01;China Inner Mongolia Region;0.015;102;Oriental
+194;HLA-A*03:08;China Inner Mongolia Region;0.01;102;Oriental
+195;HLA-A*11:02;China Inner Mongolia Region;0.01;102;Oriental
+196;HLA-A*29:01;China Inner Mongolia Region;0.01;102;Oriental
+197;HLA-A*32:01;China Inner Mongolia Region;0.01;102;Oriental
+198;HLA-A*02:05;China Inner Mongolia Region;0.005;102;Oriental
+199;HLA-A*02:12;China Inner Mongolia Region;0.005;102;Oriental
+200;HLA-A*02:36;China Inner Mongolia Region;0.005;102;Oriental
+201;HLA-A*02:44;China Inner Mongolia Region;0.005;102;Oriental
+202;HLA-A*03:02;China Inner Mongolia Region;0.005;102;Oriental
+203;HLA-A*03:07;China Inner Mongolia Region;0.005;102;Oriental
+204;HLA-A*24:07;China Inner Mongolia Region;0.005;102;Oriental
+205;HLA-A*26:10;China Inner Mongolia Region;0.005;102;Oriental
+206;HLA-A*31:03;China Inner Mongolia Region;0.005;102;Oriental
+207;HLA-A*32:06;China Inner Mongolia Region;0.005;102;Oriental
+208;HLA-A*02:06;China North Han;0.071;105;Oriental
+209;HLA-A*02:07;China North Han;0.043;105;Oriental
+210;HLA-A*30:01;China North Han;0.038;105;Oriental
+211;HLA-A*02:03;China North Han;0.024;105;Oriental
+212;HLA-A*32:01;China North Han;0.024;105;Oriental
+213;HLA-A*02:05;China North Han;0.014;105;Oriental
+214;HLA-A*03:08;China North Han;0.01;105;Oriental
+215;HLA-A*26:01;China North Han;0.01;105;Oriental
+216;HLA-A*68:02;China North Han;0.01;105;Oriental
+217;HLA-A*02:11;China North Han;0.005;105;Oriental
+218;HLA-A*11:01;China Southwest Dai;0.391;124;Oriental
+219;HLA-A*02:07;China Southwest Dai;0.185;124;Oriental
+220;HLA-A*02:03;China Southwest Dai;0.109;124;Oriental
+221;HLA-A*33:03;China Southwest Dai;0.101;124;Oriental
+222;HLA-A*24:02;China Southwest Dai;0.081;124;Oriental
+223;HLA-A*11:02;China Southwest Dai;0.028;124;Oriental
+224;HLA-A*24:07;China Southwest Dai;0.024;124;Oriental
+225;HLA-A*26:01;China Southwest Dai;0.02;124;Oriental
+226;HLA-A*02:01;China Southwest Dai;0.016;124;Oriental
+227;HLA-A*34:01;China Southwest Dai;0.016;124;Oriental
+228;HLA-A*02:06;China Southwest Dai;0.008;124;Oriental
+229;HLA-A*31:01;China Southwest Dai;0.008;124;Oriental
+230;HLA-A*03:01;China Southwest Dai;0.004;124;Oriental
+231;HLA-A*23:01;China Southwest Dai;0.004;124;Oriental
+232;HLA-A*30:01;China Southwest Dai;0.004;124;Oriental
+233;HLA-A*24:02;China Tibet Region Tibetan;0.272;158;Oriental
+234;HLA-A*02:01;China Tibet Region Tibetan;0.218;158;Oriental
+235;HLA-A*26:01;China Tibet Region Tibetan;0.047;158;Oriental
+236;HLA-A*02:07;China Tibet Region Tibetan;0.016;158;Oriental
+237;HLA-A*32:01;China Tibet Region Tibetan;0.009;158;Oriental
+238;HLA-A*03:08;China Tibet Region Tibetan;0.006;158;Oriental
+239;HLA-A*02:04;China Tibet Region Tibetan;0.003;158;Oriental
+240;HLA-A*02:11;China Tibet Region Tibetan;0.003;158;Oriental
+241;HLA-A*02:36;China Tibet Region Tibetan;0.003;158;Oriental
+242;HLA-A*02:54;China Tibet Region Tibetan;0.003;158;Oriental
+243;HLA-A*03:07;China Tibet Region Tibetan;0.003;158;Oriental
+244;HLA-A*23:01;China Tibet Region Tibetan;0.003;158;Oriental
+245;HLA-A*24:07;China Tibet Region Tibetan;0.003;158;Oriental
+246;HLA-A*24:08;China Tibet Region Tibetan;0.003;158;Oriental
+247;HLA-A*24:20;China Tibet Region Tibetan;0.003;158;Oriental
+248;HLA-A*26:03;China Tibet Region Tibetan;0.003;158;Oriental
+249;HLA-A*30:01;China Tibet Region Tibetan;0.003;158;Oriental
+250;HLA-A*11:01;China Yunnan Province Han;0.317;101;Oriental
+251;HLA-A*02:07;China Yunnan Province Han;0.183;101;Oriental
+252;HLA-A*24:02;China Yunnan Province Han;0.163;101;Oriental
+253;HLA-A*33:03;China Yunnan Province Han;0.084;101;Oriental
+254;HLA-A*02:06;China Yunnan Province Han;0.059;101;Oriental
+255;HLA-A*11:02;China Yunnan Province Han;0.05;101;Oriental
+256;HLA-A*26:01;China Yunnan Province Han;0.05;101;Oriental
+257;HLA-A*31:01;China Yunnan Province Han;0.035;101;Oriental
+258;HLA-A*01:01;China Yunnan Province Han;0.015;101;Oriental
+259;HLA-A*03:01;China Yunnan Province Han;0.015;101;Oriental
+260;HLA-A*30:01;China Yunnan Province Han;0.015;101;Oriental
+261;HLA-A*02:01;China Yunnan Province Han;0.01;101;Oriental
+262;HLA-A*02:03;China Yunnan Province Han;0.005;101;Oriental
+263;HLA-A*02:07;China Yunnan Province Jinuo;0.188;109;Oriental
+264;HLA-A*26:01;China Yunnan Province Jinuo;0.096;109;Oriental
+265;HLA-A*11:02;China Yunnan Province Jinuo;0.009;109;Oriental
+266;HLA-A*24:07;China Yunnan Province Jinuo;0.005;109;Oriental
+267;HLA-A*24:02;China Yunnan Province Lisu;0.118;111;Oriental
+268;HLA-A*02:01;China Yunnan Province Lisu;0.085;111;Oriental
+269;HLA-A*11:03;China Yunnan Province Lisu;0.051;111;Oriental
+270;HLA-A*02:07;China Yunnan Province Lisu;0.022;111;Oriental
+271;HLA-A*26:01;China Yunnan Province Lisu;0.022;111;Oriental
+272;HLA-A*02:19;China Yunnan Province Lisu;0.006;111;Oriental
+273;HLA-A*03:01;China Yunnan Province Lisu;0.006;111;Oriental
+274;HLA-A*11:02;China Yunnan Province Lisu;0.006;111;Oriental
+275;HLA-A*24:07;China Yunnan Province Lisu;0.006;111;Oriental
+276;HLA-A*24:46;China Yunnan Province Lisu;0.006;111;Oriental
+277;HLA-A*26:08;China Yunnan Province Lisu;0.006;111;Oriental
+278;HLA-A*24:02;China Yunnan Province Nu;0.114;107;Oriental
+279;HLA-A*02:01;China Yunnan Province Nu;0.089;107;Oriental
+280;HLA-A*02:07;China Yunnan Province Nu;0.082;107;Oriental
+281;HLA-A*11:03;China Yunnan Province Nu;0.038;107;Oriental
+282;HLA-A*03:01;China Yunnan Province Nu;0.025;107;Oriental
+283;HLA-A*32:01;China Yunnan Province Nu;0.006;107;Oriental
+284;HLA-A*26:01;China Yunnan Province Wa;0.029;119;Oriental
+285;HLA-A*02:07;China Yunnan Province Wa;0.008;119;Oriental
+286;HLA-A*24:07;China Yunnan Province Wa;0.008;119;Oriental
+287;HLA-A*33:01;China Yunnan Province Wa;0.008;119;Oriental
+288;HLA-A*11:01;Germany DKMS - China minority;0.1929;1282;Oriental
+289;HLA-A*24:02;Germany DKMS - China minority;0.1446;1282;Oriental
+290;HLA-A*02:01;Germany DKMS - China minority;0.1226;1282;Oriental
+291;HLA-A*02:07;Germany DKMS - China minority;0.0827;1282;Oriental
+292;HLA-A*33:03;Germany DKMS - China minority;0.0764;1282;Oriental
+293;HLA-A*30:01;Germany DKMS - China minority;0.0612;1282;Oriental
+294;HLA-A*02:06;Germany DKMS - China minority;0.0543;1282;Oriental
+295;HLA-A*31:01;Germany DKMS - China minority;0.0381;1282;Oriental
+296;HLA-A*01:01;Germany DKMS - China minority;0.038;1282;Oriental
+297;HLA-A*02:03;Germany DKMS - China minority;0.0335;1282;Oriental
+298;HLA-A*03:01;Germany DKMS - China minority;0.0301;1282;Oriental
+299;HLA-A*26:01;Germany DKMS - China minority;0.0238;1282;Oriental
+300;HLA-A*11:02;Germany DKMS - China minority;0.0211;1282;Oriental
+301;HLA-A*32:01;Germany DKMS - China minority;0.0129;1282;Oriental
+302;HLA-A*29:01;Germany DKMS - China minority;0.0121;1282;Oriental
+303;HLA-A*68:01;Germany DKMS - China minority;0.0099;1282;Oriental
+304;HLA-A*23:01;Germany DKMS - China minority;0.0045;1282;Oriental
+305;HLA-A*02:05;Germany DKMS - China minority;0.0043;1282;Oriental
+306;HLA-A*02:10;Germany DKMS - China minority;0.0039;1282;Oriental
+307;HLA-A*33:01;Germany DKMS - China minority;0.0039;1282;Oriental
+308;HLA-A*03:02;Germany DKMS - China minority;0.0031;1282;Oriental
+309;HLA-A*24:20;Germany DKMS - China minority;0.0027;1282;Oriental
+310;HLA-A*24:03;Germany DKMS - China minority;0.0018;1282;Oriental
+311;HLA-A*24:07;Germany DKMS - China minority;0.0016;1282;Oriental
+312;HLA-A*25:01;Germany DKMS - China minority;0.0016;1282;Oriental
+313;HLA-A*26:20;Germany DKMS - China minority;0.0016;1282;Oriental
+314;HLA-A*24:13;Germany DKMS - China minority;0.0013;1282;Oriental
+315;HLA-A*29:02;Germany DKMS - China minority;0.0014;1282;Oriental
+316;HLA-A*34:01;Germany DKMS - China minority;0.0012;1282;Oriental
+317;HLA-A*02:11;Germany DKMS - China minority;8e-04;1282;Oriental
+318;HLA-A*02:12;Germany DKMS - China minority;8e-04;1282;Oriental
+319;HLA-A*02:93;Germany DKMS - China minority;8e-04;1282;Oriental
+320;HLA-A*24:10;Germany DKMS - China minority;8e-04;1282;Oriental
+321;HLA-A*24:63;Germany DKMS - China minority;8e-04;1282;Oriental
+322;HLA-A*69:01;Germany DKMS - China minority;8e-04;1282;Oriental
+323;HLA-A*02:17;Germany DKMS - China minority;4e-04;1282;Oriental
+324;HLA-A*02:28;Germany DKMS - China minority;4e-04;1282;Oriental
+325;HLA-A*02:48;Germany DKMS - China minority;4e-04;1282;Oriental
+326;HLA-A*02:53N;Germany DKMS - China minority;4e-04;1282;Oriental
+327;HLA-A*02:226N;Germany DKMS - China minority;4e-04;1282;Oriental
+328;HLA-A*03:07;Germany DKMS - China minority;4e-04;1282;Oriental
+329;HLA-A*11:04;Germany DKMS - China minority;4e-04;1282;Oriental
+330;HLA-A*24:04;Germany DKMS - China minority;4e-04;1282;Oriental
+331;HLA-A*24:08;Germany DKMS - China minority;4e-04;1282;Oriental
+332;HLA-A*26:02;Germany DKMS - China minority;4e-04;1282;Oriental
+333;HLA-A*30:02;Germany DKMS - China minority;4e-04;1282;Oriental
+334;HLA-A*30:04;Germany DKMS - China minority;4e-04;1282;Oriental
+335;HLA-A*66:01;Germany DKMS - China minority;4e-04;1282;Oriental
+336;HLA-A*74:01;Germany DKMS - China minority;4e-04;1282;Oriental
+337;HLA-A*24:02;Japan Central;0.379;371;Oriental
+338;HLA-A*02:01;Japan Central;0.115;371;Oriental
+339;HLA-A*33:03;Japan Central;0.097;371;Oriental
+340;HLA-A*11:01;Japan Central;0.082;371;Oriental
+341;HLA-A*26:01;Japan Central;0.081;371;Oriental
+342;HLA-A*02:06;Japan Central;0.077;371;Oriental
+343;HLA-A*26:03;Japan Central;0.024;371;Oriental
+344;HLA-A*26:02;Japan Central;0.023;371;Oriental
+345;HLA-A*02:07;Japan Central;0.022;371;Oriental
+346;HLA-A*01:01;Japan Central;0.009;371;Oriental
+347;HLA-A*02:10;Japan Central;0.007;371;Oriental
+348;HLA-A*03:01;Japan Central;0.004;371;Oriental
+349;HLA-A*02:18;Japan Central;0.001;371;Oriental
+350;HLA-A*03:02;Japan Central;0.001;371;Oriental
+351;HLA-A*11:02;Japan Central;0.001;371;Oriental
+352;HLA-A*24:04;Japan Central;0.001;371;Oriental
+353;HLA-A*26:04;Japan Central;0.001;371;Oriental
+354;HLA-A*26:05;Japan Central;0.001;371;Oriental
+355;HLA-A*30:01;Japan Central;0.001;371;Oriental
+356;HLA-A*24:02;Japan Hokkaido Ainu;0.24;50;Oriental
+357;HLA-A*02:01;Japan Hokkaido Ainu;0.2;50;Oriental
+358;HLA-A*02:06;Japan Hokkaido Ainu;0.2;50;Oriental
+359;HLA-A*26:01;Japan Hokkaido Ainu;0.17;50;Oriental
+360;HLA-A*26:03;Japan Hokkaido Ainu;0.02;50;Oriental
+361;HLA-A*02:07;Japan Hokkaido Ainu;0.01;50;Oriental
+362;HLA-A*11:01;Japan Hokkaido Ainu;0.01;50;Oriental
+363;HLA-A*24:02;Japan pop 3;0.362;1018;Oriental
+364;HLA-A*02:01;Japan pop 3;0.116;1018;Oriental
+365;HLA-A*11:01;Japan pop 3;0.102;1018;Oriental
+366;HLA-A*02:06;Japan pop 3;0.087;1018;Oriental
+367;HLA-A*26:01;Japan pop 3;0.077;1018;Oriental
+368;HLA-A*33:03;Japan pop 3;0.067;1018;Oriental
+369;HLA-A*02:07;Japan pop 3;0.034;1018;Oriental
+370;HLA-A*26:02;Japan pop 3;0.023;1018;Oriental
+371;HLA-A*26:03;Japan pop 3;0.015;1018;Oriental
+372;HLA-A*24:20;Japan pop 3;0.008;1018;Oriental
+373;HLA-A*02:10;Japan pop 3;0.004;1018;Oriental
+374;HLA-A*01:01;Japan pop 3;0.002;1018;Oriental
+375;HLA-A*03:01;Japan pop 3;0.002;1018;Oriental
+376;HLA-A*11:02;Japan pop 3;0.002;1018;Oriental
+377;HLA-A*02:03;Japan pop 3;0.001;1018;Oriental
+378;HLA-A*02:18;Japan pop 3;0.001;1018;Oriental
+379;HLA-A*03:02;Japan pop 3;0.001;1018;Oriental
+380;HLA-A*24:04;Japan pop 3;0.001;1018;Oriental
+381;HLA-A*26:05;Japan pop 3;0.001;1018;Oriental
+382;HLA-A*30:01;Japan pop 3;0.001;1018;Oriental
+383;HLA-A*24:02;Japan pop 5;0.327;117;Oriental
+384;HLA-A*33:03;Japan pop 5;0.128;117;Oriental
+385;HLA-A*11:01;Japan pop 5;0.111;117;Oriental
+386;HLA-A*02:01;Japan pop 5;0.106;117;Oriental
+387;HLA-A*02:06;Japan pop 5;0.084;117;Oriental
+388;HLA-A*26:01;Japan pop 5;0.062;117;Oriental
+389;HLA-A*02:07;Japan pop 5;0.04;117;Oriental
+390;HLA-A*01:01;Japan pop 5;0.018;117;Oriental
+391;HLA-A*26:02;Japan pop 5;0.013;117;Oriental
+392;HLA-A*26:03;Japan pop 5;0.013;117;Oriental
+393;HLA-A*30:01;Japan pop 5;0.004;117;Oriental
+394;HLA-A*11:01;Singapore Chinese;0.265;149;Oriental
+395;HLA-A*02:07;Singapore Chinese;0.131;149;Oriental
+396;HLA-A*02:01;Singapore Chinese;0.104;149;Oriental
+397;HLA-A*33:03;Singapore Chinese;0.101;149;Oriental
+398;HLA-A*02:03;Singapore Chinese;0.067;149;Oriental
+399;HLA-A*02:06;Singapore Chinese;0.04;149;Oriental
+400;HLA-A*11:02;Singapore Chinese;0.03;149;Oriental
+401;HLA-A*26:01;Singapore Chinese;0.02;149;Oriental
+402;HLA-A*30:01;Singapore Chinese;0.013;149;Oriental
+403;HLA-A*24:07;Singapore Chinese;0.01;149;Oriental
+404;HLA-A*29:01;Singapore Chinese;0.01;149;Oriental
+405;HLA-A*03:01;Singapore Chinese;0.007;149;Oriental
+406;HLA-A*32:01;Singapore Chinese;0.007;149;Oriental
+407;HLA-A*01:01;Singapore Chinese;0.003;149;Oriental
+408;HLA-A*02:10;Singapore Chinese;0.003;149;Oriental
+409;HLA-A*24:03;Singapore Chinese;0.003;149;Oriental
+410;HLA-A*24:08;Singapore Chinese;0.003;149;Oriental
+411;HLA-A*24:10;Singapore Chinese;0.003;149;Oriental
+412;HLA-A*34:01;Singapore Chinese;0.003;149;Oriental
+413;HLA-A*24:02;South Korea pop 3;0.217;485;Oriental
+414;HLA-A*02:01;South Korea pop 3;0.165;485;Oriental
+415;HLA-A*33:03;South Korea pop 3;0.163;485;Oriental
+416;HLA-A*11:01;South Korea pop 3;0.108;485;Oriental
+417;HLA-A*02:06;South Korea pop 3;0.071;485;Oriental
+418;HLA-A*26:01;South Korea pop 3;0.06;485;Oriental
+419;HLA-A*30:01;South Korea pop 3;0.035;485;Oriental
+420;HLA-A*02:07;South Korea pop 3;0.03;485;Oriental
+421;HLA-A*30:04;South Korea pop 3;0.019;485;Oriental
+422;HLA-A*01:01;South Korea pop 3;0.018;485;Oriental
+423;HLA-A*03:01;South Korea pop 3;0.018;485;Oriental
+424;HLA-A*26:03;South Korea pop 3;0.01;485;Oriental
+425;HLA-A*29:01;South Korea pop 3;0.01;485;Oriental
+426;HLA-A*02:10;South Korea pop 3;0.006;485;Oriental
+427;HLA-A*26:02;South Korea pop 3;0.006;485;Oriental
+428;HLA-A*02:03;South Korea pop 3;0.005;485;Oriental
+429;HLA-A*32:01;South Korea pop 3;0.003;485;Oriental
+430;HLA-A*03:02;South Korea pop 3;0.002;485;Oriental
+431;HLA-A*68:01;South Korea pop 3;0.001;485;Oriental
+432;HLA-A*11:01;Taiwan Han Chinese;0.326;504;Oriental
+433;HLA-A*24:02;Taiwan Han Chinese;0.158;504;Oriental
+434;HLA-A*33:03;Taiwan Han Chinese;0.118;504;Oriental
+435;HLA-A*02:07;Taiwan Han Chinese;0.112;504;Oriental
+436;HLA-A*02:01;Taiwan Han Chinese;0.092;504;Oriental
+437;HLA-A*02:03;Taiwan Han Chinese;0.064;504;Oriental
+438;HLA-A*31:01;Taiwan Han Chinese;0.028;504;Oriental
+439;HLA-A*02:06;Taiwan Han Chinese;0.027;504;Oriental
+440;HLA-A*26:01;Taiwan Han Chinese;0.024;504;Oriental
+441;HLA-A*30:01;Taiwan Han Chinese;0.012;504;Oriental
+442;HLA-A*03:01;Taiwan Han Chinese;0.006;504;Oriental
+443;HLA-A*24:10;Taiwan Han Chinese;0.005;504;Oriental
+444;HLA-A*32:01;Taiwan Han Chinese;0.005;504;Oriental
+445;HLA-A*01:01;Taiwan Han Chinese;0.004;504;Oriental
+446;HLA-A*68:01;Taiwan Han Chinese;0.004;504;Oriental
+447;HLA-A*29:01;Taiwan Han Chinese;0.003;504;Oriental
+448;HLA-A*01:03;Taiwan Han Chinese;0.002;504;Oriental
+449;HLA-A*24:03;Taiwan Han Chinese;0.002;504;Oriental
+450;HLA-A*24:07;Taiwan Han Chinese;0.002;504;Oriental
+451;HLA-A*74:01;Taiwan Han Chinese;0.002;504;Oriental
+452;HLA-A*03:02;Taiwan Han Chinese;0.001;504;Oriental
+453;HLA-A*26:02;Taiwan Han Chinese;0.001;504;Oriental
+454;HLA-A*34:01;Taiwan Han Chinese;0.001;504;Oriental
+455;HLA-A*69:01;Taiwan Han Chinese;0.001;504;Oriental
+456;HLA-A*11:01;Taiwan pop 2;0.273;364;Oriental
+457;HLA-A*24:02;Taiwan pop 2;0.164;364;Oriental
+458;HLA-A*02:07;Taiwan pop 2;0.138;364;Oriental
+459;HLA-A*02:01;Taiwan pop 2;0.129;364;Oriental
+460;HLA-A*33:03;Taiwan pop 2;0.114;364;Oriental
+461;HLA-A*02:03;Taiwan pop 2;0.056;364;Oriental
+462;HLA-A*30:01;Taiwan pop 2;0.031;364;Oriental
+463;HLA-A*02:06;Taiwan pop 2;0.026;364;Oriental
+464;HLA-A*11:02;Taiwan pop 2;0.026;364;Oriental
+465;HLA-A*26:01;Taiwan pop 2;0.01;364;Oriental
+466;HLA-A*31:01;Taiwan pop 2;0.008;364;Oriental
+467;HLA-A*01:01;Taiwan pop 2;0.006;364;Oriental
+468;HLA-A*02:05;Taiwan pop 2;0.002;364;Oriental
+469;HLA-A*03:01;Taiwan pop 2;0.002;364;Oriental
+470;HLA-A*32:01;Taiwan pop 2;0.002;364;Oriental
+471;HLA-A*02:90;Taiwan pop 2;0.001;364;Oriental
+472;HLA-A*23:01;Taiwan pop 2;0.001;364;Oriental
+473;HLA-A*24:20;Taiwan pop 2;0.001;364;Oriental
+474;HLA-A*29:01;Taiwan pop 2;0.001;364;Oriental
+475;HLA-A*11:01;Taiwan pop 3;0.293;212;Oriental
+476;HLA-A*24:02;Taiwan pop 3;0.179;212;Oriental
+477;HLA-A*02:07;Taiwan pop 3;0.116;212;Oriental
+478;HLA-A*33:03;Taiwan pop 3;0.109;212;Oriental
+479;HLA-A*02:01;Taiwan pop 3;0.099;212;Oriental
+480;HLA-A*02:03;Taiwan pop 3;0.057;212;Oriental
+481;HLA-A*11:02;Taiwan pop 3;0.038;212;Oriental
+482;HLA-A*26:01;Taiwan pop 3;0.035;212;Oriental
+483;HLA-A*02:06;Taiwan pop 3;0.024;212;Oriental
+484;HLA-A*31:01;Taiwan pop 3;0.014;212;Oriental
+485;HLA-A*01:01;Taiwan pop 3;0.012;212;Oriental
+486;HLA-A*30:01;Taiwan pop 3;0.009;212;Oriental
+487;HLA-A*24:07;Taiwan pop 3;0.005;212;Oriental
+488;HLA-A*02:24;Taiwan pop 3;0.002;212;Oriental
+489;HLA-A*24:03;Taiwan pop 3;0.002;212;Oriental
+490;HLA-A*24:10;Taiwan pop 3;0.002;212;Oriental
+491;HLA-A*11:01;Taiwan Tzu Chi Cord Blood Bank;0.275;710;Oriental
+492;HLA-A*24:02;Taiwan Tzu Chi Cord Blood Bank;0.17;710;Oriental
+493;HLA-A*02:01;Taiwan Tzu Chi Cord Blood Bank;0.104;710;Oriental
+494;HLA-A*33:03;Taiwan Tzu Chi Cord Blood Bank;0.104;710;Oriental
+495;HLA-A*02:07;Taiwan Tzu Chi Cord Blood Bank;0.099;710;Oriental
+496;HLA-A*02:03;Taiwan Tzu Chi Cord Blood Bank;0.073;710;Oriental
+497;HLA-A*11:02;Taiwan Tzu Chi Cord Blood Bank;0.059;710;Oriental
+498;HLA-A*02:06;Taiwan Tzu Chi Cord Blood Bank;0.031;710;Oriental
+499;HLA-A*26:01;Taiwan Tzu Chi Cord Blood Bank;0.025;710;Oriental
+500;HLA-A*31:01;Taiwan Tzu Chi Cord Blood Bank;0.018;710;Oriental
+501;HLA-A*30:01;Taiwan Tzu Chi Cord Blood Bank;0.013;710;Oriental
+502;HLA-A*01:01;Taiwan Tzu Chi Cord Blood Bank;0.009;710;Oriental
+503;HLA-A*03:01;Taiwan Tzu Chi Cord Blood Bank;0.005;710;Oriental
+504;HLA-A*24:03;Taiwan Tzu Chi Cord Blood Bank;0.004;710;Oriental
+505;HLA-A*32:01;Taiwan Tzu Chi Cord Blood Bank;0.004;710;Oriental
+506;HLA-A*34:01;Taiwan Tzu Chi Cord Blood Bank;0.002;710;Oriental
+507;HLA-A*24:07;Taiwan Tzu Chi Cord Blood Bank;0.001;710;Oriental
+508;HLA-A*24:10;Taiwan Tzu Chi Cord Blood Bank;0.001;710;Oriental
+509;HLA-A*29:01;Taiwan Tzu Chi Cord Blood Bank;0.001;710;Oriental
+510;HLA-A*68:01;Taiwan Tzu Chi Cord Blood Bank;0.001;710;Oriental
+511;HLA-A*11:01;Vietnam Hanoi Kinh pop 2;0.229;170;Oriental
+512;HLA-A*24:02;Vietnam Hanoi Kinh pop 2;0.138;170;Oriental
+513;HLA-A*33:03;Vietnam Hanoi Kinh pop 2;0.115;170;Oriental
+514;HLA-A*02:07;Vietnam Hanoi Kinh pop 2;0.085;170;Oriental
+515;HLA-A*02:03;Vietnam Hanoi Kinh pop 2;0.079;170;Oriental
+516;HLA-A*29:01;Vietnam Hanoi Kinh pop 2;0.062;170;Oriental
+517;HLA-A*02:06;Vietnam Hanoi Kinh pop 2;0.047;170;Oriental
+518;HLA-A*24:07;Vietnam Hanoi Kinh pop 2;0.044;170;Oriental
+519;HLA-A*01:01;Vietnam Hanoi Kinh pop 2;0.038;170;Oriental
+520;HLA-A*11:02;Vietnam Hanoi Kinh pop 2;0.035;170;Oriental
+521;HLA-A*24:10;Vietnam Hanoi Kinh pop 2;0.024;170;Oriental
+522;HLA-A*02:01;Vietnam Hanoi Kinh pop 2;0.021;170;Oriental
+523;HLA-A*26:01;Vietnam Hanoi Kinh pop 2;0.021;170;Oriental
+524;HLA-A*24:03;Vietnam Hanoi Kinh pop 2;0.015;170;Oriental
+525;HLA-A*68:01;Vietnam Hanoi Kinh pop 2;0.009;170;Oriental
+526;HLA-A*34:01;Vietnam Hanoi Kinh pop 2;0.006;170;Oriental
+527;HLA-A*03:02;Vietnam Hanoi Kinh pop 2;0.003;170;Oriental
+528;HLA-A*11:04;Vietnam Hanoi Kinh pop 2;0.003;170;Oriental
+529;HLA-A*30:01;Vietnam Hanoi Kinh pop 2;0.003;170;Oriental
+530;HLA-A*74:01;Vietnam Hanoi Kinh pop 2;0.003;170;Oriental
+1;HLA-A*32:01;Iran Baloch;0.067;100;Persian
+2;HLA-A*33:03;Iran Baloch;0.056;100;Persian
+3;HLA-A*26:01;Iran Baloch;0.045;100;Persian
+4;HLA-A*24:02;Iran Baloch;0.034;100;Persian
+5;HLA-A*29:01;Iran Baloch;0.028;100;Persian
+6;HLA-A*30:02;Iran Baloch;0.028;100;Persian
+7;HLA-A*33:01;Iran Baloch;0.028;100;Persian
+8;HLA-A*74:01;Iran Baloch;0.028;100;Persian
+9;HLA-A*30:01;Iran Baloch;0.022;100;Persian
+10;HLA-A*02:06;Iran Baloch;0.011;100;Persian
+11;HLA-A*02:09;Iran Baloch;0.011;100;Persian
+12;HLA-A*02:11;Iran Baloch;0.011;100;Persian
+13;HLA-A*23:01;Iran Baloch;0.011;100;Persian
+14;HLA-A*68:02;Iran Baloch;0.011;100;Persian
+15;HLA-A*74:02;Iran Baloch;0.011;100;Persian
+16;HLA-A*01:03;Iran Baloch;0.006;100;Persian
+17;HLA-A*02:04;Iran Baloch;0.006;100;Persian
+18;HLA-A*02:05;Iran Baloch;0.006;100;Persian
+19;HLA-A*02:12;Iran Baloch;0.006;100;Persian
+20;HLA-A*02:24;Iran Baloch;0.006;100;Persian
+21;HLA-A*02:25;Iran Baloch;0.006;100;Persian
+22;HLA-A*02:36;Iran Baloch;0.006;100;Persian
+23;HLA-A*03:02;Iran Baloch;0.006;100;Persian
+24;HLA-A*24:13;Iran Baloch;0.006;100;Persian
+25;HLA-A*24:23;Iran Baloch;0.006;100;Persian
+26;HLA-A*24:27;Iran Baloch;0.006;100;Persian
+27;HLA-A*26:10;Iran Baloch;0.006;100;Persian
+28;HLA-A*29:04;Iran Baloch;0.006;100;Persian
+29;HLA-A*30:04;Iran Baloch;0.006;100;Persian
+30;HLA-A*30:09;Iran Baloch;0.006;100;Persian
+31;HLA-A*66:01;Iran Baloch;0.006;100;Persian
+32;HLA-A*69:01;Iran Baloch;0.006;100;Persian
+33;HLA-A*74:03;Iran Baloch;0.006;100;Persian
+1;HLA-A*24:02;Russia Tuva pop 2;0.215;169;Siberian
+2;HLA-A*02:01;Russia Tuva pop 2;0.143;169;Siberian
+3;HLA-A*11:01;Russia Tuva pop 2;0.087;169;Siberian
+4;HLA-A*33:03;Russia Tuva pop 2;0.071;169;Siberian
+5;HLA-A*02:06;Russia Tuva pop 2;0.069;169;Siberian
+6;HLA-A*03:01;Russia Tuva pop 2;0.069;169;Siberian
+7;HLA-A*01:01;Russia Tuva pop 2;0.066;169;Siberian
+8;HLA-A*26:01;Russia Tuva pop 2;0.045;169;Siberian
+9;HLA-A*23:01;Russia Tuva pop 2;0.029;169;Siberian
+10;HLA-A*32:01;Russia Tuva pop 2;0.021;169;Siberian
+11;HLA-A*02:07;Russia Tuva pop 2;0.016;169;Siberian
+12;HLA-A*02:05;Russia Tuva pop 2;0.008;169;Siberian
+13;HLA-A*02:11;Russia Tuva pop 2;0.005;169;Siberian
+14;HLA-A*02:36;Russia Tuva pop 2;0.005;169;Siberian
+15;HLA-A*24:03;Russia Tuva pop 2;0.005;169;Siberian
+16;HLA-A*01:02;Russia Tuva pop 2;0.003;169;Siberian
+17;HLA-A*02:03;Russia Tuva pop 2;0.003;169;Siberian
+18;HLA-A*02:10;Russia Tuva pop 2;0.003;169;Siberian
+19;HLA-A*02:17;Russia Tuva pop 2;0.003;169;Siberian
+20;HLA-A*02:40;Russia Tuva pop 2;0.003;169;Siberian
+21;HLA-A*03:02;Russia Tuva pop 2;0.003;169;Siberian
+22;HLA-A*24:04;Russia Tuva pop 2;0.003;169;Siberian
+23;HLA-A*25:01;Russia Tuva pop 2;0.003;169;Siberian
+24;HLA-A*26:11N;Russia Tuva pop 2;0.003;169;Siberian
+25;HLA-A*26:12;Russia Tuva pop 2;0.003;169;Siberian
+26;HLA-A*26:18;Russia Tuva pop 2;0.003;169;Siberian
+27;HLA-A*30:01;Russia Tuva pop 2;0.003;169;Siberian
+28;HLA-A*30:08;Russia Tuva pop 2;0.003;169;Siberian
+29;HLA-A*66:01;Russia Tuva pop 2;0.003;169;Siberian
